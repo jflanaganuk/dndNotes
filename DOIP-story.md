@@ -216,13 +216,15 @@ Sasha begins to fade away into the abyss, and Minogar rushes in - his blood boil
 
 Marlade fires his crossbow from distance, and launches an arrow like a bullet straight into the eye of another Goblin, killing it instantly.
 
-Sensing her time is short, Marlade drags Sasha back to the group and Marlade plants his shield in the dirt between her and the remaining Goblin.
+Sensing her time is short, Minogar drags Sasha back to the group and Marlade plants his shield in the dirt between her and the remaining Goblin. 
+
+Lanar rushes in seeing Sasha's condition to stabalise her.
 
 Sasha is still unconscious, but thanks to the other two's tremendous bravery, it looks like she might make it.
 
 The remaining Goblin ponders for a second and sees his accomplices dead on the forest floor, he decides to turn tail and run away.
 
-Still raging, Minogar launches another javelin at the fleeing Goblin. The Goblin manages to run about 10 feet before it lands right through his vital organs and pins him to the ground. The Goblin writhes for a few seconds, then becomes motionless.
+Still raging, Minogar charges through the forest javelin in hand and blood in his eyes for the fleeing Goblin. The Goblin manages to run about 10 feet before it lands right through his vital organs and pins him to the ground. The Goblin writhes for a few seconds, then becomes motionless.
 
 Marlade is tending to Sasha's wounds with his medical kit and manages to just about stabilise her. She gets up slowly, still gravely wounded, but it looks like she has made it and is still alive. For now...
 
