@@ -81,3 +81,4 @@ Behind the bar are the two owners of the establishment, Toblen and his wife Tril
 ```
 Marlade immediately goes to sit with the drunk looking man, possibly due to his clerical nature in wanting to help the sick and down trodden. The other two head over to the bar and speak to Toblen.
 
+
