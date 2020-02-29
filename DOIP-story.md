@@ -218,7 +218,7 @@ Marlade fires his crossbow from distance, and launches an arrow like a bullet st
 
 Sensing her time is short, Minogar drags Sasha back to the group and Marlade plants his shield in the dirt between her and the remaining Goblin. 
 
-Lanar rushe's in seeing Sasha's condition to stabalise her.
+Lanar rushes in seeing Sasha's condition to stabalise her.
 
 Sasha is still unconscious, but thanks to the other two's tremendous bravery, it looks like she might make it.
 
