@@ -1,14 +1,36 @@
+<style>
+.divider {
+    width: 100%;
+    display: block;
+    height: 10px;
+}
+.centre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 100%;
+    text-align: center;
+}
+</style>
+<img 
+  src='https://i.imgur.com/NTxge8a.png' 
+  style='position:absolute; bottom:50px; right:30px; width:580px' />
+<div class="centre">
 # JH Plays Dungeons & Dragons - Season 3
 ## Dragon of Icespire Peak
-### Prelude
+</div>
+\page
+
 <img 
   src='http://i.imgur.com/hMna6G0.png' 
   style='position:absolute; bottom:50px; right:30px; width:280px' />
 
+# Prelude
+
 The sky is dark, and the air is still. 
-
 A fortress stands proud on the side of a mountain, hugging the side as if holding on for dear life, but the structure is sound, secure, it has stood here for eons and won't falter today. 
-
 Inside, Ugor, the Orc blacksmith smashes down his hammer to forge a new blade. No doubt that this honed edge will slay many an enemy in it's day. Randigar and Serlink - both larger Orcs than Ugor - are keeping watch on the crenellations outside of the castle. Today is no different from any other day and Randigar and Serlink are both being complacent in their duties, very few souls even know of this place's existence, let alone will plan to attack it.
 
 Ugor smashes his hammer down again with a thud, its resonant chime echoing through the chilled halls of the fortress. Randigar cracks a joke and Serlink laughs, a wolf's howl is heard in the distance.
@@ -49,7 +71,7 @@ He does have a quest to offer the group, however, and offers it forcefully, bein
 
 He mutters something to himself, forgetting that he is within earshot "Ever since that night when they came...". He realises quickly that he is not alone, "Oh, sorry! Where was I, ignore that, ahem!"
 
-"Hes gone missing, yes, and I need you to search for the poor boy, he must be so scared, out there on his own, poor thing, poor thing. I would ask around the town if I were you, surely someone knows something about where he would have got too. I would do it myself of course, but you know, the old gammy leg playing up again HAHA, the old leg you see"
+"Hes gone missing, yes, and I need you to search for the poor boy, he must be so scared, out there on his own, poor thing, poor thing. I would ask around the town if I were you, surely someone knows something about where he would have got too. I would do it myself of course, but you know, the old gammy leg playing up again <br/>HAHA, the old leg you see"
 \page
 <img 
   src='https://i.imgur.com/rxxVJK3.png' 
@@ -77,8 +99,13 @@ The group are left a little bewildered by that encounter, but decide to carry ou
 Inside the Inn, the heroes are greeted with a warm atmosphere and a cosy decor. There is a man sitting alone nursing a pint and two men further into the Inn engaged in conversation, one of them looking like a knight.
 
 Behind the bar are the two owners of the establishment, Toblen and his wife Trilena, looking at the heroes who have just entered.
+
+Marlade immediately goes to sit with the drunk looking 
+<span style='margin-left: 120px'>man, possibly due to his clerical</span>
+<span style='margin-left: 130px'>nature in wanting to help the sick</span>
+<span style='margin-left: 135px'>and down trodden. The other two</span>
+<span style='margin-left: 135px'>head over to the bar and speak to</span>
+<span style='margin-left: 135px'>Toblen.</span>
 ```
 ```
-Marlade immediately goes to sit with the drunk looking man, possibly due to his clerical nature in wanting to help the sick and down trodden. The other two head over to the bar and speak to Toblen.
-
-
+This
