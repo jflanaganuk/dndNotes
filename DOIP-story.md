@@ -277,7 +277,7 @@ A cold breeze fills the large natural cavern, carrying with it the faint scent o
 
 The group listen and can hear the faint sounds of torture and various magical effects.
 
-Minogaur bravely heads down a corridor to his left on his own, at the end of the corridor he sees two doors, one to his left leading south and one to his right to the north. He decides to listen at the southern door, but cannot hear anything on the other side.
+Minogar bravely heads down a corridor to his left on his own, at the end of the corridor he sees two doors, one to his left leading south and one to his right to the north. He decides to listen at the southern door, but cannot hear anything on the other side.
 
 He then walks over to the northern door, and listens again, inside this room he hears people shouting and what sounds like the same people playing a game involving dice - it sounds like they are merry and one of them has just lost a lot of money.
 
