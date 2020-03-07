@@ -500,7 +500,7 @@ Minogar nods back, and lifts his axe swiftly from the ground, striking the doppe
 
 The barbarian roars loudly and brings the axe back down, severing the head from the body of the doppelganger, it's head rolls along the floor and the body remains still for a second, before slumping into a heap. The head says it's final words and mouths obscenities towards Minogar.
 
-Marlade manages to open the second stone door, this one is much easier than the first, he bursts in and shoots the kneeling in the back. "Gah, I submit! I submit! Please don't kill me!" The mage shouts.
+Marlade manages to open the second stone door, this one is much easier than the first, he bursts in and shoots the kneeling mage in the back. "Gah, I submit! I submit! Please don't kill me!" The mage shouts.
 
 Marlade tells the mage to start talking and to say who he is.
 
