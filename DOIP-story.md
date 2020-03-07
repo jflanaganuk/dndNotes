@@ -13,13 +13,23 @@
     height: 100%;
     text-align: center;
 }
+  .white {
+  color: white !important;
+  text-shadow: 0px 0px 5px black;
+  }
+  h1.white{
+  font-size: 3rem !important;
+  }
+  h2.white{
+  font-size: 2rem !important;
+  }
 </style>
 <img 
-  src='https://i.imgur.com/NTxge8a.png' 
-  style='position:absolute; bottom:50px; right:30px; width:580px' />
+  src='https://media-waterdeep.cursecdn.com/attachments/5/748/cover.jpg' 
+  style='position:absolute; top:0; left:0; height:100%;filter: brightness(80%);' />
 <div class="centre">
-# JH Plays Dungeons & Dragons - Season 3
-## Dragon of Icespire Peak
+  <h1 class="white">JH Plays Dungeons & Dragons - Season 3</h1>
+  <h2 class="white">Dragon of Icespire Peak</h2>
 </div>
 \page
 
@@ -229,3 +239,269 @@ Still raging, Minogar charges through the forest javelin in hand and blood in hi
 Marlade is tending to Sasha's wounds with his medical kit and manages to just about stabilise her. She gets up slowly, still gravely wounded, but it looks like she has made it and is still alive. For now...
 
 The group turn their attention towards the woods, how will they be press on now?
+\page
+<img 
+  src='https://i.ytimg.com/vi/d8YGWNCqjcs/maxresdefault.jpg' 
+  style='position: absolute; left: -200px; top: 0;height: 100%' />
+\page
+
+<img 
+  src='https://media-waterdeep.cursecdn.com/avatars/thumbnails/14/481/1000/1000/636364323106021375.png' 
+  style='position:absolute; top:00px; right:0px; width:280px' />
+<img 
+  src='https://i.pinimg.com/originals/bc/eb/51/bceb510242cddd7e762bfb3d443d0a4d.jpg' 
+  style='position:absolute; bottom:50px; right:100px; width:250px' />
+## Session 02 - 05/03/2020
+### Chapter 4
+##### Cave
+
+The group decide to head towards the cave, but first they check the bodies of the goblins. One of the goblins has a pouch of gold, which the name "Jayon" written on it, presumably stolen. Another has a letter which reads:
+
+<div class='descriptive'>
+Giplin,
+ 
+Take Jogtigs and Pymat and position yourself at the southern most point of Tresendar Woods, do not allow any intruders past this point, lest they find the entrance to our hideout.
+ 
+I do not need to tell you that our operations would be in jeopardy if we were to be found out.
+ 
+Once again, if you let me down once more, the punishment is death... So don't!
+ 
+Iarno
+</div>
+
+Pondering the note, the group pause and look around for more threats, before realising that the letter is addressed to the goblins that they had killed.
+
+Lanar leads the group through the woods north and they arrive at the mouth of the cave, Lanar complains that without a weapon he is defenseless. The group don't really want to arm their captive, but give him one of the goblin's schimitars to shut him up, the group light torches and peer inside.
+
+A cold breeze fills the large natural cavern, carrying with it the faint scent of decaying flesh. A crevasse divides the cavern and is flanked by two rough stone columns that support the twenty foot high ceiling. Two arched wooden bridges span the chasm. There appears to be bones of some description to the east of the chasm, between the two bridges.
+
+The group listen and can hear the faint sounds of torture and various magical effects.
+
+Minogaur bravely heads down a corridor to his left on his own, at the end of the corridor he sees two doors, one to his left leading south and one to his right to the north. He decides to listen at the southern door, but cannot hear anything on the other side.
+
+He then walks over to the northern door, and listens again, inside this room he hears people shouting and what sounds like the same people playing a game involving dice - it sounds like they are merry and one of them has just lost a lot of money.
+
+The rest of the group decide to head a bit further north back in the cave and head down another corridor, also heading left. This corridor also has two doors at the end of it, both pointing north and south. They use Sasha to send messages between themselves and deduce that the southern door for them may link to the door that Minogar is listening too.
+
+The group listen to their door, the one pointing south, and also hear the game being played that Minogar could hear, but louder.
+
+They decide that they should do a pincer movement and both sides prepare to burst through their respective doors with intent to kill whoever is inside.
+
+Minogar bursts into the room and sees<br>
+several worn tables and chairs scattered around<br>
+this large room. Wooden benches are drawn<br>
+up against walls decorated with<br>
+draperies of brown and red, and<br>
+several ale kegs are propped up and<br>
+tapped. Four human figures wearing<br>
+robes of purple and black are gathered<br>
+around one of the tables. A stack of<br>
+coins and trinkets is heaped upon the<br>
+tabletop between them.
+
+He throws a javelin at the<br>
+closest figure and hits him in the<br>
+neck, the human proceeds to bleed<br>
+to death, Minogar also takes his axe<br>
+and slices the head off another in<br>
+a brutal display of barbaric rage.<br>
+The unfortunate human's head<br>
+rolls over to the other two cultists,<br>
+who appear to be drunk and don't<br>
+quite realise what is happening<br>
+yet.
+
+The rest of the group burst<br>
+into the room and Marlade<br>
+puts his crossbow point<br>
+blank to back of the head<br>
+of one of the remaining two cultists. He<br>
+fires but it jams, and he instead whacks the human in the head with the butt of his crossbow.
+
+Lanar lifts his schimitar high above his head and attempts to attack the remaining cultist, but can barely swing it and misses.
+
+Sasha stabs the one that Marlade hit earlier with her longsword and kills him, she then throws a dagger at the other one and hits him right between the eyes, killing him instantly.
+
+The group collect themselves and search the bodies, they hold nothing of value but the game they were playing sure does. It looks like the cultists were playing a game involving betting and there is a lot of money on the table, which the group take.
+\page
+<img 
+  src='https://i.imgur.com/zPPuRib.png' 
+  style='position:absolute; bottom:20px; right:0; width: 420px' />
+
+### Chapter 5
+##### Consequences
+
+After their resounding victory the group are feeling fearless and confident, they head to the door Minogar found to the south, and Sasha listens to it.
+
+She recoils slightly and says she can hear a language being spoken that she cannot understand, and it sounds demonic.
+
+Knowing Abyssal, Marlade puts his ear to the door and hears the following conversation between three people, which he translates to the group:
+
+<div class='descriptive'>
+Person 1: "Why did he capture that boy, he is going to expose the lot of us?"<br>
+Person 2: "Silence, Ionar knows what he is doing, he obviously has plans for that retched scoundrel"<br>
+Person 3: "Yeah, hopefully use him to clean up around here, this place is a mess, or at least sacrafice the insulent whelp, get some use out of him"<br>
+Person 1: "But how can you trust Ionar when he couldn't even keep his old master alive?"<br>
+Person 2: "Nezznar was weak and short sighted, we are much better serving under (unintelliagable demonic words), he will bring the dawn of a new age!"<br>
+Person 1: "I hope you are right, for all our sakes..."
+</div>
+
+Marlade then kicks the door down, miraculously the inhabitants do not notice, he sees a barracks that contains four roughly built wooden bunks. In the centre of the room is a pile of skulls surrounded by dimly lit candles. Four humanoids in hooded cloaks are stood equal distance around the skulls, murmurring under their breath.
+
+Marlade attacks the nearest one, and shoots a bolt at the back of his head, the cultists barely flinches as blood trickles down the back of his neck from the arrow, the cultist slowly turns around and Marlade sees his face, the stench of death fills the room and his horrifying visage is burned into Marlade's mind forever. The cultist's appearance is that of a corpse, his eyes milky white and his jaw dropped slightly on his dark grey wrinkled face, the purple magic eminating from the skull in the centre of the room spirals around the four cultists and almost appears to be propping them up.
+
+The cultist lets out a demonic shout and fires purple lightning from his fingers, hitting Marlade. Marlade is raised up into the air and cannot move an inch.
+
+Sasha then tries to come to Marlade's aid and throws a dagger at the cultist, hitting it in the eye and sticking there. The cultist just tips his head to the side and throws the same purple lightning at Sasha, she takes her longsword and deflects the blast but is knocked backwards.
+
+Another cultists turns towards the elf and also casts the purple lightning, unfortunately, Sasha is not quick enough to deflect again and is suspended in the air, suffering the same fate as Marlade.
+
+Minogar goes into the room and attacks, Lanar sees his oppurtunity and says "I told you they would kill me!" and runs back into the cave, abandoning the party.
+
+The barbarian takes his axe and slams it into the cultist's torso with all his might, it gets lodged into it's torso and the cultist screams demonic noises and launches Minogar into the air with purple lightning. The whole party is now suspended in the air, paralyzed.
+
+The cultist slowly removes all the weapons embedded into his body and throws them to the ground, he begins to speak common - laughing at the party. He hovers over to Marlade, "Your gods can't save you now, cleric!", his speech is gutterall and deep, otherworldly. With a thud he knocks out Marlade and releases him from the spell, the cleric lands in a heap on the floor, out cold.
+
+The demonic cultist then turns to Sasha, "Aren't you a bit far from home, little elf?", and knocks her out same as Marlade. Finally he turns to Minogar, "Big and strong Goliath, where did that get you?", and knocks him out all the same.
+
+All the group can see is blackness, the eternal void. They can hear something though...
+
+They hear gnashing, scraping, the clanging of weapons and demonic screams, they hear sounds of slaughter but also the unmistakeable sound of dragon fire.
+
+Marlade is awoken, not by his own accord but by the figure currently looming over him. As his vision focuses, he sees a Red Dragonborn clad in plate armor kneeling over him, "Are you OK friend?" the Dragonborn asks, his voice harsh but kind.
+
+Marlade sits up and the Dragonborn goes over to Sasha, he places his hand on her chest and Marlade swears he can see his hand glow when he does this, Sasha slowly sits up, dazed and confused.
+
+Finally, the Dragonborn goes to<br>
+Minogar and helps him up, the group<br>
+stand up and dust themselves down.<br>
+They are still in the same room as the<br>
+cultists, but it looks like they met their<br>
+end, they are in pieces scattered<br>
+around the room. The glowing skull<br>
+from earlier is now faintly<br>
+humming pink and there<br>
+appears to be no more<br> magic in the air.
+\page
+<img 
+  src='https://i.imgur.com/TLwo88j.png' 
+  style='position:absolute; bottom:20px; right:0; width: 300px' />
+  
+### Chapter 6
+##### Urzal
+
+The Dragonborn speaks to the party, "Hello, my name is Urzal, Urzal Desecrate - I am a Paladin of the Lord's Alliance. I have been following you since you left Phandalin, you see I have been tasked with finding the leader of these cultists - the Zhentarim - and bringing him to justice for his crimes in Neverwinter. My findings lead me to this hideout and I saw you taking on those Goblins earlier. I must say I was impressed how you handled them, especially you Goliath! It is a good job I was following you, you didn't stand a chance against these four, they were casting a Ritual of Undeath and were effectively immortal. I would advise you to exercise a little more caution when travelling around hideouts or dungeons you aren't familiar with!"
+
+Urzal lets out a hearty laugh, the group decide to stick together with the Paladin, and head north past the other cultists they killed earlier and listen to the northen most door. Urzal hears bubbling coming from the room and is confused but says he feels like he can almost hear the sound of a small boy sobbing. The group exclaim that they are searching for a small boy, and Marlade goes to kick the door in.
+
+Urzal rages and stops Marlade from lurching forward, "What are you doing?! We need to  be more stealthy in this place if we are to be successful! Tyr's sake, how did you get this far in this dungeon doing that?!". The Dragonborn turns back to the door and advises the group open it slowly and peer in, as they can't possibly know what is inside.
+
+Sasha slowly pokes her head in, she sees a room that appears to be a wizard's workshop. There is a large worktable set up with alembics, retorts, distillation coils and other alchemical devices, all of it stewing and bubbling away. Bookshelves are crowded with sheaves of parchment and strange-looking tomes. In the corner of the room is a small cage, with a boy stuffed into it, barely fitting, he is looking down and hasn't noticed the party.
+
+> ##### Urzal the barbarian - or is it paladin now?
+> Urzal was a member of an adventuring party who five years ago set out to find the Lost Mine of Phandelver and recover the Forge of Spells before an evil drow mage named Nezznar could take it for himself.
+> 
+> Back then, he was a Barbarian and often consumed by rage, it appears that since then he has found strength in the light and has taken an oath to become a paladin, although he still carries his trusty two-handed axe named Carn, perhaps his old Barbaric tendencies haven't completely left him after all?
+
+Marlade looks around the alchemy table and pockets some items he think may be of use in the future, Sasha goes over to the boy in the cage, but he is unresponsive with his head down.
+
+She tries to open the cage but as soon as her hand touches the cage, it passes through as though it isn't there, she realises the cage is sealed with a spell, they will have to find the mage that cast it.
+
+The group see a door to another room next to the cage, they start to listen to it, Marlade decides to back track through the dungeon and try and create a pincer situation again.
+
+Minogar listens to the door and can hear two voices, but cannot totally make out what is being said, one is completely foreign to him, but one seems to sound like Lanar...
+
+### Chapter 7
+##### Found
+
+As Marlade heads back into the original cave entrance he tries to cross a chasm in the cave using a rickety bridge, it feels very unstable as he crosses but he makes it to the other side, he then heads north into a store room.
+
+This area is the north end of the large natural cavern, but it has been finished with dressed stone block walls and a flagstone floor. Several barrels are stored against the walls here, along with a number of empty crates, straw for packing, hammers, pry bars, and nails. 
+
+Marlade takes some of the hammers for later and inspects the room, as it appears to be a dead end.
+
+To his left however, he sees light peering through the wall in the shape of a door, it is a secret door made of stone!
+
+The rest of the group are still listening to the other door, and decide to turn the handle to see if it is unlocked. The door is unlocked, but Sasha turning the handle alerts the occupants inside! "Who goes there?" one of them shouts.
+
+With little options left, the group decide to just burst in and try to surprise the occupants. Inside they see a bedchamber walls of which are covered with drapes of scarlet cloth. The furnishings include a small writing desk with matching chair, a comfortable-looking bed, and a wooden chest at the foot of the bed. Standing to their left is a short, dark-bearded human male in robes, he wears a princely mantle of ermine. A beautiful glass staff is in his hands and he is speaking to none other than Lanar.
+
+Lanar's eyes narrow and thinks fast<br>
+"Please save me heroes, this mage<br>
+has me captive!".
+
+Marlade meanwhile, tries to<br>
+open the door he found, but is<br>
+struggling to find the<br>
+strength.
+
+Urzal attacks the mage<br>
+first, but the mage swiftly<br>
+moves out of the way of<br>
+his greataxe, the mage<br>
+casts a spell on himself<br>
+using a staff and he begins<br>
+to glow with a blue aura,<br>
+almost like armour. The<br>
+mage then retaliates by<br>
+casting purple magic missiles at<br>
+Urzal, but they deflect off his<br>
+armour.
+\page
+<img 
+  src='https://i.imgur.com/2TiPWkP.png' 
+  style='position:absolute; bottom:50px; left:30px; width:280px' />
+  
+Minogar then rages and follows up behind Urzal attacking the mage, he lands a decisive hit and the mage reels backwards.
+
+Suddenly, Lanar gets enraged by this and starts to change...
+
+His skin turns dark blue and his eyes become a solid orange, he begins to growl uncontrollably and attacks Minogar with claws. Minogar is able to endure the first swipe thanks to his rock hard endurance afforded to him from his Goliath ancestry, and moves out of the way of the second swipe.
+
+Marlade is still struggling with the stone door, he curses as he can hear his friends engaged in combat inside.
+
+### Chapter 8
+##### Iarno
+
+Urzal slashes at the monstrosity that was once Lanar and shouts "Doppelganger!!" as his axe slashes in the direction of the doppelganger, it lurches backwards and avoids the hit.
+
+Minogar aids Urzal and lands a hit on the doppelganger, it lets out a scream and grabs Minogar and begins brutally slashing with it's claws.
+
+With a thud, Minogar falls to the ground gravely wounded, and unconscious from blood loss. Urzal kneels down, Sasha sees his hand begin to glow as he places it on Minogar's chest. With renewed vigor, Minogar rises again.
+
+Sasha tries to keep the mage busy while this is happening and attacks with her shortsword, mortally wounding him, the mage drops to his knees.
+
+Minogar then swings his axe at the doppelganger once again, slicing his left arm clean off. Sasha follows up and stabs at it's other arm with her dagger, sticking it in it's bicep.
+
+Marlade meanwhile, gets angry at not being able to budge the door and cries out for power from his chosen deity - Savras. Suddenly, he is granted immense strength and shatters the stone door to pieces, he expects to see group but 
+<span style="margin-left: 160px">instead sees another stone</span>
+<span style="margin-left: 160px">wall.</span>
+
+<span style="margin-left: 160px">To his right leading down a</span>
+<span style="margin-left: 160px">staircase, he sees another</span>
+<span style="margin-left: 160px">stone door, he curses and</span>
+<span style="margin-left: 170px">begins to open that one same</span>
+<span style="margin-left: 175px">as before.</span>
+
+<span style="margin-left: 175px">The doppelganger is now</span>
+<span style="margin-left: 175px">foaming at the mouth and</span>
+<span style="margin-left: 180px">lashes out at Minogar with</span>
+<span style="margin-left: 185px"> his lone arm, his claws dig</span>
+<span style="margin-left: 190px"> into the Goliath's flesh</span>
+<span style="margin-left: 195px"> and Minogar lets out a </span>
+<span style="margin-left: 200px">roar. Urzal places his</span>
+<span style="margin-left: 210px"> hand on Minogar's</span>
+<span style="margin-left: 205px"> shoulder and heals the </span>
+<span style="margin-left: 205px">damage, he nods at</span>
+<span style="margin-left: 205px"> Minogar.</span>
+```
+```
+Minogar nods back, and lifts his axe swiftly from the ground, striking the doppelganger, who staggers backwards. The doppelganger taunts the group using Lanar's voice "You wouldn't hurt poor Lanar, now would you? Think of all the fun we had!"
+
+The barbarian roars loudly and brings the axe back down, severing the head from the body of the doppelganger, it's head rolls along the floor and the body remains still for a second, before slumping into a heap. The head says it's final words and mouths obscenities towards Minogar.
+
+Marlade manages to open the second stone door, this one is much easier than the first, he bursts in and shoots the kneeling in the back. "Gah, I submit! I submit! Please don't kill me!" The mage shouts.
+
+Marlade tells the mage to start talking and to say who he is.
+
+"My names, Iarno, Iarno Glasstaff - I will tell you anything, please. As long you spare me, I will tell you, please!"
