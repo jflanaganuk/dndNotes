@@ -1,5 +1,7 @@
 # Story for JH Plays Dungeons & Dragons - Season 3
 ## Dragon of Icespire Peak
+## &
+## Lost Mine of Phandelver (Redo)
 
 The repository to store the still in progress story of the brave adventurers from the far off land of JayHeych.
 
