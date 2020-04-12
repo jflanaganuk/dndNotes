@@ -1,4 +1,19 @@
 <style>
+  .characters {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 40px;
+  padding: 10px;
+  font-size: 1rem;
+  background-color: beige;
+  white-space: nowrap;
+  box-shadow: 5px 5px 5px;
+  text-align: right;
+  }
+  .characters p {
+  padding-bottom: 5px;
+  }
 .divider {
     width: 100%;
     display: block;
@@ -13,13 +28,32 @@
     height: 100%;
     text-align: center;
 }
+  .white {
+  color: white !important;
+  text-shadow: 0px 0px 5px black;
+  }
+  h1.white{
+  font-size: 3rem !important;
+  }
+  h2.white{
+  font-size: 2rem !important;
+  }
+  
+  
 </style>
 <img 
-  src='https://i.imgur.com/lclHXjR.png' 
-  style='position:absolute; bottom:50px; right:30px; width:580px' />
+  src='https://media-waterdeep.cursecdn.com/attachments/2/730/lmopcover.jpg' 
+  style='position:absolute; top:0; right:0; height:100%;filter: brightness(80%);' />
 <div class="centre">
-# JH Plays Dungeons & Dragons - Season 3
-## Lost mine of Phandelver - (Redo)
+  <h1 class="white">JH Plays Dungeons & Dragons - Season 3</h1>
+  <h2 class="white">Lost mine of Phandelver</h2>
+</div>
+<div class="characters">
+  Genris Berevan - Wood-Elf Druid - Baljinder Hayre<br/>
+  Kromnir Ragnulfson - Dwarf Barbarian - Harry Ghazni<br/>
+  Sacralis - Half-Elf Monk - Natalie Dickson<br/>
+  Sung Jin-woo - Human Rogue - Dwayne Codling<br/><br/>
+  Game Master - Joshua Flanagan
 </div>
 \page
 <img 
