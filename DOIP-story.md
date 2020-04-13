@@ -247,10 +247,10 @@ The group turn their attention towards the woods, how will they be press on now?
 
 <img 
   src='https://media-waterdeep.cursecdn.com/avatars/thumbnails/14/481/1000/1000/636364323106021375.png' 
-  style='position:absolute; top:00px; right:0px; width:280px' />
+  style='position:absolute; top:50px; right:-15px; width:280px' />
 <img 
   src='https://i.pinimg.com/originals/bc/eb/51/bceb510242cddd7e762bfb3d443d0a4d.jpg' 
-  style='position:absolute; bottom:50px; right:100px; width:250px' />
+  style='position:absolute; bottom:40px; right:100px; width:235px' />
 ## Session 02 - 05/03/2020
 ### Chapter 4
 ##### Cave
@@ -491,9 +491,9 @@ Marlade meanwhile, gets angry at not being able to budge the door and cries out 
 <span style="margin-left: 195px"> and Minogar lets out a </span>
 <span style="margin-left: 200px">roar. Urzal places his</span>
 <span style="margin-left: 210px"> hand on Minogar's</span>
-<span style="margin-left: 205px"> shoulder and heals the </span>
-<span style="margin-left: 205px">damage, he nods at</span>
-<span style="margin-left: 205px"> Minogar.</span>
+<span style="margin-left: 205px"> shoulder and heals </span>
+<span style="margin-left: 205px"> the damage, he nods</span>
+<span style="margin-left: 205px"> at Minogar.</span>
 ```
 ```
 Minogar nods back, and lifts his axe swiftly from the ground, striking the doppelganger, who staggers backwards. The doppelganger taunts the group using Lanar's voice "You wouldn't hurt poor Lanar, now would you? Think of all the fun we had!"
@@ -505,3 +505,301 @@ Marlade manages to open the second stone door, this one is much easier than the 
 Marlade tells the mage to start talking and to say who he is.
 
 "My names, Iarno, Iarno Glasstaff - I will tell you anything, please. As long you spare me, I will tell you, please!"
+
+## Session 03 - 03/04/2020
+### Chapter 9
+##### Interrogation
+
+The group begin to interogate the mage, Minogar says to start talking.
+
+"What do you want to know?!", Iarno pleads.
+
+Minogar asks the mage who he is working for.
+
+"They call themselves the 'Zhentarim' they wanted a base of operations in Phandalin, so I obliged."
+
+Minogar asks who the Zhentarim are.
+
+"I do not truly know!", Iarno exclaims "They threatened me if I did not cooperate!"
+
+Minogar asks where the Zhentarim are now. Iarno looks confused and says they are in this very hideout, "How have you not come across any before now?!"
+
+Minogar asks if those cultists they met earlier with the skull are Zhentarim.
+
+"They are the Zhentarim 'Undying', they use young boys to keep themselves alive using their lifeforce, if all you saw was a skull, they must have been using that poor soul for a while now..."
+
+Minogar then grows tired of these questions and hits the mage in the face with his pommel. Urzal growls at Minogar and says they should keep him alive for questioning. The goliath moans about having to keep the mage alive and gets the mage to remove his robes. Iarno complies and drops his staff and robes to the floor and stands there in his boxers, shivering. Sasha plays her flute mockingly while the mage undresses.
+
+Marlade shows no remorse and takes the glasstaff and robes for himself.
+
+Minogar asks the mage if there are any Zhentarim left in the hideout. Iarno grows visibly annoyed and says "How can I possibly know that?!". He pauses for a moment and asks, "Well how many have you lot killed so far?".
+
+Marlade ignores the mage's question and changes the subject, he asks if the doppelganger that was Lanar was created by the mage.
+
+"No, he was given to me as an aide to do my bidding... I guess he won't be doing that anymore..."
+\page
+<img 
+  src='https://i.imgur.com/vjgayzQ.png' 
+  style='position:absolute; top:50px; right:0px; width:280px' />
+  
+Marlade asks the mage why he is here, and why he would need the aid of the Zhentarim.
+
+"Many years ago, I used to work for another. His name was Nezznar and he had great plans for this land. He set out to hunt for "the forge of spells" a long forgotten enchanted forge that could empower any weapon. Before he could find it however, a band of adventurers destroyed him, mercilessly... I seek to avenge him and bring him back from the eternal void...". The mage turns to the dragonborn and says, "I'm sure you know this story well... Urzal."
+
+Urzal lowers his head and looks back up at the group, he explains that he was a part of that adventuring group and killed Nezznar, he explains that if Nezznar were to be resurrected, it would not be a good thing for the town.
+
+Marlade turns to Urzal and asks what he plans to do with the mage.
+
+"I will take him back to Neverwinter, to the Hall of Justice to stand before Lord Dagult Neverember for his crimes."
+
+Sasha reminds the group about the boy, and asks the mage if he knows how to release him from the cage. Iarno explains that he is the one who locked the cage, and only he knows the incantation to release the boy.
+
+Minogar notices a chest at the base of the bed in the room they are in, he goes over to it and opens it. Inside, he finds a load of gold and silver, aswell as silk pouch which contains jewels and a lustrious pearl. He investigates the chest further, and sees two parchments at the bottom. He takes them out and looks over them. Both are marked with a green wax seal that says "Property of Neverwinter", one is a scroll of charm person, the other is a scroll of fireball.
+
+He tries to quickly pocket them, but Urzal asks what he has found. Minogar decides to be honest about what he has found, and shows them to the dragonborn. He does try to show it from far away to avoid the dragonborn seeing the mark, but Urzal asks to see them closer.
+
+"Is that the mark of Lord Dagult?!" the dragonborn says, "Ordinarily I would take these back to Neverwinter, but I feel you may need these with time. I will allow you to keep them."
+
+Minogar asks if this means they are stolen, and Urzal replies saying that they must be if this grubby mage managed to get his hands on them.
+
+### Chapter 10
+##### Rescue
+
+Sasha, Minogar and Urzal decide to take Iarno forcefully back into the previous room and free the boy.
+
+Minogar keeps Iarno restrained and Sasha gets Iarno to free the boy from his prison.
+
+"If I free the boy, then I am of no use to you, how do I know you won't just kill me when my use to you has expired?"
+
+Urzal says that his fate will only be decided by Lord Neverember, and he swears they will not harm the mage as long as he is cooperative.
+
+Minogar also says to the mage that he has little options, and to just get on with it. Sasha threatens the mage with her sword, and Iarno goes up to the cage. He touches the cage and it falls away into nothingness. The boy in the cage, still unresponsive falls backwards onto the cold floor.
+
+Sasha runs over and checks the boy. She deduces that he is alive, but not responding to any external stimuli. Urzal says that he believes it is important to get this boy to safety as quick as possible.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+Minogar asks Urzal to try to heal the boy, Urzal goes up to the boy and places his scaly hand on his chest, but quickly withdraws it back. "This seems to be more than just a simple spell..." Urzal says, he looks extremely concerned.
+
+The goliath turns to Iarno and demands to know what is wrong with the boy. "I, I don't know! The Zhentarim cast the spell on him, I only locked him away! I swear!"
+
+Minogar asks the mage if the Zhentarim are doing to the boy what they were doing to the skull in the other room. "I don't believe so," Iarno explains "So far, I have only observed them practicing undeath magic on those recently deceased, as this boy is alive, they can't be as far as I know!"
+
+Urzal now restrains Iarno as Minogar carries the boy, the group rush out of the dungeon as fast as they can.
+
+### Chapter 11
+##### Outside
+
+Meanwhile, Mirazumin, an Elf Ranger is being accompanied by one of the town's guards, Marcus. They have also been asked by the Townmaster - Harbin Wester - to search for the missing boy. Their search has also lead them to the cave entrance, just as the other group come rushing outside.
+
+Minogar sees them approaching and asks what they are doing here, he asks if they are with the enemy. Mira says that he is not associated with this mage at all, and explains that the townmaster asked them to come. Mira turns to the dragonborn and speaks his name, recognising him.
+
+Urzal puts down the mage and laughs, "Mira! Long time no see!". Minogar turns to Urzal and asks if he knows this elf, "Yes, very well!" Urzal says "He helped us to defeat Nezznar back in the day!".
+
+"I knew I recognised you, pitiful elf," Iarno fumes.
+
+Mira says to Urzal that he always used to try and kill his pet, and still hasn't forgiven him for that one.
+
+\page
+
+  
+Urzal approaches Mira's panther - Misty - and pats it's head, giving Mira a wink, "Ah, it was all in good fun" and chuckles to himself.
+
+Minogar notices that during this exchange, another figure has been approaching the group - from a distance it looks like it is in fully clad armour.
+
+The goliath shouts out to the figure to identify itself, and as the figure walks closer they see that it is indeed a knight, and is none other than Justice Keenseeker, the knight they met in the inn earlier.
+
+"Hail heroes, it is I, Justice Keenseeker, I see you have found the missing boy!" Justice laughs, "Urzal, I knew I could count on you!"
+
+"Thank you sir," Urzal bows whilst Minogar sighs and rolls his eyes.
+
+Sasha complains to the knight that she feels the group are missing out on a little credit here.
+
+"Of course, where are my manners!" as Justice hands a note to Minogar, who proceeds to read it in a silly voice and annoys Justice. Minogar says it is revenge for him not letting him finish his pint.
+
+<div class='descriptive'>
+Lord Dagult,
+ 
+I believe I may have solved your "Thundertree" issue.
+ 
+These adventurers have displayed great bravery in the town of Phandalin and I have sent them to your city for you to meet them for yourselves.
+ 
+Signed, Sir Justice Keenseeker
+</div>
+
+"It is a knight's commendation," Justice continues "If you ever find yourselves visiting the great city of Neverwinter, show this to one of the guards and they will take you straight to Lord Dagult, as you have shown great bravery on this day, I believe you are the ones who can help him..."
+
+Sasha pipes up after inspecting the boys condition and warns the group that he still needs to be seen to.
+
+Urzal and Justice advise the group to take the boy back into town to his mother, they proceed to take Iarno away and head back to Neverwinter.
+
+Marlade goes up to the boy and tries to see what magic has affected the boy, he believes the boy has been cursed in some way and that a potion of healing may help.
+
+Sadly, the group do not possess a single one.
+
+Sasha turns to Marcus and asks who he is.
+
+He looks annoyed and says he is the person here to do a job that the group do not seem to have done properly, he also scolds the group for the way they spoke to the knight earlier. He is at least impressed that the boy is still alive at least.
+
+Marlade again tries to heal the boy, but it appears to make his condition worse, Marcus shouts at Marlade saying the machinations of his spell are not doing the boy any good.
+
+Minogar comes in and asks what does Marcus suggest them to do, and Marcus shrugs but says that they need to act quickly, whatever they decide to do. Minogar goes over and picks up the boy, as Sasha is growing weary and the group head back into Phandalin in the direction of the farm.
+```
+```
+### Chapter 12
+##### Qelline
+
+The group arrive back at Alderleaf farm and see the familiar cottage with its red roof, smoke slowly seeping out the chimney. However, the curtains are all drawn and when they try the door they discover it is locked.
+
+Minogar knocks loudly on the wooden frame, shouting that they have the boy and to let them in.
+
+"I don't believe you, go away", a small raspy old ladylike voice cries out from inside. "I've lost my boy, let me grieve in peace."
+
+Sasha goes up to the door and tries to persuade the old woman to let them inside, her kind words resonate with the old woman and she decides to open the door slowly.
+
+As the door opens, Sasha sees nothing before her, confused, she then looks down and sees a small halfling woman standing there with tears down her face. Sasha turns to allow the woman to see Minogar carrying the boy and explains that while they have saved the boy, he is still very unwell.
+
+The group ask who she is, "I am Qelline, Qelline Alderleaf, I am this boy's mother and I run the Alderleaf farm!"
+
+The little woman is initially excited to see her boy once more, but quickly returns to being solemn once realising the state he is in. Sasha asks if the woman has any potions of healing that they could try, and she leaps into action and starts looking around her house for any potions.
+
+She comes back to the group with her head hanging, saying she thought she had some, but alas has none left. "I know!" she shouts, "You could visit Barthen in town, he normally sells potions and what-not!"
+
+The group decide to leave the boy with his mother and head over to Barthen's Provisions.
+
+### Chapter 13
+##### Barthens
+
+Arriving outside they see a rather large building, Barthen's is the biggest tradepost in Phandalin . It's shelfs stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. The place is open from sunup to sundown.
+
+With door being left ajar, the group head inside and see a bald man with a small white beard behind the counter, it is Elmar Barthen, the shopkeeper, he greets them with a hearty hello.
+
+He recognises Marcus and asks how the town guard is doing. Marcus says things could be better but still good, he tells Elmar. He also lets Elmar know they have found the missing boy, but that he appears to be cursed.
+
+\page
+<img 
+  src='https://i.imgur.com/ZX14of0.png' 
+  style='position: absolute; bottom: 50px; right: 0' />
+Minogar asks Elmar to help the group, "I don't how I could be of help im afraid, I know very little about curses," Elmar explains.
+
+Sasha says he can help by selling them a potion of healing, "Ah, yes... well normally I would... but you see... my shipment hasn't arrived. And to be honest, it hasn't arrived for a while now. Normally I get a shipment say, once a week from an old lady who brews them just south of the town at Umbrage hill. But no-one has heard from her for weeks."
+
+The group seem bewildered that an old woman has not been heard from for a while and no-one has done anything about it, but decide to head south to get some potions!
+\page
+<img 
+  src='https://i.pinimg.com/564x/1a/ce/55/1ace5546c2c61dd8610774fdc354e81f.jpg' 
+  style='position: absolute; left: 0px; top: 0;width: 100%' />
+\page
+<img 
+  src='https://i.imgur.com/LYjuuWp.png' 
+  style='position: absolute; bottom: 50px; width: 330px' />
+### Chapter 14
+##### Umbrage
+
+Built on the slope of Umbrage Hill is an old stone windmill surrounded by an iron fence. A large winged monster with a spiky tail is trying to knock down the windmill’s front door. A woman appears in a second-floor window, waves at the group, and yells, “A little help?!”
+
+The group stand well back, the beast has not spotted them yet. Minogar turns to Mira and asks if she knows what it is. He recognises it as a Manticore, a ferocious beast that is strange to be spotted so close to a human settlement, he explains that some are known to speak common and that if they were to attack it chances are it would not end well for them.
+
+<div class="descriptive">
+“Manticores love the taste of human flesh. That’s why, on trips through the mountains, I always travel with human guards.”
+
+— Marthok Uldarr, dwarf copper merchant
+</div>
+
+Marlade nudges Sasha and says she should be the one to talk to the Manticore. The group all move forward and shove Sasha ahead slightly. The manticore stops attacking the door and slowly turns to the group.
+
+The manticore begins to step towards the group and Marcus shouts asking it to leave the door alone. It explains that it needs food and is starving, normally he would just hunt around it's normal habitat but it has been kicked out.
+
+It explains further, that a white dragon came into his lair and made it flee, this is the only piece of food it has found for days.
+
+"I am not a piece of food!" the old woman shouts.
+
+Sasha pleads with the manticore to leave the woman alone and find food somewhere else, "I regret to have to do this, but it is the natural way" the manticore says.
+
+Minogar thinks quickly, he tells the manticore that there are some recently dead goblins near a cave in Phandalin, why not head there?
+
+Slowly, the manticore approaches the goliath. By comparison the goliath - who is usually towering - is made to look quite meek in the manticore's presence. Minogar sees the beast's almost human face as it comes so close as to feel its warm breath on his face. The beast slowly smiles revealing razor sharp teeth of multiple rows.
+```
+```
+Whoosh! The manticore quickly darts to it's right and launches into the air, it's monstrous wings carrying it off into the distance. Minogar unclenches and relaxes. Marcus states to the group the power of asking nicely, as they head inside the windmill to meet the old woman.
+
+Inside, the old woman introduces herself as Adabra, and thanks the group for saving her and says the group can have a reward. The group ask her to help the boy from earlier and that they need a potion of healing from her.
+
+She hobbles over to her desk and opens a drawer, she pulls out six potions and hands one to each member of the party, she gives Sasha a second one,  "For the boy." she says. The group thank the old woman and quickly head back to town.
+
+When they return to the farmhouse, they see that Harbin Wester - the Townmaster - is now also there, looking concerned at the boy. He thanks the heroes for their deeds as Sasha offers the potion to Qelline, the halfling takes the potion and thanks the Elf Bard. She sheepishly offers it to the boy and tips it into his mouth.
+
+The group wait.
+
+And wait.
+
+And wait.
+
+Sadly, nothing appears to happen, the boy remains still.
+
+Harbin pipes up, saying he believes he knows of two potential ways to fix this problem. He explains they could either seek the inventive help of the Gnomes to the south in Gnomengarde, about a days journey or head further north for about five days to Thundertree and seek out an old druid by the name of Reidoth.
+
+The group ponder for a moment and decide to try enlisting the help of the gnomes first, in the hopes they have an invention to remove the curse.
+
+\page
+<img 
+  src='https://images-na.ssl-images-amazon.com/images/I/71fyvsMD%2BzL.jpg' 
+  style='position: absolute; left: 0px; top: 0;width: 100%' />
+\page
+
+### Chapter 15
+##### Gnomengarde
+
+As the group head out of town and south they follow a stream uphill to the base of a mountain, where waterfall erosion has carved out a natural concavity. The roaring waterfall creates a cloud of mist as it plunges into a shallow pool of water, within which rise two small islands covered with two-foot-tall red, green, and purple mushrooms. Several cave openings overlook the pool from rocky ledges twenty to thirty feet above. The mountain blocks any sunlight from reaching this place.
+
+Choosing the eastern most entrance, the group enter into the dwelling. The corridors are dank and Minogar has to slouch slightly to accomodate his large frame. The group turn the first corner they reach to the right.
+
+"WHAM!" the group are scattered as something BIG hits them all and throws them every which way. Stunned the group see a massive behemoth of a tank, complete with four crossbows that has just fired a huge bolt in their direction. A gnome is seen on top piloting the mech, shouting something about destroying a monster, visibly insane.
+
+Quickly, the group rank up and begin to take out each crossbow bolt, working together as best they can. After destroying the first crossbow, Marlade swings at another crossbow, but drops his mace. Fortunately as he goes to pick it up, the crossbow fires and narrowly misses the cleric as he bends over. Marlade realises what has just happened and thanks Savras - his chosen deity.
+
+The group continue to dismantle the machine,
+
+Mira swoops in and attacks the final crossbow slashing it with her two swords, and the machine falls apart.
+
+In the rubble, a female rock gnome is visible, she is currently dazed. Minogar goes over and lifts her up, asking what that was all about.
+
+The gnome gives Minogar a surly look and explains that a few gnomes have mysteriously disappeared recently and it has made her super jumpy. She explains that to her, five unknown large figures just burst into her workshop so she felt she needed to defend herself.
+
+Minogar asks where the leader of the gnomes is. The gnome explains that the king has locked himself away in his quarters since the disappearances started happening, reports from other gnomes say he has gone mad. He asks the gnome what her name is, "Facktore" she replies. Minogar laughs at the name and the gnome grows visibly upset.
+
+The group ask her to lead them to the king, but she refuses, explaining that she needs to carry on with her inventions and that she now suddenly has a lot more work to do now that her mech has been so kindly destroyed.
+
+She at least gives the group directions to the king, explaining that the easiest way is as follows; "Head south, then west, across the bridge, keep heading west - oh, and beware the fans - and the throne room is the western most point of Gnomengarde"
+
+Minogar releases the gnome, but places her on a high shelf so she cant get down.
+
+The group decide now would be a good time to rest, and set up camp in the workshop. Sasha plays the song of rest and the group go to sleep.
+
