@@ -32,7 +32,7 @@
   <h2 class="white">Dragon of Icespire Peak</h2>
 </div>
 \page
-
+<div class='pageNumber auto'></div>
 <img 
   src='https://i.imgur.com/230gIJf.png' 
   style='position:absolute; bottom:50px; right:30px; width:400px' />
@@ -99,7 +99,7 @@ gammy leg playing up<br/>
 again HAHA, the old<br/>
 leg you see"
 \page
-
+<div class='pageNumber auto'></div>
 <img 
   src='http://i.imgur.com/hMna6G0.png' 
   style='position:absolute; bottom:50px; right:30px; width:380px' />
@@ -161,7 +161,7 @@ A seemingly possessed Marlade, looks around frantically on the doorstep of the i
 
 Dragging the reluctant drunk over to the shrine, he notices something odd about the shrine.
 \page
-
+<div class='pageNumber auto'></div>
 <img 
   src='https://i.imgur.com/rxxVJK3.png' 
   style='position:absolute; bottom:50px; left:30px; width:280px' />
@@ -240,12 +240,11 @@ Marlade is tending to Sasha's wounds with his medical kit and manages to just ab
 
 The group turn their attention towards the woods, how will they be press on now?
 \page
-<img 
+<div class='pageNumber auto'></div><img 
   src='https://i.ytimg.com/vi/d8YGWNCqjcs/maxresdefault.jpg' 
   style='position: absolute; left: -200px; top: 0;height: 100%' />
 \page
-
-<img 
+<div class='pageNumber auto'></div><img 
   src='https://media-waterdeep.cursecdn.com/avatars/thumbnails/14/481/1000/1000/636364323106021375.png' 
   style='position:absolute; top:50px; right:-15px; width:280px' />
 <img 
@@ -284,7 +283,8 @@ He then walks over to the northern door, and listens again, inside this room he 
 The rest of the group decide to head a bit further north back in the cave and head down another corridor, also heading left. This corridor also has two doors at the end of it, both pointing north and south. They use Sasha to send messages between themselves and deduce that the southern door for them may link to the door that Minogar is listening too.
 
 The group listen to their door, the one pointing south, and also hear the game being played that Minogar could hear, but louder.
-
+```
+```
 They decide that they should do a pincer movement and both sides prepare to burst through their respective doors with intent to kill whoever is inside.
 
 Minogar bursts into the room and sees<br>
@@ -324,7 +324,7 @@ Sasha stabs the one that Marlade hit earlier with her longsword and kills him, s
 
 The group collect themselves and search the bodies, they hold nothing of value but the game they were playing sure does. It looks like the cultists were playing a game involving betting and there is a lot of money on the table, which the group take.
 \page
-<img 
+<div class='pageNumber auto'></div><img 
   src='https://i.imgur.com/zPPuRib.png' 
   style='position:absolute; bottom:20px; right:0; width: 420px' />
 
@@ -383,7 +383,7 @@ from earlier is now faintly<br>
 humming pink and there<br>
 appears to be no more<br> magic in the air.
 \page
-<img 
+<div class='pageNumber auto'></div><img 
   src='https://i.imgur.com/TLwo88j.png' 
   style='position:absolute; bottom:20px; right:0; width: 300px' />
   
@@ -448,7 +448,7 @@ casting purple magic missiles at<br>
 Urzal, but they deflect off his<br>
 armour.
 \page
-<img 
+<div class='pageNumber auto'></div><img 
   src='https://i.imgur.com/2TiPWkP.png' 
   style='position:absolute; bottom:50px; left:30px; width:280px' />
   
@@ -538,7 +538,7 @@ Marlade ignores the mage's question and changes the subject, he asks if the dopp
 
 "No, he was given to me as an aide to do my bidding... I guess he won't be doing that anymore..."
 \page
-<img 
+<div class='pageNumber auto'></div><img 
   src='https://i.imgur.com/vjgayzQ.png' 
   style='position:absolute; top:50px; right:0px; width:280px' />
   
@@ -628,7 +628,7 @@ Urzal puts down the mage and laughs, "Mira! Long time no see!". Minogar turns to
 Mira says to Urzal that he always used to try and kill his pet, and still hasn't forgiven him for that one.
 
 \page
-
+<div class='pageNumber auto'></div>
   
 Urzal approaches Mira's panther - Misty - and pats it's head, giving Mira a wink, "Ah, it was all in good fun" and chuckles to himself.
 
@@ -702,22 +702,14 @@ Arriving outside they see a rather large building, Barthen's is the biggest trad
 With door being left ajar, the group head inside and see a bald man with a small white beard behind the counter, it is Elmar Barthen, the shopkeeper, he greets them with a hearty hello.
 
 He recognises Marcus and asks how the town guard is doing. Marcus says things could be better but still good, he tells Elmar. He also lets Elmar know they have found the missing boy, but that he appears to be cursed.
-
-\page
-<img 
-  src='https://i.imgur.com/ZX14of0.png' 
-  style='position: absolute; bottom: 50px; right: 0' />
+  
 Minogar asks Elmar to help the group, "I don't how I could be of help im afraid, I know very little about curses," Elmar explains.
 
 Sasha says he can help by selling them a potion of healing, "Ah, yes... well normally I would... but you see... my shipment hasn't arrived. And to be honest, it hasn't arrived for a while now. Normally I get a shipment say, once a week from an old lady who brews them just south of the town at Umbrage hill. But no-one has heard from her for weeks."
 
 The group seem bewildered that an old woman has not been heard from for a while and no-one has done anything about it, but decide to head south to get some potions!
 \page
-<img 
-  src='https://i.pinimg.com/564x/1a/ce/55/1ace5546c2c61dd8610774fdc354e81f.jpg' 
-  style='position: absolute; left: 0px; top: 0;width: 100%' />
-\page
-<img 
+<div class='pageNumber auto'></div><img 
   src='https://i.imgur.com/LYjuuWp.png' 
   style='position: absolute; bottom: 50px; width: 330px' />
 ### Chapter 14
@@ -769,11 +761,14 @@ Harbin pipes up, saying he believes he knows of two potential ways to fix this p
 The group ponder for a moment and decide to try enlisting the help of the gnomes first, in the hopes they have an invention to remove the curse.
 
 \page
-<img 
+<div class='pageNumber auto'></div><img 
   src='https://images-na.ssl-images-amazon.com/images/I/71fyvsMD%2BzL.jpg' 
   style='position: absolute; left: 0px; top: 0;width: 100%' />
 \page
-
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/k5tVg1w.png' 
+  style='position: absolute; left: -20px; bottom: 0px;' />
 ### Chapter 15
 ##### Gnomengarde
 
@@ -791,6 +786,9 @@ Mira swoops in and attacks the final crossbow slashing it with her two swords, a
 
 In the rubble, a female rock gnome is visible, she is currently dazed. Minogar goes over and lifts her up, asking what that was all about.
 
+```
+```
+
 The gnome gives Minogar a surly look and explains that a few gnomes have mysteriously disappeared recently and it has made her super jumpy. She explains that to her, five unknown large figures just burst into her workshop so she felt she needed to defend herself.
 
 Minogar asks where the leader of the gnomes is. The gnome explains that the king has locked himself away in his quarters since the disappearances started happening, reports from other gnomes say he has gone mad. He asks the gnome what her name is, "Facktore" she replies. Minogar laughs at the name and the gnome grows visibly upset.
@@ -801,5 +799,560 @@ She at least gives the group directions to the king, explaining that the easiest
 
 Minogar releases the gnome, but places her on a high shelf so she cant get down.
 
-The group decide now would be a good time to rest, and set up camp in the workshop. Sasha plays the song of rest and the group go to sleep.
+The group decide now would be a good time to rest, and set up camp back outside. Sasha plays the song of rest and the group go to sleep.
+
+## Session 04 - 17/04/2020
+### Chapter 16
+##### Shoes
+
+The group wake up to a new day, fully recharged, Sasha complains that they ended up setting up camp in the water! They decide to resume their exploration where they left off and head back inside to Facktore's workshop.
+
+Arriving in Facktore's workshop they see the familiar destroyed contraption from earlier, but do not see the pesky gnome at all.
+
+They search around the room incase she is hiding, Minogar checks the shelf he left her on from before.
+
+On the shelf is a pair of gnome shoes, where Facktore once stood. Minogar keeps looking around the room and inspects her worktable, he checks underneath but does not see anything. On top of the worktable are some blueprints in gnomish, which he cannot read.
+
+He asks the rest of the group if anyone can read gnomish. Sasha says she can read dwarven, which does share a common alphabet, but is also unable to read it.
+
+Sasha grabs a shoe and takes a closer look, she looks inside and notices the shoes is a bit wet, it is covered in saliva.
+The group realise it seems she has been eaten.
+
+Minogar laughs and says they took her only defence away, but looks concerned.
+
+They press on, and head south to a junction, they can see a room of barrels to the left and a room to the south.
+They head south, and hear a pair of voices.
+
+"Who goes there?" The group look up and see a ledge with two gnomes stood on top of it, pointing two crossbows at the group.
+Minogar tries to tell them that they are friendly.
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/JgRi98S.png' 
+  style='position: absolute; right: -20px; bottom: 10px; height: 540px' />
+  
+"Are you shapechangers? We have orders to kill shapechangers on sight!" the male one asks, the female elbows him in the ribs and says, "We aren't supposed to tell them!", she turns to the group, "Prove you are who you say you are!"
+
+Minogar says to the gnomes that they have already killed a shapechanger before and are actually the perfect candidates to help them.
+
+The gnomes seem perplexed, unsure whether to believe this tale, they ask what this shapechanger looked like. Minogar tells them about how they captured a drunkard named Lanar and took him on their adventures together, they laughed toghether, they cried together, they made promises for each others future together... but ultimately it was a ruse, Lanar was not real. He was a doppelganger manipulating them for it's own gain. It stabbed them in the back, and Minogar will never forget that day. Marlade laughs at the tale.
+
+The male gnome tries to relate saying that yes, its always the ones you least suspect! Next thing you know you are being gobbled up if you arent careful! He continues on to explain that the King has hidden himself away in his chambers since gnomes started vanishing. As far as they know, at least two have gone missing!
+
+Minogar asks what exactly is attacking them, but the gnomes cannot say, anyone who comes across it seems to go missing. Mira then asks why are you so sure its shapechangers?
+
+The gnomes explain that that is their best guess, as no one has seen any monster yet. They go on to ask the group if they have seen anything suspicious?
+
+The group look at one another and aren't sure what to say. "We notice you came from Facktore's workshop, is she ok?" the gnome asks.
+
+Minogar quickly deflects and ask them if they have seen Facktore.
+
+They explain that they last saw her about an hour ago they think, she was muttering something to herself angrily that she is going to have rebuild something. "So, have you guys seen Facktore then?" the gnomes press.
+
+They lie and say they have not.
+
+Mira says they really do need to speak to their king though, "Ah yes, so as we said earlier, the king has locked himself away in his room." the gnomes go on to offer directions to the kings chambers and ask the group to try and negotiate with him to come out.
+
+As they are giving directions they realise that the group are going to get stuck as the gnomes have set a trap that only someone small can disable. The male one offers to go with them and introduces himself as Pog. The other one also says her name is Ulla.
+
+Mira turns to the rest of the group so that the gnomes can't hear and explains that shouldn't they be honest and tell them about Facktore, as it's going to become obvious soon if the gnome comes with them? Minogar says to Mira that surely they are mistaken, and that Facktore is still alive if these guards saw her an hour ago? Mira says how does he know that it didn't happen super recently? Marlade also agrees that it could have happened recently and they should assume the worst.
+
+Minogar turns to the gnomes and swallows, he changes his story from earlier and explains that they infact may have been into Facktore's workshop. But when they went in it was already totally destroyed, they didn't do anything, honest! But they also found her shoes, covered in her saliva, they think...
+
+Ulla says to Pog that perhaps he should check on Facktore first, Pog is scared and asks the group if they would go with him, to which they agree. They head back into Facktore's room.
+
+Pog sees Facktore's shoe on the shelf and reaches up to try and grab it. The gnome struggles for some time before Minogar decides to pass the shoe to him, but dangles it slowly above him first.
+
+Pog grabs it quickly, and gives Minogar a look. He inspects the shoe and says it is definitely Facktore's. He pleads with the group to help the gnomes as they are dropping like flies.
+
+Mira asks Pog if he could take a look at the notes that Minogar tried to read earlier, Pog agrees and looks at Facktore's blueprints. "Rotate this, this goes in here, thats a question mark, gear and lever maybe needed for this bit" Pog says aloud reading what he can.
+
+The group start to converse and try to work out where this monster could be located, they decide that they haven't tried north yet and ask Pog what is north of here. "There is a dining room, then a kitchen, oh and also a place where we store some battle crabs!" Pog also says that during this time of day, the kitchen will be very busy.
+
+Mira asks Pog to take them to the kitchen, Pog does so, and takes them through an empty dining room first, complete with miniature tables and chairs. He explains that as it is early, the dining room is usually empty.
+
+Pog shows them a closed door and says this is the kitchen. He advises them to knock first, as it is likely to be busy.
+\page
+<div class='pageNumber auto'></div>
+### Chapter 17
+##### Kitchen
+
+Marlade says to Pog to go in first, but he refuses saying he doesn't want to be told off by Panana.
+
+Minogar tells the group to stand back, he goes to get ready to kick the door down, but Mira stops him and says that they should just knock first. Minogar relents, and begudgingly agrees to just knock.
+
+They hear a female squeaky voice on the other side, "Who is it?", the voice is agitated. Minogar says they are friends of Facktore. "Facktore? What does Facktore want now?!", the voice grows impatient. Minogar explains that they believe that Facktore has gone missing, the voice cuts him off. "Oh for Nebulun's sake! We are super busy, we have like twenty mouths to feed, can't Facktore wait!?"
+
+> ##### Nebulun
+> Nebulun is the god of invention and luck, gnomes of Gnomengarde have him as their chosen deity. His domain is both Knowledge and Trickery and so his followers can be seen as a little chaotic. His symbol is the Bellows and a lizard tail.
+
+Minogar says they won't be long, they just want to poke their heads in. The voice shouts back into the room, "Turvaround, come here and talk to these idiots!"
+
+Some shuffling is heard and another female voice is heard, different to the first, "Ugh, hello?"
+
+Minogar looks confused but answers the voice, he explains that they have lost Facktore and want to see if she is in there.
+
+"Facktore, not again, she's always causing trouble. She is not in here!!"
+
+Minogar says he thinks she might be dead.
+
+The voice says, "Oh, she had died?" the voice turns back into the room and the group can hear her say, "Uhm, Panana, apparently Facktore, has, died..." The group can hear in the distance the first voice replying back, "Facktore? Facktore has died?" the voice pauses for a second, "Look at how much of a crap i DONT give!! Get back on with the cooking!!"
+
+The voice at the door goes, "Ok" and it speaks through the door once again, "Look, unless you have ingredients or want to help us with preparing the food, we aren't interested. Go away!"
+
+Mira tries to reason with the voice, and says they just want to be quick and take a look, they will be on their way afterwards.
+
+The voice explains that if she did let them in, Panana would be mad. Mira asks who Panana is, and the voice says Panana is the boss, the one the group spoke to first. Minogar laughs and mocks the name.
+
+The voice now appears to be shouting back into the room, "Im trying to get rid of them! They won't go!".
+
+Marlade turns to Minogar and says maybe he had the right plan in the first place. Minogar says right I'm busting this door down! He goes into the door with all his might, the gnome on the other side resists it somewhat but is ultimately beaten and flung from the door. The door swings open and the group see into the kitchen.
+
+This kitchen is furnished with gnomes in mind, so everything is either close to the floor or readily reachable by tugging on an overly complicated rope-and-pulley mechanism. Five rock gnome recluses busy themselves here as a female gnome uses a poker to stoke the fire of a hot iron stove standing against the east wall.
+
+Another uses a complicated press-like contraption to squeeze oil out of a big red mushroom and filter the liquid into four oil flasks.
+
+Another stands atop a low table and uses a mechanical rolling pin contraption to kneed green bread dough. The severed caps of several big green mushrooms are set around her.
+
+A male gnome forms the dough into loaves of green bread, his tongue sticking out as he carefully shapes each loaf like a master sculptor.
+
+Finally, another female gnome is now dazed on the floor, presumably the one holding the door just now. Minogar feels sorry for the gnome but says they won't be long they just want a quick look around. The gnome begrudingly carry on with their work.
+
+Minogar goes to the gnome on the floor and helps her up, he offers her a silver coin. She takes it and says "What was that for?" Minogar apologises to the gnome and says he needs to find Facktore.
+
+The gnome gets annoyed and says, "I already told you! She isn't in here! I know goliaths aren't supposed to be the brighest, but Nebulun help me!! This is ridiculous" as she rubs the back of her head.
+
+Minogar gets annoyed but Marlade puts his hand on his shoulder and winks, explaining that there is a body of water outside if they come to need it.
+
+Minogar inspects the staff in the kitchen and goes up to Panana, he feels that she is infact a gnome. Panana calms down, and levels with the group, she advises them to seek out the two inventors Fibblestib and Dabbledob, as they are the smartest in all of Gnomengarde.
+
+The whole group immediately start laughing at the names of the gnomes. Panana snaps and says that gnomish names are not funny and should be respected. She gets annoyed and snaps at Pog, "Seeing as you seem to be accompanying this group, why not take them to the inventors workshop?"
+
+The group thank Panana, and Marlade heads to the back of the kitchen to the pantry. This room is piled high with small wooden crates. Each contains loaves of green mushroom bread and other foodstuffs collected and kept by the gnomes. He decides that now is not quite the time to be stealing from these gnomes. He says maybe later we shall steal something.
+
+Pog asks Marlade what he just said, Marlade says maybe later we shall eat something. Pog says that later you can eat all the rewards you want! But first you must help us out. Pog realises that it will be up to the king what the adventurers get, "I mean, Ill try my best to convince the King to reward you! I promise!".
+
+Marlade says he will just take Pog if not.
+
+Pog smiles and says it is forbidden to leave Gnomengarde as a gnome!
+
+The group decide to head back south and get pog to lead them, they head back a slightly different way and go past the battle crab room.
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/YaS24cK.png' 
+  style='position: absolute; right: 30px; bottom: 50px; height: 500px' />
+
+### Chapter 18
+##### Ulla
+
+Parked in alcoves in this otherwise empty room are two gnomish contraptions. Each resembles a crab with a barrel for a shell, six articulated metal legs, and a pair of forward-facing pincer claws. A hatch on the top of each barrel opens to reveal an interior compartment equipped with a small, leather-padded seat surrounded by levers, pedals, and gears. The barrels are not airtight.
+
+The gnomes built these crablike contraptions to grip and move other objects, rather like crude forklifts. However, the contraptions are so clumsy that they are useless for delicate work. They are just small enough to navigate Gnomengarde’s 5-foot-wide passageways.
+
+Marlade asks Pog if this room is dangerous, Pog explains that Facktore made these as a defence incase they are ever attacked, they are harmless while no one is piloting them. Marlade asks if any are likely to blow up, Pog assures him that they are safe, and that the chances of them fitting inside are small anyways.
+
+Marlade asks if there is a threat of shapechangers happening right now, why aren't they being used? Pog explains that they have an issue in the tight corridors of turning the crabs around. "But, I hear that Facktore has been working on a much better invention with crossbows and everything! Come, let me show you now!"
+
+Marlade interupts and says he hears the invention is not so good. Sasha goes up an investigates one of the crabs, she thinks that one of them could fit inside, but it would be a squeeze.
+
+The group decide to leave the crabs for now and carry on heading south back to where they met Pog. On the way they pass through Facktore's room and Minogar makes a joke that Facktore should really tidy up the place.
+
+As they approach the room with Ulla, Pog rushes ahead, but they hear him shouting in a panic, "Ulla, Ulla? Where have you gone?"
+
+Pog rushes up to the ledge where she once stood and breaks down, sobbing. The group go up and inspect the area for clues but can't find any. Marlade tries to console Pog, but he comes across as insincere. Mira just says can we go to the inventors workshop already?
+
+Pog looks up snivelling, and explains that the kings orders were for a gnome to always be guarding this spot, and with Ulla being eaten, his duty falls on him to remain here.
+
+Minogar picks up Pog like a baby and cuddles him, saying all will be ok. "Oooh, you are very warm... goliath..." Pog says. Minogar swiftly puts the gnome back down and walks away disgusted. Pog sits there and pouts.
+
+Pog at least says to the group that he can give alternate directions to avoid the trap they have set, and so the group begin to head back out.
+
+To the west, a female gnome comes walking in. Pog looks like he has seen a ghost and starts shouting. "Ulla?! You're alive!!"
+
+"Yes, im alive, whats the problem?" Ulla begins to look confused. "We thought you were dead!" Pog shouts. Sasha says to Ulla that she thought she would have been watching this spot. Ulla explains she just nipped outside to "relieve" herself. 
+
+Sasha explains to Ulla that Pog assumed she had been got by the monster.
+
+"Oh he is so dramatic isnt he!" Ulla says, "I'm surprised you have kept him with you this long, he can be so annoying!"
+"Pog," she continues, "Go and show them to the King's chamber or wherever you were going, let me get back up there."
+
+Mira and Marlade aren't sure and both look closely at Ulla, they think she is normal though. Pog offers to take the group further into Gnomengarde, they head west back into the outside, a rope bridge is before them, the waterfall gushing away to it's left.
+
+### Chapter 19
+##### Inventors
+
+The waterfall plunges 60 feet, its mist lightly obscuring a 35-foot-long rope bridge firmly anchored to 20-foot-high ledges. The bridge looks to be perilous to cross, and sags so that its midpoint is only 15 feet above the water. 
+
+Pog skips across the bridge and turns back to the group, realising they haven't followed him across, "Follow me!" he shouts.
+
+The group cross one by one, they all make it across, Minogar is last to cross. His large goliath frame is probably not going to serve him well here, he thinks.
+
+Pog starts to chant, "Minogar, Minogar!" and the rest of the group do as well. Minogar walks across, and makes it to the other side, breathing heavily. Pog jokes that they have gone the wrong way and need to go back.
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/x9AohMY.png' 
+  style='position: absolute; left: -140px; bottom: 50px;' />
+
+Pog leads them from the bridge back into the mountainside, inside they see a new room. This area is lightly obscured by mist from the waterfall. The larger eastern part of the room contains two rapidly spinning devices that look like turnstiles fitted with stacks of long, sharp blades spaced 1 foot apart. The northern turnstile spins counterclockwise, while the southern one spins clockwise.
+
+Pog scampers off underneath the fans as though they aren't there and disappears around a corner. The group hear a "click" and the fans whir and slow down to a stop. They hear Pog shout its safe and to follow.
+
+The group navigate around the fan blades, their razor sharpness is apparent as they glint in the dim light from the entrance. When the group are all safely past, they ask Pog to turn the fans back on, just in case.
+
+Minogar points to the fans, and says "Facktore?" to Pog. Pog isn't sure what he means, and Minogar clarifies that he is asking if Facktore made these. "Oh no, these were made by the great Fibblestib and Dabbledob! Infact, they are just through here, come, come!" Pog leads the group on.
+
+As the characters approach this area, they overhear an argument in Gnomish between two rock gnome recluses — a male named Fibblestib and a female named Dabbledob. As Gnomengarde’s foremost inventors, they are trying to dream up an invention that will cure King Korboz’s madness. Fibblestib’s proposal is a “sanity ray.” Dabbledob thinks that’s dumb, and wants to build something called a “straitjacket” instead.
+
+The two gnomes hear the group arrive and ask them which invention they believe has more merit, the group decide on "straitjacket". Dabbledob goes to high five Mira for suggesting it, and has to jump to met her palm.
+
+Minogar asks what the hell they are actually talking about, Fibblestib explains that the king has locked himself away, they believe he has lost his mind and are thinking up inventions they could build to restore it.
+
+Sasha asks if they have seen Facktore recently, they say they think they spoke to her last a few days ago, but try to avoid her when they can. The gnomes offer to give them directions to Facktore's workshop, but Sasha says they suspect she has gone missing.
+```
+```
+
+"Not another one!" Dabbledob exclaims. The gnomes explain to the group that they would help the gnomes out to try and prevent the disappearances, but their priority is the king's health right now. Fibblestib says that the King can be really dramatic, but then realises what he said, "Please don't tell him I said that!"
+
+Sasha assures the gnomes they won't say anything, but asks why he is being dramatic. The gnomes believe he has locked himself away after hearing of the disturbances, fearing for his own life. Sasha asks the gnomes if they could arrange a way for them to speak with him, to which the gnomes advise to just knock on his door, they say he is at least speaking to people. But not making much sense.
+
+The group asks where the king is, and Pog offers to guide them. Marlade realises that these could be the inventors that the Townmaster wanted them to find, Sasha says before they go and see the king, would the inventors be able to help them?
+
+She tells them of the cursed boy and if they know a way to cure it? The inventors say certainly and ask her to describe the curse. Marlade says that the curse responds to healing in an inverse fashion and seems to do damage.
+
+The gnomes whisper amongst themselves for a moment and then face the group looking like they have solved it.
+
+"Have you tried..." Fibblestib says slowly, "A potion... of healing?"
+
+The group tell him that they have tried that and it doesnt work. His face quickly drops, "Oh. Well erm..." The gnomes talk amongst themselves again, a bit more energised. The group hear them mutter, that could work, that wont work, we could try, there is only one way to know!
+
+The gnomes turn again, they say they know what invention to build and will help the group after they have helped them with the king.
+
+The group follow Pog north from the workshop to the king's chambers
+
+### Chapter 20
+##### Korboz
+
+The group arrive at a door, this one different to the ones they have seen so far in Gnomengarde, this one has a regal quality to it. It's crafting ornate, and the colour of which is a deep scarlet with gold trimmings.
+
+They bicker amongst themselves as to whether they should knock again or just kick it down. Mira says she wants to just knock, but Marlade and Minogar want to just drag the king out and throw him infront of the inventors. Minogar asks everyone to stand back as he prepares to knock down the door.
+
+"Please don't do that!" Pog pleads with Minogar, "I will get in trouble!"
+Minogar just tells Pog to wear a fake mustache and all will be fine. Pog takes this as his queue to run away, he does not want to risk it.
+
+Before Minogar can kick the door down, Mira insists they just knock and stops him. He goes up to the door and knocks himself. He hears a strange voice on the other side, "Whooo iisss ittt??". The voice sounds unhinged and crazy.
+
+Mira says they are here to save you.
+
+"My fwends have come to saaavveee meee have theyyyy??" the voice pauses and shouts, "Nice try! But im not opening that door!"
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/fdZTrDn.png' 
+  style='position: absolute; right: -40px; bottom: 0px;' />
+
+"I'm gonna keep my Gnerlki safe with meeee"
+
+Mira tries again, and says they are just trying to help.
+
+"I bet you are," the voice says, "I bet you are trying to help me be... conssuuuuummmeeeddd..."
+
+Mira starts to get annoyed and asks why he would lock himself away while gnomes are being killed.
+
+"Its the only way to be safe, Its the only way to be safe", the voice keeps repeating. Mira says he understands but they are trying to help.
+
+"SHUSH GNERKLI, they can't hear you!" the voice shouts. The group hear a muffled voice in the background of the room.
+
+"Lock myself away, its the only way to be safe, Lock myself away, its the only way to be safe" the voice starts repeating again.
+
+Mira turns to Minogar and says ok kick the door down.
+
+Sasha mentions that have they even checked if the door is locked, so they check.
+
+Its locked.
+
+The group stands back and Minogar prepares to rush forwards to kick the door. Sasha starts to play her flute to inspire Minogar.
+
+"Muuuusssiiccc, i hear muuuussssiiiccc" the voice says.
+
+Minogar slams into the door with all his might and tries to kick it in, but the door is too sturdy and barely moves. He damages his foot.
+
+Marlade decides that now is the time.
+
+He is also unsuccessful and hurts his foot on the door also.
+
+Minogar sighs and decides to knock again.
+
+"Knocking! Knocking! Why always knocccckkkkiiiinnnnggggg?" the voice shouts.
+
+Minogar goes close to the door, and professes his love for the king infront of everyone in an attempt to get him to open the door. He says he has many trinkets and gifts for the king, he runs his fingers across the door and hopes he can return his love.
+
+There is no response.
+
+Minogar sighs and levels with the king, he says he knows they have an issue with a shapechanger and that they have killed these before and genuinely here to help. Minogar listens closely to the door to try and hear his response but it sounds like the king left long ago, and is further back in the room shouting at whoever he has captive. The king hadn't been listening.
+
+Left with little option, the group head back to the inventors. On the way they see a door that they hadnt been through, as Pog was no longer with them, they decide to enter.
+
+The door is unlocked and leads to the room with the inventors inside, but on a ledge further up. The only thing of note up here is a pedastal that has a closed book on it.
+
+The title is written in gnomish but in brackets underneath in common it reads "Magick of Gnomengarde".
+
+Minogar reads the spells, then attempts to take the book, however the book explodes and he is sent flying backwards. He picks himself up and dusts himself down, then the group carry on back to the inventors.
+
+"Ah, did you speak to the king?" Dabbledob asks, she also mentions she saw Pog running through earlier, crying.
+
+Minogar says not to worry about Pog, he is always crying, but if they see him with a mustache, they should send him their way.
+
+He also mentions to the inventors that they didn't have much luck with the king.
+
+The gnomes hear this and say they did warn the group he had gone insane.
+
+The group ask the gnomes about a potential other person in that room, they think they heard?
+
+The inventors explain that that is likely Gnerkli, the other King. Korboz has hidden him in his room to keep him "safe".
+
+Mira asks if they have any explosives. The gnomes say Facktore would have been the best person to ask about that, she makes all the weaponised inventions. They go on to say that their inventions are way more sophisticated, but strictly non-militant, so can't really help the group here.
+
+Minogar doesn't buy their claim that their inventions are superior and mentions he thinks that that "straitjacket" idea earlier was stupid. He asks if they have any idea of any leads at all to find this monster?
+
+The gnomes explain that the first two people to go missing both worked in the storeroom, they say it is a room full of barrels near Facktore's workshop. Mira asks when this all first started, "Ah, about a tenday ago," Fibblestib says.
+
+The group decide their best shot is to head back to Facktore's room and try to find the barrel room.
+
+### Chapter 21
+##### Hunt
+
+Leaving the inventor's workshop, the group once again enter the room with the fans, which are still spinning from earlier. They hit the switch to turn them off and proceed through.
+
+Sasha casts Mage Hand and uses it to flick on the switch again, the fans start spinning again.
+
+She tries to bring the hand back to her, but it fizzles away as soon as it returns.
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/zoQG8Af.png' 
+  style='position: absolute; right: -40px; bottom: 0px;' />
+> ##### Mage Hand
+> A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+>
+>You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+>
+>The hand can't attack, activate magic items, or carry more than 10 pounds.
+
+They arrive at the rope bridge again, Minogar panics and bolts it across the bridge. The rest of the group follow normally.
+
+Once again, they find themselves in the room with the gnome guards, Pog has returned to Ulla and they are both stood atop the ledge.
+
+"Any luck?" Ulla asks
+
+The group continue on but mention to Ulla that they think they now know where the monster is.
+
+They come to a fork where one side leads back to Facktore's workshop, the other leads to a room that has barrels in it, the group head in.
+
+This room contains twelve forty-gallon barrels set into wide alcoves. Each barrel is secured by a wooden brace. The barrels in the south alcove have been tapped with wooden spigots. Two of those barrels are half full, and two are nearly empty.
+
+The group split up and begin to investigate all the barrels.
+
+It seems that the barrels are all looking to be normal, but Mira goes to one in the far corner and taps it with his hand.
+
+Suddenly the barrel begins to morph and a purple tendril forms and tries to grab him, but his reflexes are sharp and he leaps back to avoid it. The tendril starts to flail about and the barrel continues to morph. It sprouts multiple eyes and a gaping maw for a mouth with razor sharp teeth, smiles at the group.
+
+Mira rushes forwards and slashes at it with both of his swords.
+
+In the panic however, he misses with both swipes and the beast - the mimic - once again tries to grab him. It succeeds and wraps its long pseudopod around him and constricts. Mira screams in pain.
+
+Minogar draws his greataxe and rushes forward, he slips on a puddle of wine on the floor and goes crashing into another set of barrels. Some of the wine from the barrels starts to drip into his open mouth.
+
+Marlade loads his crossbow and fires at the mimic, hitting it in it's eye. The mimic screams out in agony but keeps its grip on Mira.
+
+Sasha moves closer to the fray and throws a dagger at the beast, but sadly misses and hits the wall behind it. She then decides to take out her flute and boost the morale of the group.
+
+Mira hears the tune and with new found vigor, attacks at the mimic with her swords, making contact this time and leaving the creature looking rather bloody.
+
+The creature is persistent though and remains in control of Mira, it lunges forwards and tries to bite. But Mira is able to push it back and avoid being bitten.
+
+Minogar picks himself up, and takes another swig of wine. He swings his greataxe into the monsters bulbous flesh and the monster squeals. The purple flesh bounces against the axe but he is able to create a decent tear.
+
+Marlade casts guiding bolt at the creature, as four bolts of light are summoned and smash into the mimic, dazing it.
+
+After this act, the monster calms down and releases Mira. It starts to murmur in common, "ssstttooppp, pleeeasssee" it hisses.
+
+The group initially lower their weapons, and look at each other confused. Sasha casts blade ward on herself to increase her defence just incase.
+
+Mira looks over at the mimic and asks who it is, and if it knows whats happening to the gnomes.
+
+The mimic licks its lips and says "Of course, I know whats happening to the gnomes, they're delicous!".
+
+Mira realises the mimic is the one who is eating them.
+
+"Initially they were tough, with not much meat, but i've grown quite a taste for them!"
+
+Mira goes on to ask why gnomes though?
+
+"Normally, I wouldn't even eat gnomes but ive been forced to relocate"
+
+Mira asks who sent the mimic here.
+
+"Nobody sent me here, I was driven out, it was that darn dragon, I had to run and hide in this cave as it flew around overhead, and as i was hiding, this little gnome came wandering in looking for wine. So i gobbled him up! Easy pickings i say."
+
+Mira asks what the creature would normally eat instead of gnomes.
+
+"Normally... adventurers... like you" the mimic gives them a toothy grin.
+\page
+<div class='pageNumber auto'></div>
+
+Minogar then asks the mimic why should they keep it alive in that case?
+
+"If you let me live, I swear, I will leave this place and never return."
+
+> ##### Mimic
+Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
+>
+><div class="descriptive">“Sometimes a chest is just a chest, but don’t bet on it.”
+>
+> — X the Mystic’s 3rd rule of dungeon survival</div>
+
+Mira and Minogar look at each other and both shake their heads, Minogar turns to the mimic and says it is gonna have to better than that.
+
+"Is that so," the mimic ponders for a second.
+
+Realising it has no choice, it begins to fight to the death and lunges once again at Mira.
+
+Mira slashes with her sword reactively, and the beast squeals out in pain and begins to melt. It slowly becomes a purple puddle on the floor before slowly seeping into the stone and leaving a dark mark where it once stood.
+
+Minogar goes over to the puddle and inspects it, there are multiple bones and bits of skeleton. He sees a small skull and picks it up, presumably Facktore's skull. He decides to take it with him.
+
+The group decide now is the time to tell the king what they know.
+
+### Chapter 22
+##### Aftermath
+
+On the way back to the inventors, they once again pass the two guards.
+
+"I heard a lot of commotion," Ulla says, "Are you guys alright?"
+
+Minogar says they found the monster, turns out it was a mimic that had been eating all the gnomes and it was hiding in the barrel room.
+
+"Of course Pog!", Ulla shouts, "It was in the storeroom! Thats where they both worked, Orryn and Warryn! They worked in the storeroom!"
+
+Minogar says they still need to get an audience with the king to tell him its safe.
+
+Mira says they have Facktore's skull but are unsure if thats enough to prove it to the king.
+
+The guards decide to tell the group about a hidden passage in the rear of the throne room that will take them straight into the king's bedchamber. They tell the group that to get to the throne room the must head once again to the inventor's workshop and head as west as far as they can.
+
+The group continue on, they cross the rope bridge and stand outside the room with the fans. Sasha once again casts mage hand to disable the fans. But as she casts her spell, large butterfly wings also sprout from her back. She turns around confused, as she had not intended to also do that?
+
+With the fans disabled, the group head through into the inventors room.
+
+"How did it go?" Fibblestib asks before realising what has happened to Sasha. Both gnomes suddenly burst into laughter.
+
+"Ahaha, you must have cast a spell didn't you?"
+
+Sasha asks if they like her new wings.
+
+The gnomes explain that Gnomengarde was built in a magical place and its walls are coursing with wild magic.
+
+> ##### Wild Magic
+> Wild magic is a kind of magic that can’t be controlled, and Gnomengarde has long been a source of it. When a creature anywhere in Gnomengarde map casts a spell, an additional effect might occur.
+
+Sasha explains that they found Facktore, but not in the way they wanted too, as Minogar shows them the skull.
+
+The gnomes recoil in fear and ask if the group did that. The group reply no and that it was a mimic that ate her, and that they have defeated the beast.
+
+"Ah, thats probably what caused the king to go mad, I bet some object morphed and attacked him, and thats why he doesnt trust anyone!"
+
+The gnomes point the group in the direction of the throne room, and the group arrive at two shut large wooden doors, with a wooden beam closing them.
+
+Marlade lifts off the wooden beam and the group slowly open the door.
+
+The room is not lit at all, so Minogar lights a torch.
+
+The throne room is the biggest room they have seen here so far, but is mostly empty, towards the back situated atop a stone dais are two squat thrones made of scrap metal and sized for gnomes. 
+
+The group move over behind the thrones and inspect the back wall. Sasha sees the outline of what appears to be a secret door.
+
+Marlade sweats.
+
+Marlade goes up to the door and takes a deep breath, it opens no problem.
+
+Minogar leads the way with his torch into the dark corridor, it appears to lead to a dead end, but they see light seeping through some cracks and realise it is another secret door, they open it and enter.
+
+They see an extremely well furnished room, this is clearly the domain of someone very important. However, everything that could be counted as furniture is pushed up against the main door to this room.
+
+In the centre they see two gnomes, both wearing crowns. One is staring at the group in horror, the other is tied to a chair with a sock in his mouth.
+
+Sasha speaks to the gnome who is stood up, who they believe to be King Korboz.
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/2RxIuw8.png' 
+  style='position: absolute; right: 0px; bottom: 0px;' />
+
+She says they have found who has been killing the gnomes and that they have proof.
+
+"Proof! Proof? You say you have proof! Gnomes have been killed" Korboz rambles.
+
+Korboz freezes for a moment, and it appears that he has become more lucid.
+
+His demeanor changes and he starts to sound more regal and calm.
+
+"You found the monster did you? Its all over?"
+
+Sasha explains the incident with the mimic.
+
+"Ah, that explains everything," he turns to the other king in the chair, "Gnerkli, it was a mimic."
+
+Gnerkli tries to say something, but the sock muffles it. Korboz goes over to the chair and remove the sock from Gnerkli's mouth, he takes out a vial and drips it onto what appears to be glue holding Gnerkli to the chair. Gnerkli gets up and thanks the adventurers.
+
+Sasha asks who this person is who was tied to the chair, the kings explain that they rule together and introduce themselves properly.
+
+The group ask Korboz why he tied the other king to the chair, and Korboz explains that it was for his own protection. The group seem concerned about his methods, but carry on.
+
+Gnerkli gives the group a look as if to say "help me" but is smiling on the outside.
+
+Minogar kneels down to Gnerkli and asks if he is ok. Gnerkli says he will be fine, and offers them a reward for their troubles.
+
+Mira explains about the cursed boy that they need to save, Gnerkli says that their best inventors should be able to help them. Mira tells the king that they wont help until they know you are ok.
+
+Minogar also pipes up and says what about if the reward is treasure instead? Korboz says, "Of course, if it is treasure you covet, you may have that instead."
+
+The group decide that it would be best to save the boy. Korboz smiles and says you can have both.
+
+Gnerkli leads the group into the treasure room, he unlocks the door and the group goes inside. The room contains a jumble of nonfunctional gnomish gizmos, as well as loose gears, twisted bits of metal, and other scraps that the gnomes use to cobble together new inventions.
+
+Gnerkli pulls out an amulet from the pile and gives it to Mira, he pulls out a pole and shows that it can retract and expand on command and hands it to Minogar.
+
+The group thank the king but seem disappointed. The gnome king laughs and says he will stop messing with them, he pulls out a chest and gives the group 250 gold pieces to split amongst them. The group then head back to the inventors with Gnerkli to explain that the king is well and to get their invention made.
+
+Fibblestib and Dabbledob see their king alive and well, and ask the group what they needed making again. Sasha reminds them about the cursed boy and the inventors turn to their workstation and start banging and whirring and swearing.
+
+"Ahah!" they turn around and give a gizmo that they hand to Mira, it has a gem on top with 4 legs and a big button that says "Press Here".
+
+Minogar looks at the invention and asks if they can write the instructions in Giant. "Right away" the gnomes excitadly say, and begin to engrave.
+
+"Errm, what is giant for 'Press Here'?"
+
+Minogar spells it out and they oblige. He looks delighted at the new message (which secretly says 'Nipple Juice') but he isn't going to tell anyone.
+
+The group now decide now is the time to head back to Phandalin with their invention, the wave goodbye and head out of the inventors room. This time they head north into a new room they havent been in yet.
+
+The floor of this cave is strewn with the remnants of old campfires. Four side caves serve as sleeping areas, with five small wooden cots crammed into each one. Eight rock gnome recluses sleep soundly here with two gnomes in each side cave.
+
+The group attempt to quietly sneak past to the other exit that leads outside, but Marlade shouts to find out why the rest of the group are sneaking.
+
+"Whats all the shouting?" one of the gnomes rises up from his slumber and says, rubbing her eyes.
+
+Minogar just says they are on their way out.
+
+The half asleep gnome just says "Ah ok, carry on then" probably still dreaming and slams back to sleep once again.
+
+The group exit the room and are now on a 30 foot ledge above the waters they saw when they entered the area. Sasha decides to try out her new butterfly wings and grabs Mira and they both flutter gently down to the ground.
+
+Minogar ties Marlade with some rope and gently lowers him down the ledge. The goliath then slides down the ledge no problem.
+
+The group begin to walk back to Phandalin and turn around and look once more at Gnomengarde, and thinking about the adventure they had here.
+
+As the group leave the place, Sasha wings begin to fade as the wild magic wears off...
 
