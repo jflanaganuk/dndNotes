@@ -1,3 +1,4 @@
+
 <style>
 .divider {
     width: 100%;
@@ -240,11 +241,13 @@ Marlade is tending to Sasha's wounds with his medical kit and manages to just ab
 
 The group turn their attention towards the woods, how will they be press on now?
 \page
-<div class='pageNumber auto'></div><img 
+<div class='pageNumber auto'></div>
+<img 
   src='https://i.ytimg.com/vi/d8YGWNCqjcs/maxresdefault.jpg' 
   style='position: absolute; left: -200px; top: 0;height: 100%' />
 \page
-<div class='pageNumber auto'></div><img 
+<div class='pageNumber auto'></div>
+<img 
   src='https://media-waterdeep.cursecdn.com/avatars/thumbnails/14/481/1000/1000/636364323106021375.png' 
   style='position:absolute; top:50px; right:-15px; width:280px' />
 <img 
@@ -324,7 +327,8 @@ Sasha stabs the one that Marlade hit earlier with her longsword and kills him, s
 
 The group collect themselves and search the bodies, they hold nothing of value but the game they were playing sure does. It looks like the cultists were playing a game involving betting and there is a lot of money on the table, which the group take.
 \page
-<div class='pageNumber auto'></div><img 
+<div class='pageNumber auto'></div>
+<img 
   src='https://i.imgur.com/zPPuRib.png' 
   style='position:absolute; bottom:20px; right:0; width: 420px' />
 
@@ -339,9 +343,9 @@ Knowing Abyssal, Marlade puts his ear to the door and hears the following conver
 
 <div class='descriptive'>
 Person 1: "Why did he capture that boy, he is going to expose the lot of us?"<br>
-Person 2: "Silence, Ionar knows what he is doing, he obviously has plans for that retched scoundrel"<br>
+Person 2: "Silence, Iarno knows what he is doing, he obviously has plans for that retched scoundrel"<br>
 Person 3: "Yeah, hopefully use him to clean up around here, this place is a mess, or at least sacrafice the insulent whelp, get some use out of him"<br>
-Person 1: "But how can you trust Ionar when he couldn't even keep his old master alive?"<br>
+Person 1: "But how can you trust Iarno when he couldn't even keep his old master alive?"<br>
 Person 2: "Nezznar was weak and short sighted, we are much better serving under (unintelliagable demonic words), he will bring the dawn of a new age!"<br>
 Person 1: "I hope you are right, for all our sakes..."
 </div>
@@ -383,7 +387,8 @@ from earlier is now faintly<br>
 humming pink and there<br>
 appears to be no more<br> magic in the air.
 \page
-<div class='pageNumber auto'></div><img 
+<div class='pageNumber auto'></div>
+<img 
   src='https://i.imgur.com/TLwo88j.png' 
   style='position:absolute; bottom:20px; right:0; width: 300px' />
   
@@ -448,7 +453,8 @@ casting purple magic missiles at<br>
 Urzal, but they deflect off his<br>
 armour.
 \page
-<div class='pageNumber auto'></div><img 
+<div class='pageNumber auto'></div>
+<img 
   src='https://i.imgur.com/2TiPWkP.png' 
   style='position:absolute; bottom:50px; left:30px; width:280px' />
   
@@ -538,9 +544,10 @@ Marlade ignores the mage's question and changes the subject, he asks if the dopp
 
 "No, he was given to me as an aide to do my bidding... I guess he won't be doing that anymore..."
 \page
-<div class='pageNumber auto'></div><img 
+<div class='pageNumber auto'></div>
+<img 
   src='https://i.imgur.com/vjgayzQ.png' 
-  style='position:absolute; top:50px; right:0px; width:280px' />
+  style='position:absolute; top:30px; right:0px; width:280px' />
   
 Marlade asks the mage why he is here, and why he would need the aid of the Zhentarim.
 
@@ -577,6 +584,14 @@ Minogar also says to the mage that he has little options, and to just get on wit
 
 Sasha runs over and checks the boy. She deduces that he is alive, but not responding to any external stimuli. Urzal says that he believes it is important to get this boy to safety as quick as possible.
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -709,7 +724,8 @@ Sasha says he can help by selling them a potion of healing, "Ah, yes... well nor
 
 The group seem bewildered that an old woman has not been heard from for a while and no-one has done anything about it, but decide to head south to get some potions!
 \page
-<div class='pageNumber auto'></div><img 
+<div class='pageNumber auto'></div>
+<img 
   src='https://i.imgur.com/LYjuuWp.png' 
   style='position: absolute; bottom: 50px; width: 330px' />
 ### Chapter 14
@@ -761,7 +777,8 @@ Harbin pipes up, saying he believes he knows of two potential ways to fix this p
 The group ponder for a moment and decide to try enlisting the help of the gnomes first, in the hopes they have an invention to remove the curse.
 
 \page
-<div class='pageNumber auto'></div><img 
+<div class='pageNumber auto'></div>
+<img 
   src='https://images-na.ssl-images-amazon.com/images/I/71fyvsMD%2BzL.jpg' 
   style='position: absolute; left: 0px; top: 0;width: 100%' />
 \page
@@ -1355,4 +1372,811 @@ Minogar ties Marlade with some rope and gently lowers him down the ledge. The go
 The group begin to walk back to Phandalin and turn around and look once more at Gnomengarde, and thinking about the adventure they had here.
 
 As the group leave the place, Sasha wings begin to fade as the wild magic wears off...
+
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/Yy6wHM5.png' 
+  style='position: absolute; left: 50px; bottom: 0px; width: 250px' />
+  
+## Session 05 - 29/04/2020
+### Chapter 23
+##### Shadows
+
+Returning to the familiar town of Phandalin, the group waste no time returning to Qelline Alderleaf's home.
+
+Inside, they see Carp lieing in bed, with his mother leaning over him. Sasha says they have returned, and Mira begins to take out the gnomish invention the "Discombobulatinator". She places the gadget on the boys chest, and she sees his breath has become very laboured.
+
+Nothing appears to happen so far, so she moves it onto his head... Again the gadget does nothing. Mira asks if anyone has any ideas?
+
+Marlade reminds them that the gnomes put instructions on the device. Minogar looks closer to the device and sees the markings the gnomes made, next to a big red button that says "Press Here". Minogar places it back on the boy's chest and presses the button. The device starts to undulate around and the boy starts to lift off the bed and crashes back down.
+
+Suddenly, four shadows appear in the four corners of the room and begin to march towards the heroes. Mira sends Misty - his panther - to attack the furthest shadow, but it misses with it's claws. He turns to another shadow and fires his bow at it, the arrow ends up firing straight through it.
+
+One manages to come up to Minogar and drain his strength, and does a lot of damage but Minogar manages to absorb most of the damage, thanks to his Stone endurance. Another comes up to Marlade and manages to drain a lot of his vitality. The other two attack Mira and her Panther, but they do not land a hit.
+
+Marlade casts guiding bolt at one of the shadows, and it explodes in a brilliant flash of light into nothingness. He then casts healing word on himself to bring up his vitality.
+
+Sasha then moves towards a shadow, and swings her longsword at it, but she sadly drops her sword onto the floor.
+She decides the best course of action at this point is to inspire Mira with her Bardic Inspiration.
+
+Minogar smells the bloodlust and goes into rage and swings his greataxe at a shadow, the shadow screams out in pain, but to Minogar the shadow feels strange as his blade slices through it. The shadow remains, looking vicious as ever.
+```
+```
+
+Mira attacks with his shortsword, and using the inspiration from Sasha, lands a decisive hit, but also feels a strange sensation when slicing the shadow. He follows up with another slash, and the shadow begins to breath heavily. Misty attacks another shadow and lands a bite, the shadow screams but the cat does not manage to bite anything off.
+
+The shadows go in for another round against the heroes, but they manage to deflect them all.
+
+Marlade uses Toll the Dead on one of the shadows, the hit lands, but the shadow laughs in Marlade's face maniacally. Marlade then casts sanctuary on the Panther, to protect her.
+
+Sasha then throws her dagger at one of the shadows, and manages to poof it into nothingness! Minogar then rushes over to the next shadow and swings his axe at it, he lands a decisive hit. Mira takes out his longbow and attacks the shadow next to her Panther the arrow goes through the shadow, and the wound heals back up again.
+
+Marlade then tries to hit one with a guiding bolt, but misses the attack. Sasha takes out her longsword and swings at a shadow, and lands a decent hit! Minogar follows up with his greataxe he slices the whole shadow in half and the shadow once again reforms after screaming!
+
+Mira takes her shortswords and slices with both of them at the shadow, the shadow screams once again, and reforms once again.
+
+Sasha takes her shortsword once again and slashes at the shadow, it is heavily breathing like another before it. She then casts Bardic Inspiration on Minogar. Minogar uses this inspiration and funnels it purely into his axe, which glows red hot and he fizzles the shadow away.
+
+Mira attacks the final shadow with his shortsword, and now the shadow is heavily breathing, he follows up with his other sword and destroys it.
+
+The boy begins to stir.
+
+"Who are you?" the boy says. Mira explains that they saved his life, his mother comforts him and explains that he was in a bad way and that these heroes saved him. The boy removes the device from his chest, and Minogar asks him if he remembers what happened.
+
+"Yes, I was playing near a cave, and a mage came and showed me many magic tricks",
+
+Minogar interupts and warns Carp that he should not have gone off with strangers.
+
+"He said there was candy in the cave, and the next thing I know ive woken up here!".
+
+Qelline thanks the group and offers the group a reward. Mira says he doesnt want money off an old lady, and Minogar rubs his hands. She manages to find 5 or so coppers and puts them in Minogars hand, who proceeds to take them, but Mira orders him to give them back. They bid each other adeiu.
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/wg7yXzJ.png' 
+  style='position: absolute; right: 0px; bottom: 0px; width: 300px' />
+
+# Scenarios
+
+<div class='wide'>
+When the group managed to get to level 3, we decided to run custom scenarios in order for them to attain their new class abilities.
+</div>
+
+# Minogar - A Grizzly Encounter
+
+In the Sword mountains, Minogar the goliath is in search of the "bear spirit". He wants to add the beasts power to his own, in order to be able to withstand the most deathly of punishments in battle.
+He has been out here for almost three days, and has seen no sign of the beast thus far. Tonight, however, things are different. As he cooks his latest kill over a campfire, he sees a vision in the flames. In the flames, he sees the entrance to a cave and what looks to be a large bear, standing on it's hind legs.
+
+He begins by lighting his torch on the campfire and wandering around the cold landscape in the dark, trudging through the snow. He comes across some trees in the dark and inspects their bark. Nothing out of the ordinary stands out and he presses on. Next, he comes to a raging river, and nearly falls in it, but his reactions are swift and he is able to grab for the riverbank and pull himself back up.
+
+Further down stream, he finds a small island in the river near the bank. He leaps onto it and finds that it is relatively stable. Unable to press on further - as the current is too great - he tries to jump back to the shore. He loses his footing slightly and falls into the ice cold water. Thrashing around for a little bit, he eventually composes himself and gets back onto the dry land safely.
+
+Minogar continues to search through the snow around the southbank of the river. He manages to use his torch light to see another island to the east, the distance of which does look like it can be jumped.
+
+He gets a good run up and leaps across onto the snowy bank of this new piece of land. On this outcropping, another tree stands, but much larger than the ones from before. He decides to take out his greataxe and chop it down, using the trunk as a makeshift bridge to cross the river.
+
+Once across the river, now on the northbank he sees another unlit campfire, which he lights with his torch. Surrounding him are more trees, snow and what looks to be ruins of an old village. Minogar inspects the buildings and the trees, and sees on the trees that there are what appear to be bear claw marks.
+
+He continues north, and finds his path is blocked by a load of boulders, they look fresh as though they have recently fallen from the cliff side, as no snow has settled on top of them yet. The goliath uses his rage to move these boulders out of the way, and reveals the entrance to a cave. It is the cave he saw in his vision.
+
+Inside the cave, it is full of ice and a polar bear comes out and attacks! Minogar launches a javelin at the bear and manages a hit. The bear roars and charges at Minogar it bites into the goliath's flesh but the goliath seems to not care. The polar bear also claws at the barbarian and lands a good hit.
+
+Minogar then swings his axe at the paw that the bear just used, and manages to slice it off. The bear rages and bites at Minogar, it tries to regain its balance.
+
+The barbarian swings once again at the bear, but misses and causes it to move backwards. The bear lurches forwards and bites at Minogar's neck, Minogar uses his stone's endurance to withstand what would otherwise be a mortal blow. The bear is confused by this, and begins to move away, Minogar uses this opportunity to attack its exposed underside.
+
+Minogar ends the fight, he brings his greataxe down hard on the beasts skull and the bear dies.
+
+He crouches down and takes a tooth and some fur from the bear, he also takes some blood and puts it on his face. He also consumes the heart of the bear, and calls out for the bear spirit. The bear spirit answers saying he has done well, and to come and meet it. Minogar notices that on the other side of the cave, some light is entering, this is infact a tunnel!
+
+Outside, the sky is different here, the sun is shining down and it almost feels warm. He is above the clouds and can see a cliff edge that has a figure stood on it, looking back at him.
+
+As he approaches, the figure looks like a huge man with an axe, however he has the head of a bear. Minogar approaches and shouts out to it. "Minogar, you have done well, it is I, the bear spirit." It begins, "You have come to me for my strength, I see?"
+
+Minogar agrees.
+
+"Then answer me, these questions three."
+
+"Why have you chosen the path of the barbarian?". Minogar explains that he wants to be the strongest.
+
+"Why have you chosen the path of the bear?". Minogar explains that he wants to be strong, like the bear.
+
+"Will you use these new powers for good, or evil?". Minogar pauses, he says he cannot say now. But that he can say he will do justice by these skills, and right many wrongs.
+
+The bear spirit nods, and holds out his paw. Minogar places the fur and teeth in his grasp. The bear spirit closes his eyes and begins to fade away.
+
+An amulet falls to the ground where it<br>
+once stood, Minogar looks down and<br>
+picks it up, it is the Amulet of the Bear<br>
+and it will allow him to use the bear's<br>
+gifts in combat.
+
+The sun begins to disappear,<br>
+and the illusion is broken.<br>
+Minogar feels extremely cold<br>
+and collapses. Moments later,<br>
+he wakes up in a field outside of<br>
+Phandalin, he looks down and<br>
+sees the amulet, still around<br>
+his neck...
+
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/DJMAYeq.png' 
+  style='position: absolute; left: 50px; bottom: 40px;' />
+
+# Mirazumin - A Familiar Feline
+
+Mira is currently enjoying a spot of respite in the town of Phandalin, when he overhears an old lady shouting that her fish is being stolen. He decides to investigate what is happening and sees a black panther running off to the north, while the old woman stands there shaking her fist.
+
+Mira asks what happened, and the woman explains that that cat is always stealing food from her. The old woman goes back inside in a huff, and Mira heads north into Neverwinter Wood following the cat's tracks.
+
+The woods are darker here, due to the trees overhead, blocking the light. Mira uses his inate tracking abilities to try and see where the panther has headed.
+
+Looking around yields some results! He spots the unmistakable marks of the panther's paws and begins to follow them.
+
+Eventually, he comes across a scene. A bird has been savaged and its remains are scattered on the forest floor. Mira inspects the blood and deduces that the kill happened not long ago. He believes he is hot on the trail of the panther.
+
+Mira mutters to himself that he has a horrible cat.
+
+He continues through the forest, following the trail of paws where he can, and comes across another oddity. In the overgrowth, he sees the paws leading right into a bush, and a panther sized hole where it seems that it burst through into the bush.
+
+Mira bends down and crawls through this hole. He then finds a hairball on the ground after crawling through.
+
+Again, he inspects the hairball. And between gags, deduces that the hairball is very recent.
+
+He presses on.
+```
+```
+
+Eventually, Mira comes to an opening in the trees, the light is brighter here and he sees a large lake to the north. At the lake, Mira sees the remnents of a campsite, presumably belonging to one person. The campfire is still lit and burning away, but no one seems to be there at the moment.
+
+At the east side of the lake, sat on a stone taking a drink, he sees Misty, his old panther! He approaches slowly, and tries not to startle the panther. But as he approaches, the panther immediately notices Mira and pokes it's head up.
+
+Mira shouts out to the cat, and the panther approaches, cautiously.
+
+Mira explains that it is me, and the cat tips its head. It remembers and runs up to Mira! The ranger and pet are reunited and embrace.
+
+But whilst this is happening, the canopy moves. Mira notices that one of the trees nearby, is not actually a tree and is walking towards them, looking angry!
+
+Mira tries to slash at the tree with her shortswords, but they just clink and clang against the bark. Misty then leaps at the tree and tries to bite it, but also just scrapes the tree bark.
+
+The tree then focuses on Mira and tries to smash him with his tree arm, it slams into the ground and Mira leaps out of the way of the collosal strike.
+
+Mira continues to slash at the tree but the tree doesn't seem to care, it only leaves a slight scratch. Mira casts Hunter's Mark on the tree, as it is now his only focus. The tree slams into Mira again with its other arm, and lands a devastating blow.
+
+Mira reels back and looks around, he continues to attack with his shortswords, but damage does not appear to be happening to this giant tree. He casts Zephyr Strike to move faster, and he escapes the grasp of the tree. He moves over to the campsite and lights an arrow on fire on the campfire.
+
+The tree begins to give chase, but it cannot move as quick. Mira loads her bow and fires a flaming arrow at the tree, clipping its shoulder and beginning to set it ablaze!
+
+Realising this is working, Mira loads another arrow and lights it as before. He fires right at the centre mass of the tree and lights it ablaze again. The tree is now on fire properly and slowly starts to crumble. The tree falls down with a thud, and smolders in the forest's shadow.
+
+Mira hears behind him, a slow clapping. He turns around and sees an elven figure with a huge bow on his back, smiling and nodding at Mira.
+
+"That was impressive!", the ranger says. "Good idea with the fire!"
+
+Mira asks who he is.
+
+"Ah, forgive me, where are my manners. Allow me to introduce myself, I go by the name 'Falcon'. I am a local ranger of Neverwinter Wood and that right there is actually my camp site!". Falcon smiles and continues, "I saw you take down that beast with your pet and I would like to offer you a visit to my home if you are ever in the area, I know this area well and love to help adventurers such as yourself!"
+
+Mira asks how he could find his house in the future.
+
+Falcon comes closer and marks the location of his Hunting Lodge on Mira's map.
+
+Mira thanks Falcon and heads back to town with Misty.
+
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/go8Erzd.png' 
+  style='position: absolute; right: 0px; bottom: 120px; width: 430px' />
+
+# Marlade - A Dream of Savras
+
+Marlade awakes to find himself in a room, the room is barely lit and he is struggling to get around. Through the darkness he comes across a column, a pillar it seems that has an unlit torch on it. He fumbles around for his flint and tinderbox and lights the torch.
+
+The room begins to illuminate slightly. He is stood in what appears to be a small chapel or shrine of some sorts, the ceiling is very high and supported by six pillars, all of which have unlit torches on them sans the one he just lit.
+
+To the south of the room, he sees a small stone altar with a stone eye carved into it. The the north is a pair of huge wooden doors.
+
+Marlade goes around and lights all the torches one by one, until the room becomes very bright. There are no windows in this room. Marlade goes to the altar, he examines around it. He looks to see if there are any gaps, but does not find anything out of the ordinary.
+
+He looks deep into the eye and sees that the eye is very intricate, and has been designed by someone with clear skill. He recognises the symbol as his own god, Savras.
+
+Marlade heads to the north doors, and tries to pry them open. But there are no handles to grab and the door seems to be unnaturally sealed. He cannot even see through the gap.
+
+Marlade heads back to the altar and prays to Savras. He prays as hard as he can, but nothing happens.
+
+He heads behind the pillars and tries to find something, he notices that the pillars are smooth marble and the floor is also. But the walls of the room are decaying slightly unlike the rest of the room.
+
+He begins to turn off and on torches, seeing if that could affect the door. This doesnt seem to resolve to anything.
+
+He sighs and goes back to the altar and reaches out to touch it.
+
+As he touches the eye, the vision changes and he finds himself in another location. He is now stood outside with the sun setting over his right shoulder. In front of him he sees a massive ruin standing in a vast field, behind it far in the distance, he sees the sword mountains.
+
+Surrounding the ruins are four towers at the corner of each square as it were, three of which has crumbled away, and one that is still just about standing. The one still standing is to his left and is the closest to him.
+
+Marlade moves forward to the ruins and comes to a gatehouse, it stands twenty feet high and it's outer doors have been smashed to flinders and a rusty iron portcullis blocks the south exit. He looks through the portcullis and can see a large building with two large wooden doors on the front, which look like the outside to the doors he saw previously. Judging by the architecture the building has a single story, but it is very high. The roof is tiled and red, but the building has seen better days.
+
+Marlade goes to the side of the portcullis and sees a gap in the wall that has become rubble, through this he can see some of the grounds around the building. The lawns of which are not kept in good condition anymore.
+
+He goes back north outside of the gatehouse and heads across to the tower that is standing.
+
+As he walks towards it, an orc pops it's head up and sees Marlade, he readies his bow and aims at Marlade. Marlade puts his hands up, but the orc fires.
+
+As the orc's arrow hits Marlade, the vision changes again.
+
+He finds himself in a village, a ruined village. But it appears to have been ruined for some time. The buildings have been totally razed but the outline and some walls still remain.
+
+Marlade is stood with his back to the sun that is rising, he sees a forest that stretches to his right shoulder, to his left he sees a trail and behind him he sees a ranch in the distance.
+
+He tries to look around the village and see if it is familiar, but it appears completely alien.
+
+Then he looks at the trail and sees that in the distance, appears to be the ruined building he was at previously.
+
+Marlade begins to head that way but remembers the orc that shot him, so he decides to look around the village first.
+
+As he looks around he finds an interesting building, it looks like it could once have been a shrine. He tries to deduce what the shrine is for.
+
+Sadly, it is too destroyed and cannot recognise the deity. But he knows it is not to Savras.
+
+He carries on wandering around the town, but suddenly is frozen and cannot move.
+
+He hears wardrums and marching in the distance. It gets louder and louder.
+
+He hears war cries and what sounds like barbaric chanting. It keeps getting louder and louder and the voices seem to be increasing.
+
+Suddenly, he sees himself surrounded by blood thirsty orcs on all sides and they slowly surround him and raise their weapons.
+
+Marlade wakes with a start.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/wKInFrH.png' 
+  style='position: absolute; right: 50px; bottom: 40px; width: 350px' />
+
+# Sasha - Some Bardic Inspiration
+
+Sasha is currently in Phandalin, and has recieved a letter in the mail. She opens it. Inside a lute falls out, it looks extremely ornate and has her name engraved on the side. She picks up the lute and wonders what it is about and read the following letter:
+<div class='descriptive'>
+Sasha,
+ 
+We have not been formally introduced you and I, but I believe now is the time for our paths to intertwine. Becoming a great Bard takes dedication and practice and I would like to invite you to the College of Fochlucan in Silverymoon.
+ 
+Upon arrival you will be expected to choose a path to follow to refine your Bardic Skills.
+ 
+Please see attached a gift, it is a Lute engraved with your name on it! (Why not give it a go right now?)
+ 
+I look forward to seeing you soon, Lothouryte
+
+  Master Bard of Silverymoon
+</div>
+
+Sasha strums the lute and the notes ring true, a pink glow begins to eminate from the lute and produces a small portal about the size of her head infront of her.
+
+She carries on playing the lute, and hears a voice from the other side of the portal, "Ooh, thats very nice dear!". She then puts her hand in the portal and hears the voice exclaim, "Oh! Perhaps you should look through the portal!". Sasha then looks through and sees a small office with a blue dragonborn lady sitting there. She looks quite elderly and begins to speak.
+"Ah, you must be Sasha, I see you got my message."
+
+Sasha explains she did.
+
+"Silverymoon is months away of your current position, so i thought i would employ the magic of this lute to produce a portal for you, i see it hasnt quite worked how it should, one second."
+
+Sasha hears the dragonborn fumbling around in the background, and the portal grows to be big enough to step through. Sasha steps inside.
+
+"Pleased to meet you Sasha, I am Lothuryte, I am here to be your guide around the college."
+
+"Have you chosen a college per chance?"
+
+Sasha explains that she has chosen Valor.
+
+"Ah, so Pyria, allow me to take you there now!"
+
+Lothuryte begins to lead Sasha through the college and takes her outside into the courtyard. Sasha sees an elf in dark blue armor, playing a trumpet. She stops playing the trumpet and speaks to Lothuryte. Lothuryte then turns to Sasha and explains that she will leave her with Pyria.
+
+Pyria asks if Sasha has been enjoying being a bard so far, and that the college of valor can help with inspiring her friends in battle. They discuss past adventures and Pyria realises that Sasha is a good fit.
+
+Pyria sets the first challenge and explains that she should be good at inspiring others. She explains that one of the new recruits is not the best at playing her instrument and it is driving everyone slightly mad. Sasha then asks where she was last seen. Pyria says she is a blond elf, she plays a trumpet and wears a green apron, and is fond of cabbages.
+
+Sasha begins to search around the grounds of the college, she heads north and sees a male elf practicing with a sword muttering to himself how good he is. Sasha introduces herself and asks if he has seen a bad trumpet player around. The elf explains that he thinks he saw her south, near the sheds.
+
+Sasha heads south to the shed but does not see anyone inside. She continues around the grounds and finds a few farms, one of which is carrots another that is beetroot and a final one that is cabbages.
+
+She heads over to the one that is growing cabbages and can hear this god awful sound. She goes around the corner and sees a female elf playing a trumpet, quite content. But the sound is awful.
+
+Sasha taps her on the shoulder, "Oh hello, I dont think we have met" the elf says.
+
+Sasha introduces herself and the woman explains her name is Nymue. The exchange pleasantries about what instruments they play. Sasha then explains that Pyria has sent her to play with Nymue.
+
+They play their instruments together, but Sasha secretly casts Bardic Inspiration and Nymue's music becomes much better.
+
+Sasha then heads back to Pyria, who is happy to see Sasha, "I heard you just now, Nymue sounds way better!"
+
+"I have a final task for you though, to test your abilities. These two cubes, move them at the same time."
+
+In front of Sasha are two one-metre squared stone cubes about ten feet apart.
+
+She casts Unseen Servant and uses the servant to move the other cube at the same time. Pyria claps and is about to bestow the knowledge of Valor to Sasha.
+
+However, a purple one eyed beast begins running through the college and attacks the pair. Pyria begins to attack the beast and Sasha inspires her and keeps her alive with her abilities.
+
+After the fight, Pyria tries again and says that wasnt part of the test. She bestows the gifts of valor to Sasha. Lothouryte comes out of the college at this point, face beaming<br>
+and explains to Sasha that it is time to go for<br>
+now and that they will surely meet again.
+
+Lothuryte plays her harp and a portal <br>
+opens up, similar to before, with<br>
+Phandalin on the other side of it. Sasha<br>
+steps through and waves goodbye to<br>
+her new friends.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/c0Lvg7N.png' 
+  style='position: absolute; right: 50px; bottom: 30px;' />
+
+### Chapter 24
+##### Tales
+
+The group meet up a week later at the Stonehill Inn, and as they approach the inn, they notice that outside of the inn there are now guards. The guards aren't threatening them, but it does seem odd.
+
+Minogar goes up to the guard on the left of the door, and greets him asking why there are now guards posted outside.
+The guard explains that there was an incident a week ago where someone was dragged out of the inn and he has not been seen since. They mention they are on the lookout for a cleric. Minogar tells the guard that they are the people that helped find the missing boy, and asks what the world is coming to?
+
+The guard agrees and opens the door for them and allows them inside. Inside they see a four seat table, unoccupied and all take a seat.
+
+Minogar sits down and tells everyone that he killed a bear in the dark, he had to light fires in the cold and his torch was going out! He met the bear spirit and got an amulet of his powers from it.
+
+Sasha goes next, and explains that she went to bard college, she shows the group a lute that she got, with her name on it! She explains that the lute can speak to the leader of the bard college when played. She tells of how she helped a beginner improve on a trumpet, and was about to pass. But this thing attacked them, but thankfully she had help in combat from the other bards!
+
+Mira goes next, and explains that Misty ran away. Mira met a villager who was complaining that Misty had stolen a fish. He followed her into the woods and used the clues to try and track her. He then found Misty, who then recognised her, but a tree awoke and attacked them both. He found that if he lit his arrows on a flame, it would do more damage to the tree. He also mentions that afterwards a guy came out of the woods and offered for the group to visit his house sometime.
+
+Marlade then goes and says that he actually hasn't gone anywhere and he has had a weird dream. He pulls out a huge weighty tome with a thud on the desk. The group peers over and sees written on it "My Dream Journal". Marlade goes on to explain that in this dream, he was initially stood in a room in an altar to his chosen deity. 
+```
+```
+He touches the altar and is then transported outside, he sees ruins infront of him, which he believes is where he was a moment ago. There are four towers around it, where three of them are completely destroyed and one is barely standing. When he goes near to this tower, an orc popped up and shot him in the arm. The vision changes and he wakes up in a ruined town, he wanders around it and hears loud noises in the distance, and a horde of orcs appear and attacked him. This ended the dream, he explains that he believes its related to the mountains in the distance, and he believes its a vision bestowed to him from Savras.
+
+Minogar asks him if the ruins looked like Phandalin, but Marlade believes it is somewhere else. He describes that it was also near a barn. Minogar explains that he was raised by orcs, and that when they are in large numbers, they are a force to be reckoned with. Listening to Marlade's recollection again, they realise that the position of the sun has a bearing on where things are.
+
+The group pull out the world map, and using Marlades description try to work out what place fits the description. They come to the conclusion that it must be somewhere near Conyberry, as it has the mountains to the south and the forest to the west.
+
+They now ponder where to head next, Sasha reminds them that the Townmaster promised a reward for finding the boy, which they still have not claimed.
+
+Before they leave, Minogar goes up to an old lady in the inn, who is talking to the barmaid. The barmaid asks if he wants a drink, he explains that he saved the boy, and the barmaid offers it for free, for helping the boy.
+
+The group head over to the townmaster's house, the house is twice the size of all other houses around it and the door is ornate of metal construction. Minogar looks through the window and sees him slumped in the chair. Mira taps on the window and he wakes up with a start, he beckons the group to come in, and that the door is open.
+
+The group enter and the townmaster thanks the group for all they have done, and realises they are here for the reward he promised. His colour flushes out of his cheeks slightly and he asks the group to come closer, he explains that he unfortunately requires one final favour that has just come up before he can part with his money. They don't like to hear this, and begin to get annoyed with the fat old fool. 
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/FgKZ826.png' 
+  style='position: absolute; right: 0px; bottom: 0px;' />
+
+He promises to increase the reward, but it must be kept quiet. He explains that there have been worrying rumours of a white dragon being spotted in the area, and that he has some dwarves excavating to the south, who need to be warned. Minogar asks why can't he send his town guards to do it, and Harbin explains that the guards are not disciplined enough and would spread it around town. Marlade asks him to show him on the map where they are, to see how much of a detour this is going to be.
+
+Mira worries that the dwarves won't believe them, so Harbin writes a note for them to show them. The group don't quite want to go yet and worry that he will betray them again, Marlade threatens the townmaster and Harbin repeats that he will pay them on return. Minogar slams his axe down on the table and also threatens the townmaster, the townmaster holds steady and asks the group to listen, he is thankful for them helping the town, but time is of the essence! He implores them to trust him on this.
+
+Mira takes a more diplomatic approach and explains that they have not seen any money, Sasha also helps to persuade. The townmaster realises that he has been a bit harsh and lets the group have 100g between them now and promises a further 900g to completely reconcile his debt to them.
+
+Sasha asks what the dwarves names are that they are to meet. Harbin tells them they go by the names "Dazlyn Grayshard and Norbus Ironrune" and explains that they are business partners prospecting for gold.
+
+The group set off for the excavation, they eat a meal on the way, and Minogar shares one of his with Marlade.
+
+### Chapter 25
+##### Excavation
+
+The canyon’s rocky walls rise to a height of eighty feet. At the end of the canyon, a twenty-foot-high wall of black stone has a broken gate carved into it, with one stone door hanging precariously by a hinge and the other door missing. Beyond this open gate, in the shadow of a great mountain to the east, lies a ruined settlement. All is quiet.
+
+The group press forwards through the giant gates, they see the outlines of the ruined settlement scorched into the earth, they also see a still lit campfire still crackling away.
+
+Mira peers at the ruins and can only make out crushed dwarf remains, that do not appear to be recent.
+
+Minogar lights a torch using the campfire and continues on. A partially collapsed, ten-foot-high wall separates this courtyard from the settlement west of it. Three heaps of rubble are piled high in this area. Hewn from the canyon’s back wall, a thirty-foot-high temple facade features steps rising to a stone platform. Cut into this facade is a ten-foot-high open doorway flanked by crumbling, life-sized granite statues of cloaked dwarves. Evil grins can be seen on their weatherworn faces.
+
+They can also hear what sounds like people eating, beyond the piles of rubble. Beyond the rubble the group go, and see two dwarves sat there having a picnic. "Ooh, a goliath! ave not seen a goliath for yeerrrs!" one of them pipes up, "Norbus, look at the size o' that one!". The other dwarf looks over, "Yeah, Dazlyn, thats a, thats a specimen and harf! What can we do for ye?"
+
+Minogar goes up to the dwarves and explains that they have a message from Harbin, "Harbin? Oh that old rascal," Norbus states, "Is he still fat?". Minogar agrees and asks the dwarves if they have anything to drink?
+
+"Would ye like a waterskin?"
+
+Minogar looks inside the bottle, and asks if there is any ale inside. "Aye, its got 4 pint o something in it alright!". Minogar doesnt trust the contents and hands it back.
+
+He begins to explain that this mining operation is going to have to stop, but the dwarves explain that this is actually a temple to the dwarven god Abbathor, and they are intending to plunder it for treasure.
+
+They go on to explain that they hit a bit of a snag, and that a yellow "thing" attacked them inside. They offer the group some sending stones in exchange for them heading inside and clearing out whatever it was.
+
+Marlade takes a stone, and Mira takes the other. Minogar and Mira head in first, and enter a dusty foyer and see a door to the north, they investigate and see the room is full of rubble. They head back into the foyer and head east into what looks like a mini temple with four pillars holding up the roof. At the end of the room they see a blood stained limestone altar.
+
+Mira heads up to the altar and takes a closer look, he then touches the altar and sees a yellow globlule drop infront of his face, and a big gelatinous blob falls from the roof. Mira stabs at the jelly with her shortsword and the jelly undulates around.
+
+Sasha rushes in and slices at it with her longsword and slices the blob in half! But both halves seem to move of their own accord!
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/1GuNX5L.png' 
+  style='position: absolute; left: 50px; bottom: 50px;' />
+  
+Marlade then casts Toll the Dead against the blob, the necrotic damage causes it to rot slightly and shake.
+
+Minogar begins to rage, and tries to use his torch to hit one of the blobs. Sadly, he swings way to hard and misses, the torch goes out leaving him and Marlade without vision in this room. The blob lashes out a Minogar and hits him with its tendrils.
+
+Mira then attacks with her shortsword and pierces the blob, the blob undulates. Mira then rushes back to the dwarves attempting to get to the campfire. Sasha retreats from the situation. Marlade lights one of his torches to restore sight to him and Minogar. Minogar then moves back from the blobs and tries to reassess the situation. The blobs follow the group but can't move as fast.
+
+Mira goes up to Marlade and lights his arrow on Marlade's torch. He fires the arrow at the blob, but misses and pings the back wall. Sasha inspires Mira with her flute. Marlade casts Toll the dead once again on one of the blobs, and it looks like it has nearly completely rotted away.
+
+Minogar lights his javelin on fire from Marlade's torch, and throws it at the blobs. The javelin pierces the ooze and causes it to burst. Only one ooze remains. Mira then lights her arrow again and shoots between Marlade and Minogar a flaming arrow that whizzes past them and lands square in the oozes underbelly. Sasha then inspires Marlade with her flute. Marlade then casts Toll the dead and damages the blob badly. Minogar lights another javelin on fire and throws it at it. The ooze squeals and bursts!
+
+Mira then heads south in the room, and another yellow tendril comes down from the roof and attacks again! Its another yellow blob!
+
+The blob lashes out at Mira and lands a couple of strong hits. Sasha then casts cure wounds on Mira to bring her health back up. The group all gang up on the new ooze, taking care not to slash it and destroy it with fire damage. They are triumphant once again, and the ooze bursts!
+
+The group decide to head back outside to the dwarfs, "Did you find any treasure?" the dwarves ask. Minogar says they have not. "There should be some treasure in that temple, we are sure of it!" the dwarves exclaim.
+
+```
+```
+
+## Session 06 - 06/05/2020
+### Chapter 26
+##### Abbathor
+
+The group return inside and look around the room which contained the slimes. Mira notices the outline of a door to the north of the room. Mira tries to kick the stone door and it moves back slightly, grinding against the floor. Minogar comes up and tries to open the door normally with a push and it opens.
+
+They enter a new corridor, with rubble to the left and a normal door to the right. They head to the door and Minogar listens at it. He does not hear anything on the otherside. The group enters the room. This room contains three stone bed frames pressed up against the wall, they are empty.
+
+Mira and Sasha notice something odd again about the south wall in this room. Sasha goes and investigates and sees another stone door, she pushes it open.
+
+The next room contains an empty stone font and a stone wardrobe. Sasha looks inside the wardrobe and sees rotted remains of two suits of red leather armor. The logo on them Marlade recognises as the symbol of Abbathor - the dwarven god of greed.
+
+> ##### Abbathor
+> Abbathor is the dwarven god of greed, he is associated with Trickery and is an evil god.
+>
+> His symbol is a Jeweled Dagger, pointing down.
+>
+> His followers revere Abbathor and he tests them by tempting them with gifts. If the follower succumbs to his or her greed, Abbathor doles out punishment.
+
+To the south of this room is also a normal door, which Marlade opens. It reveals another corridor with a normal door across from them, to their left is a load of collapsed rubble, which has a faint green glow emanating through it. To their right is what appears to be a dead end, but Mira notices that it is actually another secret door.
+
+He enters and sees a fork, to the right is a dead end and to the left is more rubble with what appears to be remnants of yellow jelly on it.
+
+Mira nopes out of there.
+
+The group head back into the corridor with the green glow, and open the other door. Inside this room is another collapsed room full of rubble, there is a skeleton buried in it. Mira goes and investigates the skeleton, he bends down and sees that it is the size of a dwarf, it is also wearing the rotted leather armor that Sasha found in the wardrobe, so they deduce it must be a priest of some kind. It appears to have been killed when the room collapsed.
+
+Around its neck, Mira finds a necklace that bears the symbol of a tiny jeweled dagger. Marlade recognises that as the symbol of Abbathor once again. He also recognises that the etchings on the necklace say "Greed is good". Mira takes the necklace.
+
+\page
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/LEOeTQv.png' 
+  style='position: absolute; left: 0px; top: 0px;' />
+  
+  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+  
+The group decide to head back into the main room where the jellies were. Sasha notices something odd about one of the pillars. She finds that this one has a secret cavity on it. She smashes it open and a load of skulls fall out onto the floor. But in the cavity is a small stone coffer.
+
+Sasha grabs the coffer and opens it and finds fifteen gemstones, presumably offerings to their god.
+
+Mira spots another secret door to the south, and Minogar opens it. It reveals another corridor that has a normal door at the end. Minogar listens to it, but hears nothing.
+
+It opens into another perpendicular corridor, to their left is another door and to their right leads back to the dwarves. The group head to the other door, Mira opens it and reveals a partially collapsed room full of rubble. The group dig through the rubble but do not find anything.
+
+They decide to head back to the corridor with the green glow, they begin to clear out the rubble and Marlade fetches the two dwarves to help them. It takes the group six hours to clear the rubble and it reveals a corridor into another room.
+
+This room contains rubble to the south covered in green dust, to the north they see a statue holding a green gem and glaring at it with a crazy smile.
+
+Marlade tries to check for magic in this room, but finds none. Marlade proceeds to grab the stone with Minogar stood next to him, the statue explodes and debris smashes into them both knocking them to the floor. Minogar managed to react and move out of the brunt of it, but Marlade was not so lucky.
+
+Sasha proposes they give the gems to the dwarves, but Minogar disagrees. The dwarves ask if they are ok after the explosion. Mira says he found a necklace and shows it to the dwarves. They recoil and don't want to take it when Mira offers. The group decide now is the time to head back to Phandalin with the dwarves.
+
+### Chapter 27
+##### Tulgan
+
+As the group leave the excavation, they return to the ruined settlement and begin to go through the large gates, Minogar stops the group and warns the group that he can hear an orc warband. He looks and sees around four orcs heading their way, and tells the group to hide, quickly!
+
+The group rush north and hide behind one of the buildings in the ruins.
+
+The orcs come through the gates, one of them speaks to a much larger orc, presumably the leader. "Tulgan, do you think this will do?"
+
+The larger orc replies, "Yes, this will do nicely, its not quite home, but it will do."
+
+The other then realises something and says, "Shush, shush, Tulgan... stop. Can you smell... something?"
+
+Tulgan sniffs. "Yes... I can smell... dwarf!"
+
+Mira says to the group why cant they just throw them out? But Minogar warns that they should not. Tulgan means trouble.
+
+> ##### Tulgan
+> Tulgan was an exiled sibling of Lorgru, the king of the Many Arrows tribe.
+>
+> He and Minogar used to be allies and together overthrew Lorgru. However Tulgan betrayed Minogar once his usefulness had ended and slayed most of his tribe.
+>
+> Minogar holds a grudge against the orc to this day. Tulgan currently leads the Icebrood Tribe, most of which were slain by Cryovain - the white dragon.
+
+Tulgan looks up at the giant statues near the entrance of the excavation. "Hmm, this land was once dwarven" he says, "Maybe the dwarves are still inside"
+
+The orc then scans his immediate area, "This village has seen better days, shall we see what we can find?"
+
+The orcs then seperate and begin to turn over the ruins, searching for treasure or weapons.
+
+Realising they are going to be found, the group start frantically whispering to decide what to do next. Mira decides that because he knows orcish, he will step out first and try and convince them to go.
+
+One of the orcs sees Mira as he rises. "Halt, who are you?" the orc shouts.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/qapPoPR.png' 
+  style='position: absolute; left: 0px; bottom: 0px; width: 600px' />
+  
+Mira explains who he is, "Why are you here? Come, rest of you, interloper over here!" the orc responds. The other orcs all come and gather around Mira.
+
+Two of the orcs raise their javelins and point them at Mira.
+
+"Well, why are you here?" the orcs tone becomes more violent. Mira gets annoyed and says he is trying to say, he is here to explore the place.
+
+"Hmm, do we want witnesses Tulgan?"
+
+Mira pleads that he didn't see or know anything. Minogar senses trouble and pops up, he tells the orcs to put down their weapons.
+
+Tulgan then turns to Minogar and his demenour changes. He seems quietly happy to see Minogar, but in an ominous way.
+
+"Minogar... so we meet again."
+
+Minogar says that he expected the next time they meet would be on the battlefield, with Minogar slaying the orc in battle.
+
+"Ha, and now you are hanging around with elves. Look at how low you've gotten, you were once a man of honor... dignity... now you're weak. Pathetic!"
+
+Mira looks down at Sasha as if to say can you believe this guy?
+
+"Let me tell you what's going to happen now, Minogar" Tulgan continues, "We are going to skin your friend alive, and make you watch!"
+
+As Tulgan says this, Minogar gets angry and raises his javelin. Marlade pops up and stands infront of Mira and casts guiding bolt at an orc. The orc goes pale as the bolts fly in his direction and tear him to shreds.
+
+Mira slashes with her shortswords at another orc and glances the shoulder of the beast. Misty then runs in tries to bite the orc, but the orc bats the panther away. The orc then swings it's axe at the panther but it slams into the ground.
+
+Minogar rages and takes his greataxe out, he swings it at a third orc. The orc deftly moves out of the way and grins at Minogar.
+
+Sasha then moves in and throws a dagger at an orc, and manages to clip it in his shoulder, it screams out in pain at the bard.
+
+The dwarves start to cheer the group in the background.
+
+An orc then swings at Mira but his armor withstands the blow. Another orc comes to his aide and also swings at Mira, landing a crushing blow to his skull, knocking him unconscious. 
+
+```
+```
+
+Tulgan then rages and tries to hit Minogar with his greataxe, but his rage is too great and he misses the attack.
+
+Marlade then moves across the battlefield, provoking an attack from an orc, which swings at him with his greataxe. Marlade is clipped very heavily along his back. He rushes over to Mira and uses Spare the Dying to prevent him slipping away to the void.
+
+Minogar shouts to the dwarves to get Mira out of there. He then swings at the orc that attacked Mira. He lands a solid hit with his greataxe and slices into its neck, the orc chokes on his blood and dies.
+
+Sasha attacks the orc she threw a dagger at with her longsword, but misses. She goes over and picks up her dagger.
+
+The dwarves gingerly come in and drag Mira out of danger to the back of the fray.
+
+An orc swings at misty and wounds the panther badly. Tulgan flails for Minogar again, solely focusing on him but smashes part of the ruins instead.
+
+Marlade then casts Toll the Dead on an orc but the orc resists the spell. Minogar swings at another orc instead of Tulgan and takes off the head of the orc. The head rolls away with its tongue out.
+
+Sasha takes a hammer from Marlade and attacks an orc with both a dagger and a hammer, leaving it very bloodied.
+
+The dwarves tend to Mira and help him up. The bloodied orc turns to Sasha and tries to hit her with his axe and lands a good hit.
+
+Tulgan continues to focus on Minogar and swings his greataxe at the goliath. Minogar then uses his stone's endurance to reduce the damage coming in, but Tulgan's strike still breaks through and leaves him bloodied.
+
+Marlade then casts Healing Word on Mira and uses Toll the Dead on an orc, blood pours from the ears of the orc and it screams out in agony as it dies.
+
+Mira uses her longbow to attack Tulgan from a distance but misses the orc as he flails around chasing Minogar.
+
+Minogar screams at Tulgan and swings his greataxe at him, shouting for the Threefury tribe! The axe hits his metal shoulder pad and it buckles, Tulgan screams out in agony and his bloodlust rises.
+
+Sasha throws her dagger at Tulgan, which sticks into his back. She also throws her hammer at him and it lands on his shin, causing him to stumble slightly.
+
+Tulgan, now bloodied and alone, goes into a frenzy.
+
+He swings for Minogar - foaming at the mouth - and lands a massive crushing blow.
+
+Marlade touches Minogar and casts Cure Wounds on him. He also casts Sanctuary on Minogar, preventing attacks against him.
+
+Mira uses his Clockwork Amulet to guarantee a hit with his longbow and the arrow straight into his chest, Tulgan laughs and pulls the arrow out of his chest.
+
+Minogar says to Tulgan that he betrayed the Threefury tribe, after all those years. "You are not one of us, you are a goliath!" Tulgan shouts. "We orcs are proud, we dont ask for help!"
+
+Minogar says he will soon be dead, and swings at Tulgan with his greataxe. The axe buries into his chest and Tulgans eyes start to turn red with pure rage.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/ZrInWQT.png' 
+  style='position: absolute; right: 50px; top: 0px; width: 300px' />
+  
+Sasha grabs her dagger out of Tulgan, and swings her longsword at the orc, but loses her footing slightly and misses the swing.
+
+Tulgan then swings for Minogar, breaking the Sanctuary and lands a hit on Minogar's shoulder. His frenzied state allows him to swing again but his bloodlust takes over and he swings at Marlade, but the cleric jumps out the way.
+
+Marlade casts Toll the Dead on Tulgan, he topples over and Minogar grabs Tulgan by the chest and says that this is for the Threefury tribe. He severes the orc's head from his body and keeps it as a memento. The headless orc's body slams into the floor.
+
+The group loot the orcs and take their weapons. They decide to head back to Phandalin with the dwarves.
+  
+### Chapter 28
+##### Preparations
+
+As it is night time, the group decide to camp outside the excavation site instead of travelling in the dark. The group manage to sleep without intrusion but the group do believe they heard a dragon roaring and flying overhead at one point in the night...
+
+Arriving back in Phandalin, they bid the dwarves farewell, who thank the group and head to the Phandalin Miner's Exchange.
+
+> ##### Phandalin Miner's Exchange
+> The Miner's Exchange is a trading post where local miners have their valuable goods weighed, measured and paid out. In the absence of any local lord or authority, the exchange also serves as an unofficial records office, registering claims to various streams and excavations around the area. 
+> 
+> There isn't any real gold rush in Phandalin, but enough wealth is hidden in the nearby streams and valleys to support a good number of independent prospectors.
+>
+> The exchange is a great place to meet people who spend a lot of time out and about in the countryside surrounding Phandalin.
+
+The group decide now is the time to visit the Townmaster again and get their reward. As they arrive at the house, they notice that the curtains are all drawn. Sasha knocks on the door, and the group wait. There is no answer from the door.
+
+Mira steps forward and tries the door, it has been locked.
+
+Minogar decides that they should sell the weapons they picked up earlier, and maybe they will see him around town. They head over to Barthen's Provisions.
+
+As they enter Barthen welcomes them, they ask if they can sell some weapons, but he explains that he does not buy weapons and armor. He points them over to the Lionshield Coster and advises them to speak to a woman called Linene and explains that anything martial is sold there.
+
+Mira then shows him the necklace he got in the excavation and asks if he wants to buy it. Barthen accepts Mira's offer of 50gp.
+
+The group also sell their gems to the dwarf and he happily buys them at the market value.
+
+```
+```
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+They head over to the Lionshield Coster, hanging above the front door of this modest trading post is a sign shaped like a wooden shield with a blue lion painted on it.
+
+> ##### Lionshield Coster
+> This building is owned by the Lionshields, a merchant company based in the city of Yartar, over a hundred miles to the east. They ship goods to Phandalin and other small settlements throughout the region.
+>
+> This shop sells armor or weapons, which are stored in the back room, all of which are available for purchase. 
+However, the owner won't sell to people they perceive are a threat to the town.
+
+Minogar opens the door and enters, they see a human woman stood behind the counter, giving the group a funny look.
+
+"Can I help you?" she asks.
+
+Minogar begins to tell the woman that they want to sell some axes to her.
+
+"Where did you get them?" the woman interupts Minogar as he is telling her, she seems impatient with the group. Minogar explains that they had to take them from orcs.
+
+"Stolen weapons? You are trying to pass of stolen weapons to me?"
+
+Mira says they are not stolen. "But you just told me you took them from orcs," the woman continues, "Sorry, this is a reputable business, we arent interested. Good day."
+
+She turns her attention and begins to fill out what looks like an order book.
+
+\page
+
+<div class='pageNumber auto'></div>
+  
+Marlade asks Sasha to try and persuade her to buy the weapons. Sasha explains that the weapons were actually procured in an honourable way, but the woman does not buy it. Sasha explains that the goliath is mistaken, and that they were actually gifted to the group by the orcs.
+
+Minogar uses this moment to act daft and acts like he doesnt know where he is. Sasha says that look, we have to deal with this all the time.
+
+The woman thinks for a second, "Your friend clearly is insane... hmm. Perhaps I misjudged you."
+
+"Allow me to introduce myself, my name is Linene, normally I get to know new people before I buy and sell weapons from them. But I think me and you have clicked! So these weapons, lets take a look"
+
+The group show the axes to Linene, and Linene begins to make casual conversation about the goings on of the town. Sasha tells Linene that they saved Carp recently, Linene didn't even know he had gone missing, but is impressed none the less.
+
+"So, are you adventurers in that case?" Linene asks, and the group says they are.
+
+"Because, I heard a rumour that there is a lodge in Neverwinter Wood. The ranger there apparently knows a lot about the land, perhaps he could be of some use?"
+
+Mira explains that he has actually met the ranger she is talking about, Falcon, before.
+
+"Ah, im telling you what you already know!" Linene laughs, "Well I bet you havent heard this one. West of Phandalin, there is a tower, ships are drawn to this like moths to a flame and are doomed to crash on it's rocks... I bet those wrecks are filled with treasure!"
+
+Marlade asks Linene if she has seen the Townmaster, but she assumes he is just at his house.
+
+Mira asks when she saw him last. Linene explains that Harbin is a bit of a recluse and hasn't seen him for at least a tenday now.
+
+The group sell their axes to Linene, and decide to head back to the Townmaster's house.
+
+Minogar knocks on the window, and shouts for Harbin. But there is no response.
+
+Minogar knocks on the door again, and really bangs it this time. Mira says they should break in. Minogar checks around the house incase there is any sign of him, but finds nothing. He does notice that all of the curtains on the building are drawn however.
+
+Marlade thinks this a sign of somebody who doesnt want to pay.
+
+Sasha says he just might be out, but Mira says that they have just been told that he doesn't go out often.
+
+Sasha casts Knock on the door and the tumblers move and it opens. As they enter the building, they notice that all the drawers in the place are empty and open. But it doesn't look like it has been robbed, more that whoever was here left in a hurry with all of their things.
+
+Mira notices a note on the table.
+
+<div class='descriptive'>
+To whoever finds this,
+  
+  I thought I could cope with being the townmaster in a time like this, but with rumours of a dragon roosting nearby, I dont want to take my chances!
+
+Dont follow me.
+
+
+Harbin
+</div>
+
+Mira looks for signs to see where he has gone, he finds a tuft of Harbin's clothes on the door frame. He gets his panther to sniff it and hopes she can track him, but the cat just looks confused. Mira deduces that he can't have been gone for more than half a day.
+
+The group try to see if there are any footprints on the path outside, but the footpath is too well travelled for them to make out any specific prints.
+
+Minogar inspects the chair he saw him sleeping in before, and smells where he once sat. He corroborates with Mira that he has been gone no more than half a day.
+
+The group debate amongst themselves whether they are gonna kill him or not if they find him. Marlade and Minogar think they should, but Mira and Sasha are against it, they just want their money.
+
+Marlade believes that he has ran off with all the town's money and debates whether they should tell the town or not.
+
+They decide they aren't going to tell the town, so that when they find him they can keep all the money.
+
+The group decide to start their investigation back at the Lionshield Coster. "Back so soon?" Linene asks.
+
+Sasha explains that Harbin has done the dirty on the whole town and ran off with all the gold. She shows Linene the letter he wrote.
+
+Linene however focuses on the more pressing issue of the letter.
+
+"There is a dragon roosting nearby?! You have to tell the town!"
+
+Sasha tries to gloss over the subject and says that don't you think its bad that Harbin has just left?
+
+"You need to shout this out in the town square! People need to know!" Linene starts to panic.
+
+Marlade explains that dragons come and go, and that money is forever.
+
+"Dragons most certainly do not come and go! There haven't been sightings around these parts for years!" Linene starts to have a panic attack.
+
+Sasha tries to calm her down, and tells her to breathe.
+
+Linene calms.
+
+"You said earlier that you are adventurers. You should speak to Daran Edermarth he was a former adventurer like you, and should know of a way to take this dragon down!"
+
+Mira asks Linene not to tell the rest of the town while they do this. She says she won't, as long as they head for Daran straight away.
+
+The group do so and cross the Town Green to get to Edermarth's Orchard.
+
+They see apple trees with a farmer with a straw hat, pouring a bucket of apples into a barrel whistling away.
+
+Sasha shouts hello and asks if he is Daran.
+
+The farmer tips the brim of his hat up and looks over at the group. "Hello? I am Daran, who are you?"
+
+As Daran lifts his hat, the group notice slightly spiky ears and realise that he is half-elven.
+
+He has long grey hair and stands very tall, he looks old but still very capable.
+
+Sasha introduces the group and they all exchange pleasantries. "Pleased to meet you," Daran says, "Are you new to town?"
+
+Sasha cuts to the chase, and explains that Linene has asked them to talk to him.
+
+They explain that the townmaster has gone and Sasha shows him the note.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+"I think you are missing the point of this note... Theres a dragon." he doesn't seem to bothered about that fact, but is surprised the group aren't more worried.
+
+He tells the group of a sword that is rumoured to be able to defeat dragons, Lady Algondar's sword. He tells them that it is rumoured to be buried with her where she fell in battle between Phandalin and Neverwinter off the High Road.
+
+Sasha asks how much he believes this legend.
+
+"I believe its our best shot, I mean no offence by this, but I believe that - as you are - you would not win..."
 
