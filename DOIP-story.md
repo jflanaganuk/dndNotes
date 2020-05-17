@@ -1,4 +1,3 @@
-
 <style>
 .divider {
     width: 100%;
@@ -584,15 +583,6 @@ Minogar also says to the mage that he has little options, and to just get on wit
 
 Sasha runs over and checks the boy. She deduces that he is alive, but not responding to any external stimuli. Urzal says that he believes it is important to get this boy to safety as quick as possible.
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -2171,6 +2161,9 @@ They explain that the townmaster has gone and Sasha shows him the note.
 \page
 
 <div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/z3UBNOI.png' 
+  style='position: absolute; right: 20px; bottom: 100px; width: 400px' />
 
 "I think you are missing the point of this note... Theres a dragon." he doesn't seem to bothered about that fact, but is surprised the group aren't more worried.
 
@@ -2179,4 +2172,289 @@ He tells the group of a sword that is rumoured to be able to defeat dragons, Lad
 Sasha asks how much he believes this legend.
 
 "I believe its our best shot, I mean no offence by this, but I believe that - as you are - you would not win..."
+
+## Session 07 - 14/05/2020
+### Chapter 29
+##### Tower
+
+The group spend a week in Phandalin preparing to travel, when the time comes they decide first to head west in search of the tower that Linene spoke of.
+
+They follow the trail closely and rest for two nights, nothing eventful happens and the group have a pleasent journey to the coast.
+
+As they near the sea, Mira spots something in the distance. 
+
+Below the high cliff that hugs the coastline, an outcropping of rock is nearly surrounded by water, with only a narrow causeway connecting it to the beach below. 
+
+Atop this outcropping is a stone building surmounted by a lighthouse tower. An eerie green light pulses from this beacon, shining westward out to sea. 
+
+With each green pulse of light, they hear the thump of a slow-beating heart.
+
+The group approach the coast and see the tower in the distance, a long rock path leads up to a small island that holds the tower. To their right they see the sandy beach and a giant crab, that appears to be waving at them?
+
+Mira believes the crabs waving to be friendly, and suggests to the group to go and approach it.
+
+They carefully make their way down the cliff onto the sand and walk up to the crab.
+
+"Well met!" the crab exclaims as the group approach.
+
+Minogar greets the crab and says they have heard rumours of wrecks containing treasure around the tower.
+
+"Yes, five shipwrecks are spread around the rock beneath the lighthouse. I'll fetch treasure from one of these wrecks if you help me." the crab says.
+
+Minogar says what is the help it needs?
+
+"I have a master, she is a dead sea elf named Miraal. She haunts the nearby cave, can you lay her to rest?"
+
+The group says they can do that, and ask the crab's name. The crab says he has never been named, so the group name him "Ranal".
+
+Ranal then warns the group of a couple of things.
+
+"Evil harpies nest atop the rocky outcropping and there are sharks in these waters, but the one to fear is a mean old brute named Daggermaw. She'll bite your head off and take pleasure in it."
+
+The group ask if the crab knows anything about the tower, but it explains that it has never been inside. They ask if anyone else has ever entered, and Ranal says he saw an orc enter long ago, but he is probably dead now.
+
+Climbing back up the cliff, the group head across to the cave the crab had pointed too.
+
+Sasha heads inside first, cautiously.
+
+Inside she sees the corpse of an elven woman, but it has webbed hands and feet as well as what appear to be gills on it's neck. It has started to decompose and its not clear how long it has been here.
+
+As Sasha approaches the corpse, a ghostly spirit bursts out of it, looking deranged. It screams at the group. "What brings you here?" the banshee wails.
+
+The group say they want to help.
+
+"Help? Help Miraal? How do you suppose you can help?"
+
+Minogar asks the banshee if she has unfinished business of any kind.
+
+"I do, Moesko. He took my spellcasting focus, an opalescent conch, as a trophy. You need to return it to me, and then I can be laid to rest." the banshee grows angry at saying this.
+
+Minogar asks where this conch is?
+
+"Up in the tower," the banshee grows more impatient. "You will find him. Refuse! And I will kill you all!!" the banshee starts to scream madly.
+
+Mira gets annoyed at the banshee saying they are just trying to help it.
+
+The banshee starts to grow in annoyance and begins to cast a spell. Its eyes begin to glow white. The group run off towards the tower.
+
+As the group approach the island with the tower on it, steps lead up the cliffside to the tower's entrance. And as they climb the whirling staircase, harpies emerge from above and start shouting and jeering and throwing rocks at the group.
+
+The group continue through the abuse up the stairs and arrive at the entrance to the tower.
+
+At the top of the stairs, a rocky plateau spreads out some 80 feet above the water. Two wooden doors have rusty iron hinges and handles, as well as decorative lightning bolts carved into them.
+
+Sasha checks to see if the door is locked, it is unlocked and she opens it into a foyer.
+
+This 15-foot-high room is empty. Through a dirty window in the south wall, the party can see two ships’ masts jutting crookedly from the water.
+
+There are two double doors to the north west and a single wooden door to the south, both have the lightning bolt symbols on them.
+
+The group decide to head to the south.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/FJRjZtP.png' 
+  style='position: absolute; right: 0px; top: 0px; width: 400px' />
+
+Minogar opens the door and inside they see what looks like a shrine.
+
+The walls of this fifteen-foot-high room are adorned with frescoes that depict ships being tossed on stormy seas, with a dark and terrible god looming above them and smiling. Set into the west wall is a dirty, salt-encrusted window. A stone altar with lightning bolts carved into it stands against the south wall. A metal rod descends from the ceiling above the altar, splitting in two before it embeds itself into the stone.
+
+Marlade tries to recognise the deity in this room, but it eludes him, he has never come across this particular god. However, based on the markings and the state of the temple, he knows the god is not good.
+
+Mira looks at the altar, nothing really strikes out at him. Mira sees another door in this room to the south. He checks it and it isn't locked. Mira opens the door, the sounds of angry harpies fills the room...
+
+### Chapter 30
+##### Harpies
+
+A ledge enclosed by a 3-foot-high stone retaining wall serves as a nest for the harpies. The harpies line their nest with rotting vegetation and the bones of previous meals, which they hunt up and down the coast.
+
+Sasha attacks first, she throws her hammer at one of the harpies and hits it in the head, the harpy gets annoyed and growls. She throws her dagger at it as well, but misses.
+
+Her dagger falls into the sea below.
+
+Sasha rushes outside and tries to get a footing to the side of the harpies, one of the harpies slashes at her with its claws but misses.
+
+The harpies start to sing.
+
+Marlade and Mira are both entranced by the song and become charmed.
+
+Another harpy flies over to Sasha and hits her with its claws, wounding her badly.
+
+A final harpy flies over to Mira and hits him with its claws and its club, wounding him gravely.
+
+The group begin to regret going outside.
+
+Marlade rushes towards the singing harpy, still charmed. As he gets closer though, the effect wears off. He casts guiding bolt at the singing harpy, but misses. He casts sanctuary on Mira.
+
+Minogar enters a rage and attacks the nearest harpy to him, the harpy screeches out in pain as his greataxe slices off one of its wings.
+
+Mira, still charmed, moves towards the singing harpy. But he remains charmed throughout.
+
+Misty, his panther runs through to help. A harpy manages to whack it with its club as it runs through though.
+
+The panther bites at the harpy who is singing, and hits it on its shin. It carries on singing.
+
+Sasha, feeling cornered, swings her longsword at the harpies, but they all back away and dodge.
+
+She starts to cast bardic inspiration on Minogar. The harpies all swarm at Sasha, she manages to dodge a few attacks, but one of them digs its claws into her.
+
+Another hits her with it's club. Sasha is looking bloodied.
+
+Another harpy attacks Minogar and hits him with it's club. The barbarian does not look phased.
+
+The singing harpy continues.
+
+```
+```
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+Marlade casts healing word on Sasha, seeing how damaged she is. Her wounds start to heal up, but she still looks bad.
+
+Minogar swings at the harpy nearest to him again, using the inspiration from Sasha. He lands a powerful blow on the stub where the harpy's wing was.
+
+Mira breaks free from the song's effect. He takes both of his swords and attacks the harpy that was charming him. He cleaves up its back and damages it badly. The sanctuary wears off. It fixates on Mira.
+
+Two harpies swarm at Minogar and attack him, but he withstands most of the damage with his raging.
+
+Another harpy attacks Mira with its claws and digs in.
+
+Marlade casts Cure Wounds on Sasha and Healing Word on Mira. Both are looking much better now.
+
+Minogar slashes once again at his target, getting annoyed that it still won't die. He clips off its other wing, covered in blood but is still alive.
+
+Mira slashes at the harpy that was singing and disembowels it, as it falls dead. The group cheers as they realise they can turn the tide here.
+
+Marlade again casts Cure Wounds, this time on Mira. Who is now fully recovered. He casts Healing Word on himself and is also looking very good.
+
+Minogar once again attacks the very bloodied harpy, he slices it in half and it drops to floor dead.
+
+The group feel better and exclaim to each other that there are only three more to go!
+
+Mira attacks another harpy and Sasha helps him with it, he manages a critical hit and plunges both his swords into its chest. The harpy is looking very bloodied, but is still alive!
+
+Misty also lunges at the harpy and bites it on its leg.
+
+Sasha casts Cure Wounds on Misty, and the panther is now looking a lot better.
+
+Marlade casts Toll the Dead on a harpy, it takes a bit of damage but generally is ok.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/Me7yLmG.png' 
+  style='position: absolute; right: -40px; bottom: 0px; width: 500px' />
+
+Minogar swings at another harpy after slaying his last kill. He takes its head clean off and its body slumps to the floor.
+
+Mira attacks one of the remaining two harpies, using the inspiration he had from Sasha before. Taking both his swords and slashing at a harpy. The harpy squeals and focuses on Mira.
+
+Sasha slashes her longsword at the harpy and slices it down it's arm.
+
+The harpy still focuses on Mira though, and claws at him.
+
+Marlade casts Toll the Dead on that harpy, the bell rings and the harpy covers its ears but takes a lot of damage.
+
+Minogar seizes this opportunity to slash at this harpy and he cuts it in half, the top half falls to the floor in a slump and the bottom becomes rigid and stands there gushing blood.
+
+Mira moves to the final harpy and attacks it with both his swords, it leaps back and hovers out of reach to avoid the swings.
+
+Sasha also swings with her longsword, but the harpy still hovers out of reach.
+
+It lands back on the ledge and attacks Marlade, he takes the hit like a champ and casts Toll the Dead, but the harpy resists it.
+
+Minogar once again swings at the harpy with his greataxe, he lands a massive blow and leaves the harpy looking worse for wear.
+
+Sasha runs across the battlefield to get away from the final harpy, but it lunges after her with its claws, it lands a hit as he runs past leaving a vicious wound on her side.
+
+She casts Cure Wounds on Marlade and he looks much better.
+
+Marlade casts Toll the Dead, but the harpy once again resists it.
+
+Minogar slices once again, and the harpy is now looking near death.
+
+Mira takes his shortsword and cuts it in half. The bottom half constricts and stays stood on the ledge, as the top half falls down cliff and tumbles into the waters below...
+
+### Chapter 31
+##### Heart
+
+Minogar decides to look around the battlefield for some loot, he sees that each harpy has a club, but is more interested in a potion that he finds. It is a potion of waterbreathing.
+
+<div class='descriptive'>
+##### Potion of Water Breathing
+You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
+</div>
+
+The group go back inside the shrine, and take a short rest. Minogar looks at the lightning rod sticking out of the roof.
+
+He looks around the statue to try and find hidden compartments. The altar to the south starts to spark as he does this.
+
+Minogar then says should they try to commune with the statue, but Marlade reminds the group that he thinks the god is evil.
+
+The altar sparks again, and the group move back. Mira goes up to the altar, it stops sparking as he looks closely. But then sparks again as he moves back. The hair on the back of his neck begins to rise.
+
+Marlade tries to discern if there is any magic causing the altar to spark, it appears to be charged magically. But he doesn't believe it's dangerous.
+
+Mira decides to touch the altar, tiny sparks crackle in his eyes and they turn blue. He is now empowered with the storm, and the altar stops sparking.
+
+The group head back into the foyer and listen, they hear the heart beat from before, but it is now echoing all around and is much louder.
+
+They head through the double doors and into a circle room with a spiral staircase. They head up one level to a door on their right.
+
+They head through the door and it reveals a balcony outside. As they step out, from this vantage point, the party can see the shattered masts of the five shipwrecks west of the lighthouse. Enclosing the rooftop is a 1-foot-high stone wall with a 2-foot-high iron railing atop it. A similar railing circles the walkway of the lighthouse beacon, which is 20 feet above this area.
+
+To the south they see a 10 foot tall wrought-iron lightning rod that reaches towards the sky. They head back inside the tower and climb it to the top.
+
+The beating heart sound at this point is really loud and is nearly deafening them.
+
+The pinnacle of the lighthouse beacon is partly open to the elements and surrounded by a narrow walkway topped by an iron railing. Three open archways allow the<br>
+beacon’s pulsating green light to<br>
+spill westward over the<br> sea. 
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/Me7yLmG.png' 
+  style='position: absolute; right: -40px; bottom: 0px; width: 50px' />
+
+Sasha goes to the edge of the balcony and looks out to the sea, the other three characters look to the source of the light, which is a still-beating heart, floating in the air 5 feet off the floor. The heart has been magically enlarged to ten times its normal size.
+
+The characters are blinded from the green light temporarily and wait until their vision is restored.
+
+Marlade casts detect magic and senses necrotic magic in the room, presumably what is keeping the heart alive.
+
+He realises the heart is also protected from all kinds of psychic damage and is locked in place.
+
+Minogar slashes the heart with his greataxe, it blinds him again as he does this, but he slices it down the center and it begins to bleed out. The heart beat becomes more faint.
+
+Marlade follows up with a Toll the Dead cantrip, but to his horror he ends up restoring the heart back to health as though Minogar had never hit it.
+
+Minogar slashes again, cursing Marlade for wasting his vision against this thing.
+
+He succeeds in slicing it in half this time, the heart falls to the floor in two fleshy clumps. The green glow fades to nothing. The heart implodes, leaving no trace behind.
+
+The group decide to look around the room, they look out to the shipwrecks and can see three sharks - about 15 foot long - swimming around the wrecks.
+
+They head to the base of the tower and head through a single door to the north. As they enter the room, this 15-foot-high room has two north-facing windows. A barnacle-encrusted chair stands against the south wall. Sitting in the chair is Moesko, an anchorite of Talos clad in armor made from giant octopus hide. Resting in his lap is an opalescent conch he took from Miraal the sea elf.
+
+Beneath his armor, Moesko has a hole in his chest where his heart used to be. Moesko is dead and slumped in the chair.
+
+Minogar notices the conch on his lap, and rushes to grab it. He also takes the clawed gauntlet that is in his right hand.
+
+The group head back to the banshee with the conch. As they enter the cave, the banshee forms infront of them and asks for the conch.
+
+As Minogar hands over the conch, the banshees twisted face becomes calm, she resembles a youthful elf once more. She smiles at the group warmly and fades away.
+
+Minogar decides to search through the elf's corpse and finds a Cloak of Billowing.
+
+They return to the talking crab, and the crab has already detected that the elf has returned to the beyond. He offers to fetch some treasure from a wreck for the group. He disappears for a few moments and emerges from the sea with an enchanted greataxe. Which Minogar swiftly takes.
+
+The crab slowly shrinks and returns to its normal self. It scuttles away quickly into the sea.
+
+The group decide to climb back up the cliff and take a long rest. They see a few dozen baby turtles struggling to make their way to the sea.
 
