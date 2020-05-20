@@ -1,3 +1,4 @@
+
 <style>
 .divider {
     width: 100%;
@@ -2418,9 +2419,6 @@ spill westward over the<br> sea.
 \page
 
 <div class='pageNumber auto'></div>
-<img 
-  src='https://imgur.com/Me7yLmG.png' 
-  style='position: absolute; right: -40px; bottom: 0px; width: 50px' />
 
 Sasha goes to the edge of the balcony and looks out to the sea, the other three characters look to the source of the light, which is a still-beating heart, floating in the air 5 feet off the floor. The heart has been magically enlarged to ten times its normal size.
 
@@ -2457,4 +2455,396 @@ They return to the talking crab, and the crab has already detected that the elf 
 The crab slowly shrinks and returns to its normal self. It scuttles away quickly into the sea.
 
 The group decide to climb back up the cliff and take a long rest. They see a few dozen baby turtles struggling to make their way to the sea.
+
+```
+```
+
+## Session 08 - 19/05/2020
+### Chapter 32
+##### Fireflies
+
+The group awaken from their long rest, the morning brings a slightly colder temperature this day.
+Dew is forming on the grass around them and there is a slight damp feeling to the air.
+
+They look out to sea at the tower they were in previously. Behind it they see a storm brewing out to sea.
+
+The group decide that because of this, they should head off somewhere else. They deliberate where to go.
+
+They remember the commendation that they had from Justice Keenseeker, the knight they met in Phandalin. It says they should seek out Lord Dagult Neverember in Neverwinter.
+
+Using this knowledge, they head north towards Neverwinter, sticking to the main road. As they travel, Minogar mentions they should also search for the ruins that Daran spoke of.
+
+The group camp for two nights as they travel north. About halfway to Neverwinter, when they are camping on the second night, they see fireflies fluttering all around them. Like little yellow lights slowly bobbing up and down.
+
+The fireflies appear to the group as though they aren't actually randomly moving around, and are actually trying to lead them somewhere.
+
+Sasha leads the group as they follow the fireflies, the moon has come out in full and the night has cemented itself. The group have now gone off the main path and are in the middle of a field.
+
+The grass here is longer than near the path and comes up to their knees. The group see boulders and stones, but nothing matching the description of the place they are searching.
+
+Sasha continues to lead the group, following the fireflies. They come to a mound, a thirty-foot-high hill rises ahead of them, its top too flat to be a natural occurrence. Jutting from the grassy hilltop is a row of ten-foot-tall, bone-white rocks that arc toward the sky like outstretched talons.
+
+The fireflies they were following start to encircle the stones in random directions. Marlade and Minogar light torches and the group go to the stones. Sasha carries on leading the group, and they start to inspect the jagged rocks.
+
+Mira looks around and comes to realize that the hill they are stood on is shaped like a dragon, and the rocks they are looking at make up its spikey spine. He also realizes that there is a hidden entrance below one of the rocks.
+
+When they open up the entrance, the fireflies all shoot down into the opening.
+
+Mira leads the group down, it is a spiral staircase made of mud and rocks. They descend down, and emerge into a dug out room with exits in each of the four cardinal directions.
+
+The fireflies have formed three groups and are moving around the north, west and south exits. As the group approaches a cluster, the fireflies move back into their respective tunnel, as if beckoning the group to follow.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/3ybH1OJ.jpg' 
+  style='position: absolute; left: -500px; top: 0;height: 100%' />
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/5Obgs25.png' 
+  style='position: absolute; right: 0px; bottom: 10px; width: 400px' />
+  
+Deciding to stick together, the group head west and follow that group of fireflies first.
+
+Keeping their distance constantly, the fireflies move back through the tunnel and Mira follows them first. As he follows, the ground collapses beneath him as a pit opens up.
+
+He falls onto a load of rusty swords, about ten feet down. The pit is five feet across and is as wide as the tunnel. Mira is bleeding out at the bottom of the pit, and decides to cast Cure Wounds on himself. The bleeding stops and the group decide how to get him out and how best to cross this new obstacle.
+
+Minogar tries to reach down and grab Mira, but its just out of his reach. Mira jumps up and attempts to grab his hand. He jumps up but misses the hand, and hits the swords again.
+
+Minogar throws some rope down to Mira, he grabs it and they attempt to haul the elf out of the pit. They manage to haul him up and Mira is now out of the pit.
+
+Minogar says why not just jump across the pit. Mira tries to jump across the pit, but as he leaps, the edge of the pit where he jumps off falls away and he begins to tumble into the pit again. Minogar reacts and tries to grab him before he falls, but just misses as he reaches out, Mira tumbles into the pit again and takes some more damage.
+
+Minogar jokes that they will be killing dragons in no time!
+
+Sasha suggests to Minogar for him to jump across instead and try pulling Mira up on the other side.
+
+He leaps across and lowers down the rope to Mira to get him out again. Mira is starting to tire, so as he climbs the rope he slips and falls back into the pit, taking damage. They try once again, but the rope is starting to strain, and snaps.
+
+Mira once again falls back into the pit.
+
+Minogar hangs himself onto the ledge of the pit in attempt to let himself be a ladder. His massive goliath arms strain as Mira climbs up, but it works and Mira is now out of the pit and on the other side!
+
+Mira takes out another rope and throws it across to the other two, Sasha and Marlade watch as the rope lands on their side of the pit and begins to drag back into the pit. They stand confused as it falls in. Mira throws it again and tells them to catch it!
+
+Sasha grabs the rope.
+
+She hands it to Marlade and attempts to jump the gap. Sasha leaps across but it looks like she isn't going to quite make it, Minogar quickly grabs Sasha as she lands on the other side and begins to fall back. She is now on the other side.
+
+Marlade now stands on the other side with the rope in his hand, smiling at the group.
+
+Marlade ties the rope around his waist and tries to jump the pit. He shuffles across in his little robe and does a piddly little jump, and begins to tumble face first into the pit.
+
+Minogar reacts quickly and tugs on the rope that is tied around Marlade's waist, sadly his palms have become sweaty and the rope slides through his fingers.
+
+Marlade slams head first into the ground and takes critical damage on the swords. One of the swords stabs right through his chest and he is looking really bad.
+
+He immediately casts Cure Wounds on himself and manages to slightly seal the wound, he casts it again and heals the wound completely.
+
+Mira throws a potion of healing down to him, and Marlade manages to catch the potion, he drinks it and recovers to near full strength.
+
+Minogar lowers himself down, similar to how he did for Mira earlier. Marlade begins to climb him and decides now is a good time to tickle Minogar, Minogar does manage to hold on but tells him to knock it off!
+
+They are now all out of the pit, and in a new room. The fireflies begin to disperse around the room and disappear, the group hear them laughing as they do this.
+
+This new room contains four sarcophagi, buried into the walls. The group each pick one and open it. The group nominate Minogar to go first, as he opens it, he sees the remains of a body, it is now a skeleton. Based on the equipment it is buried with, it must be a dead bard. There is a lute next to it. He beckons over to Sasha to take a look, she comes over and inspects the lute.
+
+It feels very magical in her hand, but she feels bad taking it from a grave, so initially puts it back.
+
+Mira then opens another sarcophagus, again he sees a skeleton, but this one has no possessions so has no idea what or who it once was.
+
+Mira then goes over to another sarcophagus and opens it up, again, it contains a skeleton but this one has a necklace around its neck.
+
+He peers closer and sees the necklace has five beads on it, all containing small miniature flames suspended presumably by magic.
+
+Mira decides to keep the <strong>Necklace of Fireballs</strong>.
+
+Sasha decides based on this, to actually take the lute. She asks Minogar to pass it to her though, just in case. Minogar picks up the <strong>Instrument of Illusions</strong>.
+
+He starts to play it and realises he can create illusions. A dancing Lanar appears in the room and the group laugh.
+
+Minogar passes it to Sasha. They inspect the final sarcophagus and this one just contains a skeleton with no other equipment.
+
+Sasha realises that the group now has to go back over that pit. Minogar suggests to make a bridge with one of the sarcophagus's lids.
+
+They grab the nearest lid and use it to cross the pit. It starts to crack as Minogar goes across but they do all follow and make it across.
+
+They head back into the first room, and the two remaining groups of fireflies are hovering around the north and south exits.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/RdE0XXQ.png' 
+  style='position: absolute; left: -90px; bottom: 20px; transform: scaleX(-1)' />
+
+### Chapter 33
+##### Suffocation
+
+Once again, the fireflies move back as the group approach, the group decide to head south this time. They move much more slowly and check the ground. Mira leads the group and spots something funny about the ground before the next room, the mud is very flat in a five foot square.
+
+He investigates the ground, Minogar looks as well, they see that this must be the trap. They pat the ground and it falls away, revealing a similar trap to before, with rusty swords at the bottom.
+
+Minogar leaps across, and the group decide to just let him explore for now. He sees a small cavern, the fireflies do what the others did and disperse around the room, laughing away and disappearing.
+
+To the east he sees a small tunnel, that he could probably crawl through. To the south he sees a pile of bones, but he cannot tell what kind of creature the bones belong too. He reports back to the group, telling them about the bones and the hole in the wall.
+
+Sasha then leaps across the pit.
+
+She inspects the hole in the wall, to her, it is still a small hole but not as claustrophobic as if the goliath was to crawl through it.
+
+She also goes over to the bones and looks closely at them.
+
+As she approaches, the bones start to rise slowly and forms into a skeletal horse. It stands there looking at the group, or looking with where its eyes would be. It acts as though it sniffs Sasha.
+
+Sasha strokes the bones, but the horse does not mind. 
+
+The horse wanders around and Minogar also pats the horse, it does not mind.
+
+Sasha goes back over to the hole in the wall, she starts to crawl through the tunnel. Completely surrounded by earth, she presses on around a corner, and then around another. Shuffling along, she does not notice a pressure plate that she triggers as she is crawling.
+
+```
+```
+
+The trap is sprung and the tunnel collapses around her!
+
+Unable to see or breathe, Sasha starts to panic. She cannot even muster a shout without earth falling into her mouth!
+
+Minogar sees the tunnel collapse infront of him and immediately starts frantically trying to dig into it. Sadly, Sasha crawled quite far into the tunnel, so Minogar has a long way ahead of him to dig. His goliath strength and endurance allows him to continue.
+
+Sasha begins to choke, she cannot hold her breath anymore.
+
+Minogar keeps shouting for Sasha and digging frantically, and Sasha begins to suffocate. Minogar begins to tire, and Sasha goes unconscious.
+
+He keeps digging, lactic acid building up in his arms, but he presses on. He sees a leg, and grabs it with all his might. Sasha is looking in a bad way, and is not breathing at all.
+
+Minogar panics and tries to give her a potion of healing, but as she is full of mud she cannot injest the potion.
+
+He decides to start dragging her back to the group, she starts to turn purple and blue. Minogar is sweating profusely thinking that she isn't gonna make it.
+
+But miraculously! She coughs up the mud and stones she had swallowed, and breathes once again! Delirious and not sure where she is, she sees Minogar above her looking concerned.
+
+The tunnel collapses once again, but the pair are out of it. It seals up to prevent anyone entering again.
+
+Sasha casts Cure Wounds on herself to restore lung function properly. She stands and Minogar stops crying.
+
+The horse comes over to Sasha and nudges her with its head, seemingly to check if she is OK. Sasha strokes the horse.
+
+The undead horse crouches down, as if beckoning to Sasha to ride it. She mounts the horse and it stands upright.
+
+She notices that it has a collar, it has rotted away over the years, but still contains the words "Lady Alagondar...".
+
+Sasha names the horse, "Lady".
+
+She sees if the horse will follow her commands and is able to ride it around the room with ease.
+
+The pair then trot over to the pit and Sasha encourages it to jump.
+
+However, the horse does not even try to jump, it just effortlessly walks over the pit as though it was not there!
+
+Minogar follows and leaps back across the pit to rejoin the group.
+
+The group head back into the first room. Only one group of fireflies remain, to the north. Again, the fireflies move back to beckon the group to follow.
+
+Sasha rides the horse and leads the group north following the fireflies once again, she detects another pit in the tunnel. Sasha decides to just walk over it with the horse, the fireflies again, whizz around the room laughing and disappear.
+
+This room contains two sarcophagi either side of the room, buried in a similar fashion to other room. Sasha peers around a central pillar and sees the edge of a hilt.
+
+As she moves around the pillar, she sees a sword sticking out of the ground in a pedestal.
+
+The sword is extremely ornate and is the size of a full longsword, the gunmetal blade shines in an almost ethereal pattern. Its hilt is shaped like two open dragon wings in a bold navy colour and the pommel ends with the head of a dragon breathing fire out pointing upwards.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/8JQ6O1M.png' 
+  style='position: absolute; right: 20px; bottom: 20px; width: 400px' />
+
+### Chapter 34
+##### Stalker
+
+Sasha reaches out for the sword and grasps it. She pulls the <strong>Dragon Slayer Longsword</strong> out of it's resting place and twirls it around. The blade looks foreboding, as she moves it around it feels like it would do a lot of damage to something if it was to hit it and yet, doesn't feel heavy in her hand.
+
+Minogar starts to come down the tunnel to the room where Sasha went, he moves slowly and checks for traps.
+
+As this is happening, Sasha suddenly gets whacked to the floor from an unknown force, she cannot see the assailant. The group hear the commotion and wonder what is going off.
+
+Marlade also follows Minogar to the northern room, and checks for traps. Mira also joins the group and sees the trap, he sets it off safely. It opens up the same as the other two and contains rusty swords at the bottom.
+
+Sasha gets up, and casts Cure Wounds on herself. Minogar leaps over the trap and joins Sasha, to his surprise, she is looking very panicked. To his horror he feels something swinging at Sasha, she feels the wind rushing too, and manages to dodge the swings.
+
+Marlade also tries to jump across the pit, this time he manages to get across and join the other two in the room with the sword.
+
+Mira also jumps across the pit, she asks Sasha what is happening. Sasha explains that something is swinging at her, she quickly mounts the horse and rides it south out of the room, leaving the group behind.
+
+Bewildered, the group struggle to work out what has happened. Minogar suddenly gets knocked prone from an unseen force. He uses his Stone's Endurance to absorb the hit.
+
+Marlade decides to follow Sasha and jump over the pit, as he jumps though, he gets caught and falls into the pit.
+
+Mira uses his Primeval Awareness to detect what could be attacking Minogar, he detects that there is an Invisible Stalker in the room, that is an elemental. 
+
+Minogar runs over to Marlade who is in the pit. The three of them all feel a massive rush of wind go past them and Sasha is knocked off of the horse by the stalker. The horse rears and panics, not knowing what just happened.
+
+Marlade tries to grab Minogar to climb out of the pit.
+
+Mira moves around the pair and leaps across the pit to follow the gust of wind. Sasha picks herself up off the floor and casts Blade Ward on herself.
+
+Minogar pulls Marlade out of the pit, Minogar jumps across the pit, leaving Marlade on the other side. The stalker attacks Sasha again, but her Blade Ward dampens the blow.
+
+Marlade leaps across the pit, following Minogar, he enters room that Sasha is in and casts Detect Magic. He doesn't detect that magic is causing the stalker to attack.
+
+Mira shouts over to Sasha to get rid of the sword.
+
+Sasha drops the sword and moves away from it. Minogar moves behind Sasha, ready to defend.
+
+The stalker keeps attacking Sasha though, and knocks her unconscious. It swings again at Marlade and hits him hard against the wall. Marlade goes over to Sasha and casts Cure Wounds on her. Sasha gets up, but looks very damaged. Marlade also casts Healing Word on himself to recover from the last hit.
+
+Minogar tries to reach out around Sasha to try and work out where the thing is thats attacking.
+
+The stalker continues its assault on Sasha and once again, knocks her unconscious. Marlade picks a location and casts Guiding Bolt, but it doesn't connect with anything. He also casts Sanctuary on Sasha, in an attempt to protect her.
+
+Mira rushes over to the sword and picks it up. Sasha starts to come around again, but is still on the floor. Minogar swings around his greataxe near Sasha, but hits nothing.
+
+Mira is now hit instead of Sasha by the unseen force and is knocked over. Marlade casts Detect Magic on the sword, he notices that the sword has got some kind of curse on it, and is what is summoning the stalker to attack.
+
+Mira takes the sword and spins around with it, but doesn't manage to hit anything.
+
+Sasha starts to look critical, and is slipping away. Minogar rushes over and uses a Potion of Healing on Sasha. She manages to get back up again, but is extremely shaken.
+
+Mira feels a gust of wind twice as it swings at him, he steps back to avoid the attacks.
+
+Marlade uses his Staff of Defence on Mira to cast Mage Armor on him. Mira drops the sword where he stands and moves away from it.
+
+Sasha casts Cure Wounds on herself to recover from her ordeal.
+
+Minogar uses a reckless attack on the sword, and chips the blade. A massive clang echoes through the room and the sword slides across the floor.
+
+Mira gets hit again by the stalker, but his mage armor protects him from the blow. Marlade casts Cure Wounds on Mira to keep him alive.
+
+Mira decides now is the time to escape, and rushes towards the entrance. Sasha follows suit and runs away with Mira. Minogar also decides that he should escape from this thing. The group leave Marlade alone in the room with the thing.
+
+The stalker attacks Marlade and knocks him unconscious, the group do not know he has been attacked.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/8JQ6O1M.png' 
+  style='position: absolute; right: 20px; bottom: 20px; width: 40px' />
+  
+Miraculously, Marlade manages to stir, and get up. He stumbles back to the entrance to join the group outside.
+
+The group wait outside, and wait for the thing to come, but it never does.
+
+Sasha listens at the entrance and hears a faint wail of the horse being attacked. Then no sound at all...
+
+### Chapter 35
+##### Recon
+
+The group are stood, the moon still in the sky, they are extremely tired and contemplate taking a rest and coming back.
+
+Minogar says that because the sword was dropped near the entrance, he feels he can quickly go down and grab it.
+
+The group debate, but decide to let Minogar try to get the sword.
+
+Minogar slowly heads down the staircase once again. He does not hear any noises or commotion. However, when he approaches where the sword was dropped, it is no longer there.
+
+He sees a broken pile of bones where Lady once stood. He sees that the bones have been shattered, and looks like the stalker destroyed the horse.
+
+Minogar notices that while he has been stood looking, nothing has attacked him. He heads north again, and jumps across the pit, however, he loses his footing slightly but manages to grab the other side. He hauls himself up on the other side.
+
+He goes over to the pedestal and is shocked to find the sword is back in the pedestal, the chip he gave it before when he hit it has been removed.
+
+Beside him are two sarcophagi, he inspects one and finds it contains a skeleton. He checks the other one which also contains a skeleton, but this one is wearing rusty armor. He looks closely at the armor, and sees that it has some text on it engraved. But there is too much rust to read it anymore.
+
+The others outside start to get worried about Minogar, but decide to wait a while longer.
+
+Minogar gets annoyed and swings his axe at the armor, it leaves a massive dint in it, and a massive ding echoes through the tunnel. The rust falls away from the armor, and he is able to read the words, "Tanamere Alagondar".
+
+> ##### Lady Tanamere Alagondar
+> Lady Tanamere Alagondar was a royal scion of the Alagondar family in Neverwinter
+>
+> Not much is known about Lady Tanamere Alagondar. It is said that she and two parties of adventurers fought and killed a green dragon named Azdraka that terrorized the High Road sometime during the era Neverwinter was ruled by the Alagondar family.
+>
+> After being mortally wounded in the battle, her dying wish was that she and her fallen compatriots were buried with the corpse of Azdraka beneath a barrow near where the dragon fell.
+>
+> According to legend, the Dragon Slayer longsword she wielded to slay Azdraka was buried there with her to this day.
+
+The group outside hear the loud clanging noise, and start to worry what is happening. They decide to wait longer though as they believe they would hear more noise if he was in trouble.
+
+Minogar stands near the sword and feels like he is being watched.
+
+The group decide they have waited long enough, they head down into the barrow once again. The three of them arrive at the pit to the north, Sasha shouts over to Minogar to get out of here.
+
+Minogar tells them that he found some armor with the name of "Tanamere Alagondar" on it.
+
+The group decide the best course of action is to leave the barrow and prepare better for this. Minogar goes to jump over the pit, which he has succeeded everytime so far, but his overconfidence gets the better of him and he falls into the pit.
+
+The swords dig into his legs and he screams out. He tries to jump off the swords to grab the ledge.
+
+Sasha begins to help him get out of the pit, he grabs her hand but his goliath weight is too much and he ends up pulling the high elf into the pit with him as they both fall back in.
+
+Minogar decides to just pick Sasha up and lift her out of the pit, Sasha climbs out. Mira comes to help, and Sasha and Mira both hold some rope down to try and lift Minogar out of the hole.
+
+Minogars hands are too sweaty to grab ahold of the rope. He starts to climb out of the pit with the rope. Sadly, the rope snaps trying to hold his weight and he goes crashing back into the pit.
+
+Sasha casts Mending on the rope, the rope is now as good as new. Minogar grows impatient and just tries to jump up again. He gets a much better footing this time, and manages to climb out.
+
+The group leave the barrow and head back to the main path, the sun is beginning to rise. They are shattered and so set up camp and decide to take a long rest.
+
+After the rest, the time is now midday and Minogar is awoken by someone tapping him with their foot.
+
+"Hello there!" a squeaky voice exclaims, as Minogar opens his eyes and sees a halfling male with a huge backpack rubbing his hands over him.
+
+"Im a wandering merchant, sorry to bother you, I thought I would talk to you first, erm, because you're the biggest!", the merchant continues, "Could I interest you in some wares, maybe?"
+
+Minogar sighs and gets up, visibly annoyed to have been woken up from his nap.
+
+"Oh, oh!" the merchant realises he has annoyed the goliath, "I can, err, come back some other time, no problem!" and begins to scurry away.
+
+Minogar decides to shout out to him and ask what has he got?
+
+"Oh?!", the merchant turns back around, surprised and rushes back over to the group.
+
+He takes out a small ring from his inside pocket and holds it up to the group, "Ah sorry, I thought you weren't interested... I've got a..." he thinks for a moment.
+
+"A ring of invisiblity!", he exclaims, he quickly follows up with, "It is a single use though, I must warn ye!!"
+
+"And just for you, my goliath friend, I will sell it for only 50 gold pieces, on this day only!!"
+
+\page
+
+<div class='pageNumber auto'></div>
+
+Minogar isn't sure, and asks what it does.
+
+"Ah, its in the name! Its the ring of invisibility, its got.", the merchant cuts himself off, "Normally, this would be 5000 gold or higher, but I just like the look of you, goliath, you're very big and strong!"
+
+Marlade comes over and looks at the ring. The merchant notices the cleric coming over and shows it to him instead.
+
+Marlade recognises that the ring is indeed magic, but he cannot say if the merchants claims are true, but they could certainly be.
+
+"So what do you say? Today only! If you come back again, this item will be 5000 gold!"
+
+Minogar asks if it really does work.
+
+"Well, ive never tried! As it is single use, I don't want to waste it!"
+
+"I stole it you see, from a dragon's hoard. A wizard identified it and told me it is a 'Ring of Invisibility'"
+
+Minogar offers 20 gold.
+
+"35... final offer" the merchant says.
+
+Minogar accepts the offer. The merchant bids them farewell after doing business and heads south down the path.
+
+Sasha realises that she knew the Invisibility spell all this time, and tells the group...
+
+The group sigh and turn their attention north. The spires of Neverwinter city are visible on the horizon...
 
