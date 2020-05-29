@@ -2848,3 +2848,104 @@ Sasha realises that she knew the Invisibility spell all this time, and tells the
 
 The group sigh and turn their attention north. The spires of Neverwinter city are visible on the horizon...
 
+## Session 09 - 26/05/2020
+### Chapter 36
+##### Tomb
+
+Except they don't!
+
+The group come up with a plan to get the sword instead. Sasha now knows she can go invisible and they feel they can now take on the creature. She mentions that she also knows Faerie Fire to see where it is.
+
+The plan is for the group to stand nearby, while Sasha goes invisible and tries to swipe the sword. Mira mentions that it could also be a good idea to build bridges over the pits.
+
+Minogar suggests going over to the woods to chop down a tree, and take some wooden planks down with them.
+
+Mira leads the group back to the hidden entrance to Dragon's Barrow. The group decide to split up, Sasha and Marlade decide to stand watch at the barrow, and Mira and Minogar head east towards Neverwinter Woods to get some wood.
+
+They arrive at the trees, and feel a strange magical sensation in the air. Mira feels uneasy but Minogar jumps forward and says chop it! He cleaves the nearest tree and with one mighty slash, he fells it. He begins to cut up the lumber into planks and produces five 6-foot planks.
+
+They each pick up two each, and begin to head back. Minogar decides to lead the way, they begin to argue and they realise they are stood in a field and unsure where the barrow is.
+
+Mira now leads the pair and he manages to get lost even further.
+
+Marlade and Sasha are wondering where the pair have gotten too, as it has been a while. Marlade decides to pray for planks instead, as he believes his god will deliver sooner than his fellow adventurers.
+
+Meanwhile, Minogar and Mira are still wandering around, they orient themselves with the sun and realise they should have been heading south.
+
+Marlade is trying to convince Sasha to also follow Savras, his god. He attempts to convert her, but she replies instead, trying to convert him to the "religion of music". She begins to play her instrument.
+
+Minogar and Mira overhear Sasha's signature song and decide to follow it back to the barrow.
+
+They arrive back with the group and Marlade believes that it was Savras' will that brought them here and thanks his god.
+
+Sasha argues that it was actually the power of music that brought them here.
+
+The group decide to plan ahead before they head into the barrow this time. They decide to use the sending stones and send Sasha in first, invisible. Sasha will take a sending stone, and report to Marlade what she sees. The whole group will go down initially and take a plank each, to build the bridge over the pit.
+
+Sasha leads the group down into the barrow, they enter the familiar chamber and see the three groups of fireflies buzzing around the north, west and south exits. Unlike the other day though, they don't appear to move as the group get closer.
+
+Mira goes up to the nearest group, and swats at them. They fly around but quickly rejoin back into a group and vibrate more. Marlade inspects the fireflies, and recognises that they aren't actually fireflies. He doesn't know what they are, but he knows they are bad news.
+
+He casts Turn Undead on them, just to see what would happen.
+
+Surprisingly, they start to fly away as quick as they can! Marlade shows off the Sasha that Savras granted him this power, but Sasha just jeers back at him.
+
+The group arrive at the pit, and use the planks to create a bridge across. They take a deep breath and Sasha heads towards the sword first.
+
+She heads into the room once again, and sees the sword, in its pedestal.
+
+Slowly, she approaches the sword, as she walks towards it though, the spell wears off on the fireflies and they buzz around in front of Sasha.
+
+Marlade rushes forwards and casts Turn Undead again. The fireflies once again retreat back, and Sasha can move forward. She sees the familiar hilt of the sword, and casts Invisibility on herself. As she does this however, the fireflies all slowly fade, and become invisible.
+
+She approaches the sword and decides to lift it.
+
+However, the sword won't budge...
+
+Sasha, grasps it harder and tries to yank it out of the pedestal. The sword does move up slightly, but she feels like something is pushing the sword back down...
+
+She feels a slight breeze around the sword. She casts mage hand to assist her in pulling it up. This time however, the thing resists much harder and Sasha hears it growling, annoyed that someone is trying to steal the blade.
+
+Sasha takes out her sending stone and speaks to Marlade, she explains that she in danger, and asks whether she should leave or if they are coming to help. Marlade hears the message and sends back a command to pray to Savras. He gets the rest of the group and heads towards the room with Sasha.
+
+Sasha curses Marlade and begins to panic.
+
+The other members begin to cross their make-shift bridge.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+As each one crosses, the plank begins to bow. But the bridge holds up.
+
+Minogar waves around his torch in the room. He sees the shadow of Sasha, gripping the sword and a shadow of some fireflies towards the back of the room, but nothing else.
+
+Marlade casts Detect Evil and Good, he detects that the sword itself has been cursed, and standing above the sword is an invisible elemental, pushing it down.
+
+[48:29]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
