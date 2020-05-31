@@ -2734,9 +2734,6 @@ The stalker attacks Marlade and knocks him unconscious, the group do not know he
 \page
 
 <div class='pageNumber auto'></div>
-<img 
-  src='https://imgur.com/8JQ6O1M.png' 
-  style='position: absolute; right: 20px; bottom: 20px; width: 40px' />
   
 Miraculously, Marlade manages to stir, and get up. He stumbles back to the entrance to join the group outside.
 
@@ -2821,6 +2818,9 @@ He takes out a small ring from his inside pocket and holds it up to the group, "
 \page
 
 <div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/Rj0R17f.png' 
+  style='position: absolute; right: 0px; top: 0px; width: 300px' />
 
 Minogar isn't sure, and asks what it does.
 
@@ -2847,4 +2847,746 @@ Minogar accepts the offer. The merchant bids them farewell after doing business 
 Sasha realises that she knew the Invisibility spell all this time, and tells the group...
 
 The group sigh and turn their attention north. The spires of Neverwinter city are visible on the horizon...
+
+## Session 09 - 26/05/2020
+### Chapter 36
+##### Tomb
+
+Except they don't!
+
+The group come up with a plan to get the sword instead. Sasha now knows she can go invisible and they feel they can now take on the creature. She mentions that she also knows Faerie Fire to see where it is.
+
+The plan is for the group to stand nearby, while Sasha goes invisible and tries to swipe the sword. Mira mentions that it could also be a good idea to build bridges over the pits.
+
+Minogar suggests going over to the woods to chop down a tree, and take some wooden planks down with them.
+
+Mira leads the group back to the hidden entrance to Dragon's Barrow. The group decide to split up, Sasha and Marlade decide to stand watch at the barrow, and Mira and Minogar head east towards Neverwinter Woods to get some wood.
+
+They arrive at the trees, and feel a strange magical sensation in the air. Mira feels uneasy but Minogar jumps forward and says chop it! He cleaves the nearest tree and with one mighty slash, he fells it. He begins to cut up the lumber into planks and produces five 6-foot planks.
+
+They each pick up two each, and begin to head back. Minogar decides to lead the way, they begin to argue and they realise they are stood in a field and unsure where the barrow is.
+
+Mira now leads the pair and he manages to get lost even further.
+
+Marlade and Sasha are wondering where the pair have gotten too, as it has been a while. Marlade decides to pray for planks instead, as he believes his god will deliver sooner than his fellow adventurers.
+
+```
+```
+
+Meanwhile, Minogar and Mira are<br>
+still wandering around, they orient <br>
+themselves with the sun and realise <br>
+they should have been heading <br>
+south.
+
+Marlade is trying to convince Sasha to<br>
+also follow Savras, his god. He attempts to<br>
+convert her, but she replies instead,<br>
+trying to convert him to the "religion of music".<br>
+She begins to play<br>
+her instrument.
+
+Minogar and Mira<br>
+overhear Sasha's<br>
+signature song and<br>
+decide to follow it<br>
+back to the barrow.
+
+They arrive back with<br>
+the group and Marlade<br>
+believes that it was Savras'<br>
+will that brought them here<br>
+and thanks his god.
+
+Sasha argues that it was actually the power of<br>
+music that brought them here.
+
+The group decide to plan ahead before they<br>
+head into the barrow this time. They decide<br>
+to use the sending stones and send Sasha in first, invisible. Sasha will take a sending stone, and report to Marlade what she sees. The whole group will go down initially and take a plank each, to build the bridge over the pit.
+
+Sasha leads the group down into the barrow, they enter the familiar chamber and see the three groups of fireflies buzzing around the north, west and south exits. Unlike the other day though, they don't appear to move as the group get closer.
+
+Mira goes up to the nearest group, and swats at them. They fly around but quickly rejoin back into a group and vibrate more. Marlade inspects the fireflies, and recognises that they aren't actually fireflies. He doesn't know what they are, but he knows they are bad news.
+
+He casts Turn Undead on them, just to see what would happen.
+
+Surprisingly, they start to fly away as quick as they can! Marlade shows off the Sasha that Savras granted him this power, but Sasha just jeers back at him.
+
+The group arrive at the pit, and use the planks to create a bridge across. They take a deep breath and Sasha heads towards the sword first.
+
+She heads into the room once again, and sees the sword, in its pedestal.
+
+Slowly, she approaches the sword, as she walks towards it though, the spell wears off on the fireflies and they buzz around in front of Sasha.
+
+Marlade rushes forwards and casts Turn Undead again. The fireflies once again retreat back, and Sasha can move forward. She sees the familiar hilt of the sword, and casts Invisibility on herself. As she does this however, the fireflies all slowly fade, and become invisible.
+
+She approaches the sword and decides to lift it.
+
+However, the sword won't budge...
+
+Sasha, grasps it harder and tries to yank it out of the pedestal. The sword does move up slightly, but she feels like something is pushing the sword back down...
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/2jg34iP.png' 
+  style='position: absolute; right: 20px; bottom: -50px;' />
+
+She feels a slight breeze around the sword. She casts mage hand to assist her in pulling it up. This time however, the thing resists much harder and Sasha hears it growling, annoyed that someone is trying to steal the blade.
+
+Sasha takes out her sending stone and speaks to Marlade, she explains that she in danger, and asks whether she should leave or if they are coming to help. Marlade hears the message and sends back a command to pray to Savras. He gets the rest of the group and heads towards the room with Sasha.
+
+Sasha curses Marlade and begins to panic.
+
+The other members begin to cross their make-shift bridge.
+
+As each one crosses, the plank begins to bow. But the bridge holds up.
+
+Minogar waves around his torch in the room. He sees the shadow of Sasha, gripping the sword and a shadow of some fireflies towards the back of the room, but nothing else.
+
+Marlade casts Detect Evil and Good, he detects that the sword itself has been cursed, and standing above the sword is an invisible elemental, pushing it down.
+
+Marlade starts to prepare guiding bolt against the elemental, but the invisible stalker realises this and attacks at him. Marlade uses Shield to block the first attack but is struck by the second. Sasha shouts to the group that they should probably get out of here!
+
+Minogar rages and swings his greataxe in the space around Marlade but it just whiffs through the air. Marlade fires his prepared guiding bolt but it flies around the room and doesn't find it's target. The stalker attacks Marlade again, and he deflects a blow but is hit by another attack from the creature.
+
+Mira shouts to Sasha to use Faerie Fire! Sasha tries to pull on the sword again, but is once again met with resistance. Minogar uses a Reckless Attack to swing above the sword but once again, makes no contact.
+
+Marlade casts another guiding bolt, but it once again flies around the room, making no contact with anyone.
+
+Sasha and Minogar feel a gust of wind rush past them, as the stalker goes for Marlade once again. He blocks the attack with his Shield spell.
+
+Sasha moves back slightly and casts Faerie Fire. As she moves back however, she get a very weird sense of unease and realises that she is stood right where the stalker is. She moves back again and sees a blue outline of what looks to be a human woman.
+
+Sasha quickly realises it must be the ghost of Talamere Alagondar!
+
+Sasha decides to cast Bardic Inspiration on Minogar, and Minogar walks up to the ghost and speaks her name.
+
+The ghost slowly turns towards Minogar, "How do you know my name?"
+
+Minogar explains that he read it on a suit of armour nearby, and that they met her horse. "Why have you come to this place?" the ghost asks.
+
+Sasha stops being invisible and asks if her horse was called Lady. "Bit of an odd request, no. She was known as 'Wind'".
+The bard goes on to explain that she met the horse recently and that it was kind.
+
+The ghost cuts her off and asks again, "Why have you come to this place?"
+
+Sasha explains that they have come here in the hope of using this sword for good, but the ghost believes they are here to steal it. Marlade nods, and the ghost notices. Sasha explains that the cleric is a bit of a fool and to ignore him. The ghost accepts that explanation.
+
+Sasha explains that they were told about this sword, and they are in desperate need of it.
+
+The ghost ponders a second, "You seem like a decent person, but I deem you not worthy."
+
+Sasha asks what would make them worthy.
+
+"Should you wish to claim this sword for your own, you must find another artifact of mine. My helmet, wear the helmet, and I shall give you my sword."
+
+Sasha asks where it could be.
+
+The ghost explains that she was buried here many centuries ago after defeating a green dragon named Azdraka, who was terrorising the High Road. She explains that the dwarves took the helmet to bury it elsewhere, lest the grave be robbed. 
+
+Mira asks where the dwarves were from, and the ghost explains they came from the dwarven lands to the south.
+
+Marlade ponders this information, he recognises the name Alagondar as the previous rulers of Neverwinter, before Lord Dagult Neverember became Lord Protector. They were the legitimate royal family, and remain to this day. As the previous true king of Neverwinter never left any heirs, Lord Dagult rules in his stead until a true heir is found.
+
+With this information, the group decide to leave the barrow. They believe that now they should actually go north to Neverwinter to see what they can find out about the Alagondar family.
+
+They continue north up the High Road and it begins to get dark. They set up camp and the night passes without incident.
+
+In the morning, they continue along the High Road and travel for most of the day, they can now see in the distance, the spires of Neverwinter. But Marlade knows that at night, the gates of Neverwinter are sealed to protect it from monsters and threats at night and explains that they probably won't make it before sundown. The group set up camp again.
+
+They camp near the moat outside of the city walls, they sleep peacefully through the night.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://i.pinimg.com/originals/1c/ed/99/1ced993d85239c337e67a6156e315f7f.jpg' 
+  style='position: absolute; left: -500px; top: 0;height: 100%' />
+  
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/P6ZEYT8.png' 
+  style='position: absolute; right: -120px; bottom: -60px;' />
+
+### Chapter 37
+##### Neverwinter
+
+The group are awoken by the sound of the drawbridge being lowered nearby. They are currently near the south-east gate to the city, before them - across the now horizontal drawbridge - stands two guards at the entrance.
+
+Walking up to the guards, the group approach. Sasha bids them a good morning, and one of the guards impedes their path and puts his hand up, in a sort of "this is what I do everyday" sort of motion. As the group approach the gate, they expect to hear sounds of a busy city, yet it is eerily quiet around this part.
+
+The leftmost guard asks them what their business is at Neverwinter, the group says they are tourists.
+
+"Tourism you say? Why have you come to this part of the city?", the guard states, looking bemused.
+
+Minogar explains they have an invitation to speak to the Lord Protector, and hands the commendation to the guard. 
+
+The guard inspects the note and takes a moment. "Ok, yes. We can take you to Lord Dagult," the guard says, "But I must ask first, what is wrong, with him?" and the guard gestures towards Mira who looks taken a back slightly, the guard raises his spear at Mira.
+
+The group realise the guard is referring to Mira's eyes that are glowing bright blue and sparking slightly, from when he touched the altar back at the tower by the sea.
+
+Mira, still confused, says he doesn't understand why they think something is wrong with him?
+
+"You appear to be a servant of Talos to me!", the guard exclaims, "You've come to bring destruction to the city!"
+
+Marlade quickly realises what has happened and explains that they have it wrong. They have actually recently destroyed a shrine to Talos, they do not worship him.
+
+"Normally, I would trust a man of god, cleric, but this is not natural," the guard appears not to be convinced by the group's explaination.
+
+Sasha backs up Marlade and explains they are peaceful people, the guard stops, he lowers his spear, "Very well. But don't let there be any funny business, I'm watching you!"
+
+The guard's tone becomes friendly once again. He explains that Neverwinter is split into four districts, the one behind them is the Ruined District, named so due to a great calamity that destroyed a large portion of the city fifty years ago.
+
+He goes on to say that they can lead them to Lord Dagult, who currently resides in the Hall of Justice, in the Protector's Enclave to the west.
+
+The group decide to accept their invitation to be lead to the Hall of Justice. The guards lead them to another entrance to the city, to the west. This gate looks similar to the other one but behind it there is much more life and commotion.
+
+The group see crowds of people, many merchants trading and shouting about their produce, kids running around and birds in the air. They are lead up some stairs and before them they see, looming over the skyline of the Neverwinter's elite is the Hall of Justice. A great parthenon like structure that is forboding as it is beautiful. Its marble arches supporting a solid greystone roof that appears to reaching out up to the heavens itself. At the front of the building are marble steps, leading up to a giant dark oak door that is currently open, allowing the gentle breeze inside. 
+
+```
+```
+
+> ##### Districts of Neverwinter
+> 
+> #### Bluelake District
+>
+> Towards the north-west of the city. Contains most of the markets and tradesmen in the city, as well as many inns and taverns.
+>
+> #### Protectors Enclave
+>
+> Towards the south-west of the city. Contains most of the cities nobility as well as it's churches and places of worship. Bathhouses and upmarket shoppes are common here.
+>
+> #### Ruined District
+>
+> Towards the south-east of the city. Once was the central point of trade in the city, is now a shell of it's former self, containing mostly empty buildings and thieves.
+>
+> #### Tower District
+>
+> Towards the north-east of the city. Primarily the magic part of the city, contains the famous Cloak Tower as well as the mysterious Shard of Night
+
+The burgandy carpet that trails up these steps is inviting and they wonder what could be inside?
+
+The group enter and the first thing they notice is the overwhelming military presence inside. 
+
+Guards line the walkway either side, none moving an inch as they stand steadfast in their duty. Beyond the walkway, three more guards are stood, shoulder to shoulder blocking view of the events presiding behind them. 
+
+The sound of a booming voice fills the hall, presumably of Lord Dagult and sounds to be sentencing a near-do-well in his midsts.
+
+The group head up the carpet to the three<br>
+guards, who do not let them past this point,<br>
+ behind the guards, they see some familiar faces. 
+
+Standing either side of a prisoner is Urzal<br>
+ Desecrate, the red dragonborn<br>
+ paladin from the Zhentarim<br>
+ Hideout and Justice<br>
+ Keenseeker the Knight who<br>
+ was in Phandalin. 
+
+The prisoner is currently robed and <br>
+hooded so they cannot make out who he is <br>
+currently. Beyond the three, up a huge flight <br>
+of stairs, sitting somewhat bewildered on <br>
+a throne is Lord Dagult Neverember.
+
+Dagult begins to speak, "So Justice,<br>
+this man. You say he is Iarno<br>
+Glasstaff? Could you reveal his<br>
+face to me?"
+
+Justice replies, "Yes Sire." and<br>
+goes over and drops the mage's<br>
+hood back
+
+As Justice flips back the hood of the<br>
+prisoner, the group immediately<br>
+recognises the tattered hairstyle<br>
+of the mage they fought in the Zhentarim hideout, <br>
+looking a lot more disheveled and unkempt this time.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/zUyGnQ2.png' 
+  style='position: absolute; right: -60px; top: 0px;' />
+
+Dagult addresses the mage, "Hmm, it would appear we have finally captured you Iarno. Oh how you have let me down. I sent you to aide the people of Phandalin, not terrorise them!"
+
+"Sire, allow me to speak. You don't understand", the mage pleads.
+
+Lord Dagult nods and permits him to talk.
+
+"I had no choice, the Zhentarim they-" the mage begins.
+
+Urzal cuts him off, visibly annoyed as his voice cuts through the mage's sentence, "You had every choice! And need I remind you, this is not the first time you have been found parlaying with 'undesirables'"
+
+"Hmm, yes, Im do have to agree with Urzal here Iarno, as a member of the Lords Alliance, you are held at a much higher standard than a commoner. We should be beacons of justice and virtue. Simply being associated with organisations such as the Zhentarim is enough to warrant punishment." Dagult says
+
+Urzal continues, "He captured a young farm boy my Lord. The Zhentarim were about to use him for their own purposes had some adventurers and I not helped him to be freed!"
+
+Dagult stops for a second, "Oh, is that so. Is that them over there?" he points at the group behind his three guards.
+
+Urzal, confused for a second, turns behind him over his shoulder, "Oh, ahem, yes incidentally that is them."
+
+Dagult looks amused, "Excellent, what a great coincidence. Guards, let them through. Adventurers, why not enlighten me on what really happened in Phandalin?"
+
+Minogar explains that they had been told by the townmaster that there was a missing boy in the town, and that they were tasked with finding him.
+
+He goes on to explain that they travelled into the depth of a cave to the east of Phandalin, and that they found Iarno at center of the lair.
+
+Iarno interupts and says this is all lies.
+
+Minogar continues, and says they found him controlling the Zhentarim.
+
+"Hmm, is that so?" Lord Dagult asks, "Yours and Justice's accounts do seem to match. Do continue."
+
+Minogar says they confronted him, and he gave up very quickly, he explains that he believes Iarno wasn't one for fighting, but was willing to put the Zhentarim against them, all just to try and bring back Nezznar, the black spider.
+
+"Hmm, Nezznar," Dagult looks annoyed at hearing the name, "Urzal, you know this, Nezznar, do you not?"
+
+"Yes, sire. The elf in their group actually helped take him down, five years ago!"
+
+Mira nods his head triumphantly.
+
+"In that case," Dagult begins, "I believe you lot to be very capable, allow me to quickly deal with this first, and I will speak to you all after. Goliath, as you are the one accounting the story, how would you deal with this prisoner?"
+
+Minogar says that whilst his crimes are heinous, he believes Iarno does still have use and information that could be valuable, he suggests he be kept alive and simply imprisoned for his crimes.
+
+Lord Dagult nods, and seems to be in agreement, "Very well Goliath... Your sentence is jail? Not execution?"
+
+Minogar confirms.
+
+"Very well," Dagult says, "You have a lot of mercy..."
+
+```
+```
+
+His face changes, "More<br>
+than me, Iarno, I<br>
+sentence you to die in <br>
+the morning, you will <br>
+spend one night in a cell <br>
+and tomorrow, you will <br>
+hang. Urzal, Justice, take <br>
+him away."
+
+Urzal and Justice lead him <br>
+away to the corridor to the <br>
+east. Lord Dagult then <br>
+approaches the group.
+
+He supposes to the group <br>
+that they haven't visited this <br>
+place on a whim, and asks <br>
+what he can for them.
+
+Minogar shows the <br>
+commendation to Lord Dagult <br>
+and explains they are here to <br>
+aid Neverwinter.
+
+Lord Dagult explains the <br>
+problem in Thundertree, an old <br>
+druid who lives there has been <br>
+sending letters to the city that <br>
+there is a dragon in the ruins of <br>
+the village, threatening his way <br>
+of life. He warns that the dragon <br>
+may decide to turn it's attention <br>
+to Neverwinter at any moment.
+
+Dagult goes on to explain that <br>
+the druid has sent these kinds of warnings before, but <br>
+they have never ammounted to much. He does not want to <br>
+waste his - already strethed thin - city guards to go an inspect, so asks the adventurers to go instead.
+
+The group discuss amongst themselves for a moment, Mira is concerned and feels that the group is not prepared to face a dragon yet. Minogar begins to ask Dagult a couple of things, Dagult responds that he is pressed for time, but will answer.
+
+Minogar explains that they will need to prepare in Neverwinter first, before heading out to Thundertree, he asks if accommodation could be provided so they can be fully rested. His second question is to spend some time with Iarno before he is to be hanged.
+
+Lord Dagult explains that the prisoner will be dealt with, he thanks the group for their aide for capturing him, but won't allow them to see him. However, he does grant them a royal ribbon that they can show to the innkeeper in the Fallen Tower, who will know that Lord Dagult has requested they be permitted to stay, free of charge.
+
+Minogar protests, and explains that he has many questions to ask Iarno, but Lord Dagult interrupts and explains that they will be conducting a thorough investigation before he is executed. He asks the adventurers to leave now, as he has other business to attend to. The rest of the group comply, and begin to exit the hall, but Minogar stands defiant.
+
+Begrudgingly, Minogar starts to storm out of the hall, but throws a jaded look towards the Lord Protector.
+
+Immediately, Lord Dagult rises from his chair, and instructs his guards to block the goliaths exit.
+
+"What was that look you gave me, goliath?!"
+
+Minogar turns, and sighs. He explains that it is important they speak to Iarno, now.
+
+Lord Dagult's tone changes, he becomes more stern.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/ALjqei0.png' 
+  style='position: absolute; right: 0px; bottom: 0px; width:400px' />
+
+"I, am the ruler of this realm. You dare address me like that again, I will have your head. That is your warning."
+
+Minogar decides to stop protesting, and turns to leave. The guards let him pass, and Lord Dagult sinks back into his chair, not looking away from the goliath until he has left the building.
+
+### Chapter 38
+##### Recreation
+
+The group stand outside the hall of justice, and discuss what to do next.
+
+They decide to do a quick bit of shopping, they go to the nearest market and buy more rope to replace those that snapped earlier, they also buy some potions of healing.
+
+As the group is buying things in the market, a strange looking fellow stands really close to Marlade and Minogar, looking to see what they are doing. Minogar turns around and asks what the guy wants. But he does not respond.
+
+The guy starts to walk away, and the group decide to follow him from a distance. He walks north across the city, and arrives a tavern shaped like a massive ship. The sign outside reads the "Beached Leviathan".
+
+> ##### Beached Leviathan
+> The Beached Leviathan is a three-decked inn and tavern located in the Bluelake District of Neverwinter that caters to sailors, smugglers, slavers, merchants, and others arriving by sea. 
+>
+> It was built in and around the refurbished wreckage of the pirate ship Leviathan.
+
+They can hear commotion and loud shouting coming from inside, as well as jovial music.
+
+They decide to enter, inside they see to their left, a group of shady looking individuals arguing with a guy leaning over a table. The guy is explaining himself to them, but they seem to be having none of it. To their right, they see three more near-do-wells sat taunting the nearest barmaid, but she seems to be enjoying it and giving as good as she gets.
+
+Further to the right, up the deck, they see a knight and a dwarf sat together, who seem a bit out of place in this tavern, and furthest to the left, up deck, they see a man sat laughing on his own, and two barmaids behind a bar, ready to serve drinks.
+
+They head over to the group arguing with the guy leaning over the table. The guy also seems a bit out of place here. He seems to be dressed for an expedition, not sailing the high seas.
+
+As they approach they overhear the man explaining to the others that they can keep what they find, but they don't seem to want to agree to whatever he is suggesting.
+
+The man notices the group approach, "Oh, don't think ive seen you round here before?"
+
+Minogar says they have been here forever, "Ah, Neverwinterites I see," the man says, "Fancy a job?"
+
+Minogar squints and asks what kind of job.
+
+"Ah," the mans face looks detected, "You don't seem keen, if you're not keen, it don't matter, it don't matter."
+
+He waves his hand at the group and goes back to trying to convince the pirate looking group.
+
+The group stand a bit bewildered. But he immediately turns back to them, "See, you looked like capable people to me, to be honest... But I guess I was wrong. I was wrong!"
+
+Mira begins to explain that they only said what they said because they have accepted many jobs so far, but never got rewarded for them.
+
+The guy interupts, "Do you want me to just tell ya the job? Then it's up to yous whether you wanna take it or not?"
+
+Mira says please.
+
+"So the consortium, ya know, THE consortium, right? The ones that hold all the money and that in Neverwinter, well they've asked me to find out why the shipments from the Mountain's Toe Goldmine have stopped. If ya don't know, the Mountain's Toe Goldmine is the one right next to that town, err, Phandalin!"
+
+The group look at each other.
+
+He continues, "If you were to accept this job, I can take you there in my caravan, it's currently parked outside the gates of the city, take us about two days I reckon. I can bring you back aswell if you want, no harm done. I can wait until you're ready to go as well, if need be. I can't give you a reward myself, but anything we find, you can keep, I don't want it. So long as we find out for consortium whats stopping the shipments, I'm all good!"
+
+The group discuss with each other, they did not want to go back to Phandalin so soon, but feel his offer is fair. They say to him that they will think about it for now.
+
+They decide to head over to the man further left, the one sat on his own.
+
+As they get closer, they see a grey beard and an eyepatch, his attire seems to suggest he was once a pirate. He notices the group approach and raises his glass - full of ale - to the group and cheers loudly.
+
+"Welcome to the Beached Leviathan!" he shouts.
+
+Mira says thanks, and Sasha asks if he is a regular, he responds, "HA! You could say that, Im the owner!! Whaaeeeyyy!", he cheers and downs his pint.
+
+The group cheer with him, but look confused. "Sounds like you guys could do with a drink! Sandrine, Jyseria, one on the house!" he exclaims.<br>
+He gestures<br>
+to the <br>
+barmaids<br>
+and makes<br>
+a circle<br>
+motion<br>
+with his<br>
+index finger.<br>
+The two women<br>
+behind the bar<br>
+scurry around and<br>
+one comes across<br>
+to the group with a<br>
+tray of beer, one for<br>
+each of them.
+
+They thank the<br>
+waitress and<br>
+cheer the<br>
+pirate.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/0fgYzjg.png' 
+  style='position: absolute; right: -50px; bottom: -50px;' />
+
+Minogar and Sasha both down their drinks, Mira and Marlade take a sip. Minogar and Sasha both start to feel a bit merry at this point.
+
+The pirate begins to speak, "So, ya been ta Neverwinter long? Don't fink ave seen you round ere before!"
+
+Sasha giggles.
+
+"I don't gerrit," the pirate says
+
+Mira explains that she is a bit tipsy, and explains they just arrived. 
+
+"Ah, an ye came to me, I see! Of all the taverns, ya came to the Beached Leviathan, good on ye!" He looks over to the barmaids again, "Sandrine, Jyseria!" and makes same circling motion as before with a big grin on his face.
+
+They rush around again, and produce four more pints for the group. "Cheers!" the pirate shouts, and once again downs it in one. Mira and Marlade stand now with two pints, but still slowly sip. Minogar and Sasha also decide to start sipping slowly. 
+
+"Yer a bit shy aren't you, come on, we are having a good time," the pirate goads the group.
+
+Mira explains its been a long day, and asks what they are even celebrating anyway?
+
+"We celebratin life itself!"
+
+Mira nods, and agrees.
+
+Minogar asks the pirate's name, "The names Harrag, I used to be a pirate back in the day, around the Moonshae Isles! I could tell you a story or two."
+
+Minogar says he has a question for him, "Go on, my goliath friend!" the pirate says.
+
+He asks if Harrag knows anything about talking to a prisoner in the city that is about to be hanged.
+
+Harrag laughs, "Sounds like a friend of yous is in trouble, ay? Where is he being kept?"
+
+Minogar explains he is in custody of Lord Dagult.
+
+The pirate spits out his ale, "Oh, your friend, he dead." He looks more solemn now, "There is no way of getting into that place, I'm telling you now. The only way you could get him out, is to get arrested yourselves, and break him out from the inside, but that would be stupid and I would never recommend it, so don't do it!" he winks.
+
+Sasha says he is a bad influence.
+
+Harrag changes the subject, "Hey, here's one for you, did you know, and i've heard this same story from quite a few of my patrons... that to the south, there is a white dragon that's been spotted flying around?"
+
+The group explain that they know about it, and they believe it flew over them whilst they were asleep.
+
+Mira asks him if he has ever heard of Lady Alagondar, "Alagondar?" he says, "that rings a bell. Weren't they the kings before Lord Dagult was? Oh I don't know much about it, but I could tell ya, next door - I mean, I'd rather you stay here and spend money in my place - but the woman next door was well into that royal family you on about there."
+
+Mira laughs and says they aren't really spending money. Minogar downs his drink, the pirate shouts, "Get that goliath another drink!" and smiles.
+
+He does the circling motion, and his waitresses begin to make a new drink and hand it to Minogar. Mira hands some money to Harrag, and Minogar pats him on the shoulder and says its been amazing. "Good luck goliath", and Harrag bids them adieu, he leans back to far on his chair and falls off, but is still waving on the floor.
+
+### Chapter 39
+##### Whispers
+
+The group head to the building next door, it's sign reads the "Driftwood Tavern". It looks much more upper class than the previous tavern, and due to this, only Mira steps inside. Minogar and Sasha are still a bit tipsy from before, and Marlade offers to watch them outside.
+
+He heads inside, and sees a woman to his left, behind a bar, she looks very well off. To his right he sees multiple tables with quite a few patrons.
+
+The woman behind the bar notices Mira, and speaks. "Hello, can i help you?"
+
+Mira puts on his best posh voice and asks for a pint of beer.
+
+The woman looks a bit taken a back and says "Pint of beer?! We do not serve that here"
+
+Mira quickly changes his mind, and asks for a glass of wine.
+
+"Ah, just one moment, let me pour you one! That will be... ten gold please."
+
+Mira looks shocked and repeats the price back at the woman.
+
+"Is that a problem?" the woman asks innocently.
+
+Mira swallows and says that it is not, and buys a glass, he sits at the bar.
+
+The woman asks Mira, "Are you new in town, I don't believe we have met?"
+
+Mira explains he has just arrived, and is trying to get familiar with the city, he introduces himself.
+
+"Ah, my name is Madame Rosene, I am the owner of this place. Welcome to Neverwinter, on behalf of the Driftwood Tavern!"
+
+Mira thanks Madame Rosene, and asks if she has owned this place for a long time?
+
+"This has been passed down<br>
+through my family, my mother <br>
+passed it to me, her mother <br>
+passed it to her, and I will <br>
+pass it on to somebody im <br>
+sure!"
+
+Mira asks Rosene if <br>
+she has heard about <br>
+the dragon. "Ah, yes!" <br>
+Madame Rosene <br>
+replies, "I have <br>
+heard about the <br>
+green dragon to <br>
+the east."
+
+Mira explains <br>
+that the rest of <br>
+her group were <br>
+wondering <br>
+about it also, <br>
+and that <br>
+they are <br>
+too shy <br>
+to come <br>
+in.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+"Oh, don't be silly! They are welcome to come in!" Madame Rosene says with a smile.
+
+Minogar has begun to sober up, but Sasha is constantly smiling at everyone and hasn't blinked both eyes at the same time for a while.
+
+Marlade advises Mira that they shouldn't come in.
+
+He enters, and Madame Rosene notices him. "Ah, a man of god i see, welcome to the Driftwood Tavern! May I ask what deity you worship?"
+
+Marlade replies, explaining he worships Savras, and asks if she worships a deity herself.
+
+"Hmm, yes, I worship a similar god to yourself. A god of knowledge. By the name of Oghma, to be honest, most of the city worships Oghma. Or Tyr. You may find you aren't among your peers here when it comes to your spirituality, but they will accept you as a cleric."
+
+Marlade says thats the god thing about knowledge gods, they are more understanding.
+
+"Do you seek knowledge, today? Friend?" the woman asks of him.
+
+Marlade thinks for second, and says always.
+
+"Very well." Rosene responds, a bit confused. "Would you like a drink?"
+
+Marlade politely declines and says he is only after knowledge.
+
+Mira does ask her if she knows anything more about the dragon.
+
+"It's funny you should mention the dragon actually, because I am infact a descendant of the previous royal family to Neverwinter, I am a direct descendant specifically of a Lady Talamere Alagondar! I don't know if you have heard of her?"
+
+Mira explains that they know of such a woman.
+
+"Yes," Madame Rosene continues, "Legends say, that she destroyed a dragon years ago and she is buried somewhere between here and Phandalin."
+
+Mira says he is very interested in the stories of Lady Alagondar,  he asks if it is true that her sword was buried with her and her helmet taken and buried elsewhere.
+
+"Ah yes, obviously its all legend but as the legend goes, the dwarves took the helm and buried it in secret." Rosene explains.
+
+"The idea, was that humans would know where the sword is kept, and the dwarves where the helmet was kept, lest someone evil find them both."
+
+Mira says thats good to know, and thanks her for the glass of wine.
+
+"Ah, but you have barely touched the wine, I don't want to charge you for something if you didn't like it!"
+
+Mira tries to be polite, but ends up taking back the money. Madame Rosene explains that she will finish the wine instead, and immediately necks the glass in one. Mira and Marlade are a little surprised by this.
+
+Mira moves away from the bar and stands near the nearest group of people at the next table. They consist of two female elves and one human male. He overhears them talking about wanting to take down a dragon to the east, and he can hear them discussing what they know about Lady Alagondar's sword.
+
+Minogar and Sasha have sobered up slightly and Minogar leads Sasha inside.
+
+Sasha tells everyone to shush and says it looks very classy.
+
+Mira goes over to the elves, who notices Mira after a couple of minutes, but he overheard them say "Lady Alagondar's Sword"
+
+The nearest one turns to Mira, "Hello? Who are you?"
+
+Mira says he couldnt help but overhear them talking about Lady Alagondar's Sword.
+
+The elf looks a bit panicked, "No we weren't. We weren't talking about anything! We were talking about, err, we were talking about", she whispers quickly to the next elf, "Thea, what were we talking about?!"
+
+The other elf says she doesn't know and to shush.
+
+"We were talking about, a sword. We were. Gonna. Build?"
+
+Mira says that maybe he misunderstood them, and asks why they would be building their own sword?
+
+"Why would you need to know?" the elf says suspiciously.
+
+Mira apologises and just says he is curious.
+
+"What do you know about Lady Alagondar?" the elf tries to turn the questioning around.
+
+Mira says that he knows she used to be queen, he thinks?
+
+The elves believe thats all he knows.
+
+Mira goes on to say he just wishes to know more about her, and just overheard them talking about her.
+
+"Are you in pursuit of her sword as well?" the elf asks.
+
+Mira says he might be, but doesn't know where the sword is.
+
+"It is just a legend, but it is said she is buried with it. But we have no idea where the tomb is located." the elf explains.
+
+Mira believes them to be lieing, and that they know more than they are letting on.
+
+The group decide to sit down and discuss a plan away from the other adventuring party.
+
+Minogar says to the rest of the group that they have been helping people that they have just met, and that they saved the boys life. They initially did it for money and did it for some good.
+
+Sasha points out that Harbin ran off with the money.
+
+Minogar goes on to say that they are actually quite good at being adventurers and he believes they should stick together in the future, and they can do a lot more good and make a lot more money, together than apart.
+
+He says he considers them all his friends now, and that he would give his life for them. They all respond, and agree, explaining they would do the same for each other.
+
+The group decide that more good can be done at the moment by inspecting Thundertree, and they can win favour with Lord Dagult by doing so.
+
+They also decide that they can help the guy who wanted to take them back to Phandalin, if they explain they want to go to Thundertree first.
+
+They leave the Driftwood Tavern, and head back into the previous tavern, the Beached Leviathan.
+
+Inside, they see that the man offering the job has moved on to talking to the knight and the dwarf in the top right of the tavern.
+
+They head over to the man. They overhear him talking to the knight and the dwarf. The knight is saying that he serves Lord Dagult and that he cannot leave to help him, and the dwarf is saying he is with the knight.
+
+Minogar goes up to the dwarf and says friend in dwarvish,
+
+"Hi, there," the dwarf says, "How you doing? Ooh, your dwarvish is a bit rusty!"
+
+Minogar asks if he knows anything about the helmet of Lady Alagondar.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+"Ah, I do infact know about Lady Alagondar, we were just talking about her infact! Far to the south, the dwarves speak of an abandoned fortress containing her very helmet!" the dwarf starts looking concerned, "Ye wantin to go to the fortress?! Ye wantin to go to Axeholm?!"
+
+The dwarf starts to laugh.
+
+"Is that what your saying to me lad?"
+
+Minogar looks concerned and asks why
+
+"Ye don't want to willingly go to Axeholm, my boy! Its haunted to the nines! What are you doing!?"
+
+Minogar flexes and says look at the size of me.
+
+"I am looking at the size o' you, look at this guy," and he points to the knight, "He be one of the captains of the guard," he turns to the knight, "Would you go to Axeholm, Sir?"
+
+The knight says deadpan, "No, I certainly would not."
+
+The dwarf continues, "See, he certainly wouldn't even set foot in axeholm! Have you been drinking some of the stuff Harrag gives out? Anyways, Axeholm is haunted by, you name it, banshees, ghouls, I don't even know what else. Long ago, the dwarves there worshipped the god Abbathor, the dwarven god of greed, one day, one of their sacrafices was not good enough for him, so he cursed the fortress, and now everybody inside, is now a rotting ghoul! Do you really want to go there? For some helmet, that might not even exist?"
+
+Minogar says that they have a cleric.
+
+"Oh, haha, they've got a cleric," the dwarf jests.
+
+"Hah, why didn't we think of a cleric," the knight says sarcastically, "Oh yes, because it's suicide."
+
+Marlade now wants at all costs to get the helmet, to prove a point.
+
+The man offering the job from before comes up to the group, "I overheard about you wanting to go to Axeholm? Maybe I should revise my offer, I'll take you as close as I dare to Axeholm, if you help me with the mine."
+
+The group agree to the deal, but Mira mentions that they did promise to Lord Dagult to visit Thundertree first, the man agrees that that should come first, and that he will wait.
+
+Minogar realises they don't know his name, and asks him.
+
+"My name, is Don-Jon Raskin! The Don-Jon Raskin himself! What's your guys names?"
+
+The group introduce themselves. Content that the group will help him, he waves and leaves the tavern to set up his caravan.
+
+The group now decide now is the time to get some rest, and head off over to the east side of the city, to the tavern that Lord Dagult told them about.
+
+As they arrive at the Fallen Tower they see it is one of the most popular taverns in Neverwinter.
+
+The tower was once the home of a local wizard, Llomnauvel "Firehands" Oloadhin. His tower was invaded by members of the Arcane Brotherhood years ago, and while he was not able to defeat them all, his final spell destroyed the tower.
+
+The spell left behind a side effect: clear and solid-seeming phantom images of the mages as they were hurled down from the tower. The now crumbled tower has been some-what restored to a single story, and is now bustling with life inside.
+
+They go up to the mage behind the bar and show the ribbon that Lord Dagult gave to them, he agrees to put them all up for free tonight, and they rest for the night.
 
