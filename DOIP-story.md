@@ -3543,6 +3543,9 @@ Minogar asks if he knows anything about the helmet of Lady Alagondar.
 \page
 
 <div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/D983Q7h.png' 
+  style='position: absolute; right: -20px; bottom: -40px;' />
 
 "Ah, I do infact know about Lady Alagondar, we were just talking about her infact! Far to the south, the dwarves speak of an abandoned fortress containing her very helmet!" the dwarf starts looking concerned, "Ye wantin to go to the fortress?! Ye wantin to go to Axeholm?!"
 
@@ -3589,4 +3592,511 @@ The tower was once the home of a local wizard, Llomnauvel "Firehands" Oloadhin. 
 The spell left behind a side effect: clear and solid-seeming phantom images of the mages as they were hurled down from the tower. The now crumbled tower has been some-what restored to a single story, and is now bustling with life inside.
 
 They go up to the mage behind the bar and show the ribbon that Lord Dagult gave to them, he agrees to put them all up for free tonight, and they rest for the night.
+
+```
+```
+
+## Session 10 - 02/06/2020
+### Chapter 40
+##### Xena
+
+As the group went upstairs to retire for the night, they bumped into a female tiefling. They briefly spoke to each other and found that they had similar goals and ideals. They agreed to meet up again downstairs in the morning as the night was long in the tooth.
+
+The group walk down stairs the next morning, and see the tavern as full as ever. Near the stairs, Xena has saved a table for them and they all sit. Minogar calls a waitress over and they all order some food and drinks. They find out that Xena has lived in the city since birth and believe she could be of use to the party.
+
+Minogar asks Xena if she has ever travelled outside of the city, to which she replies that without anyone to visit, there is little need. The group ask her if she wants to accompany them on their next excursion. Xena asks what they had in mind, and Minogar says they are planning to head to the Ruins of Thundertree.
+
+Xena thanks the group for the invitation, and asks what she would need to do, in order to be helpful. Minogar explains that they have always been a bit short in the magic department. Xena takes this cue to use Prestidigitation to make smoke appear to come out of Minogar's ears. He initially panics, and Xena explains with a smirk that she does dabble in magic. 
+
+The group seem impressed, and Sasha asks Xena how she feels about waterboarding. Xena looks panicked at this question, as Minogar glances across to Marlade. Xena says that sometimes actions such as those are necessary, and with this Sasha accepts that Xena would be a good fit!
+
+Xena checks that that was a hypthetical question, and the group slowly nod...
+
+\page
+
+<div class='pageNumber auto'></div>
+
+The group explain to Xena about the dragon that Lord Dagult told them to check at Thundertree, and the group discuss how long they want to spend here before heading out.
+
+The group seem confident, until Xena asks if any of them are good at healing broken people, to which the group seem confused by. Xena asks if they have ever seen what a dragon does to people? Mira explains that they only need to scout the place for the dragon, and report back if it exists. Its a bonus if they kill it, but not required.
+
+Xena seems more calm. She explains that Thundertree is a bit of a trek, if they were to go. She asks the group if any of them want to join her to see the execution that is happening today, there is not much entertainment in Neverwinter, so she takes what she can.
+
+The group realise she is referring to Iarno. Minogar thinks this an opportunity to speak to him before he dies.
+
+Minogar and Sasha agree to accompany Xena, whilst Marlade and Mira wait here for them to come back.
+
+The three arrive outside of the Hall of Justice once again, however, today there is a huge crowd gathered outside on the street, and everyone is cheering and jeering. They see that on the marble steps infront of the building there is a platform set up, with a noose and a trapdoor.
+
+Justice Keenseeker is stood a top the platform to the side, at attention with a massive greataxe in his hand. Lord Dagult is center stage, riling the crowd up with a rousing speech whilst holding a captive Iarno Glasstaff.
+
+The three try to get a good view, as the crowd is jostling them around, and even the goliath is struggling to get a good view through raised hands and being moved about.
+
+They hear Lord Dagult's booming voice, "Iarno Glasstaff, by the power invested to me as Lord Protector of the realm, I sentence you to die... Do you have any last words?"
+
+Iarno slowly looks up, they see that he is even more dishevelled than before. He mutters a few words, "The Zhentarim will come for you Dagult," as he turns to the Lord Protector, "We know what you really are!"
+
+Lord Dagult does not seem phased by this, and turns to Sir Justice, and nods. "Do it."
+
+Justice walks up behind Iarno, and places a bag over his head, he leads him across to the noose and places it around his neck, checking it is tight.
+
+He moves back, away from the mage. And to the side of the platform is a wooden lever, ready to be pushed. Justice stands with his hand on the lever, and pauses for a second.
+
+He quickly yanks the lever, and the trapdoor beneath Iarno falls away. The crowd cheer as the mage begins to fall. As he falls, he unexpectadly begins to fade away, and the noose that once held onto his neck, drops and dangles as though no one was ever there.
+
+The crowd fall silent, and no one says a word as everyone begins to process what just happened. A moment passes, and women in the crowd begin to scream and voices are heard shouting "He disappeared!", "Where did he go!?"
+
+Lord Dagult registers what has gone off and starts looking round, he starts barking orders to his men to disperse and find the mage, as his guards scurry off in all directions and start jumping into the crowd to search. He shouts to Justice to come back inside, and they both swiftly walk back into the Hall of Justice. A couple of his guards follow and shield their Lord from behind.
+
+Back in the crowd, the three are being jostled around even more and are still in a state of shock. Minogar tries to look around for Iarno but cannot see any trace of the mage, he sees confused guards shouting at random citizens.
+
+Xena mentions she knows a safe secret passage they can use to get back to the tavern, as it is becoming dangerous in this area.
+
+Back at the tavern, the re-sit down with Marlade and Mira and explain what they just witnessed. They decide now would probably be a good time to leave the city for a bit and head over to Thundertree.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://i.pinimg.com/originals/9d/1d/04/9d1d04764bf778309084d82fa41739c8.jpg' 
+  style='position: absolute; left: -400px; top: 0;height: 100%' />
+  
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/xLLbPU9.png' 
+  style='position: absolute; right: -60px; bottom: -60px;' />
+
+### Chapter 41
+##### Thundertree
+
+They head east and set up camp next to the river. The river flows through Neverwinter and is fed from Thundertree and beyond, so it is easy for them to find.
+
+They wake up in the morning and continue east, as they approach Thundertree Xena casts mage armor on herself. 
+
+Gradually, the trail becomes an old, overgrown lane winding between dilapidated buildings choked in vines and brush. Ahead of them, in the middle of the settlement, rises a steep hill, upon which stands a stone tower with a partially collapsed roof and an adjoining cottage. A dirt road hugs the base of the hill and wends its way between old stone houses, many of which are roofless ruins with interiors open to the weather. Other buildings appear more or less intact. The whole place is eerily silent.
+
+They also notice a wooden sign nailed to a post, it reads: "DANGER! Plant monsters AND zombies! Turn back now!"
+
+The group explore around the ruined overgrown town, and approach the first building they see. A weathered signboard by the door of this large building shows the faded image of a workhorse holding a flagon of ale. The building is sagging and dilapidated, but it is more intact than the ruins across the road.
+
+Mira knocks on the door, and he hears a dull growl coming from the other side, and the door starts to bang from the other side. Marlade decides to cast Turn Undead and the knocking stops.
+
+Minogar walks up and kicks the door down. Inside, they see two zombies that are covered in what appears to be dust walking into the far wall, trying to get away.
+
+As they enter the room, the zombies growl and turn back around slowly. Minogar rages, and Mira walks up to one of the zombies and uses his shortsword, he slices right into the zombies torso, but a puff of ash bursts forth from the zombie, but Mira manages to avert his gaze and it doesn't blind him.
+
+Marlade tries to identify what the creatures are, but has no idea.
+
+The zombie nearest Mira, lunges at him but Mira moves out of the way. The other one jumps over the bar and tries to slam into Marlade, but misses.
+
+Minogar uses a reckless attack on the nearest zombie, and cleaves it completely in twain. Again, ash spouts from the zombie, and goes into his eyes. Minogar carries on swinging and tries to hit the other zombie, landing a hit, which also gets cleft in twain.
+
+There is a door to another room in this room, and it is banging. The group turn towards it. Xena tries to kick open the door, but fails, and pushes against the door. Whatever is on the other side of the door is pushing against it.
+
+Mira also goes up to the door and tries to open it, but the already strained door collapses and two more zombies are on the other side who immediately attack Mira, one of them grabs at him and rips a part of his shoulder.
+
+He slashes at one of them with shortsword, and averts his gaze as he does this to avoid the ash.
+
+Misty then jumps up at the one Mira attacked, and rips apart the zombie. Marlade casts Turn Undead on the remaining zombie, and attacks it with his staff as it turns away. The zombie turns around and growls. The zombie attacks at Marlade and Mira uses her Sentinel training to attack the zombie as it is distracted.
+
+Sasha takes her longsword and attacks the final zombie, and cleaves it in twain. The group head into the other room. Around them they see that this building used to be an old pub. The first one is a bar and the other room is a storeroom full of barrels.
+
+The barrels are all full and have taps attached. Marlade decides to open one of the barrels, and foul smelling beer spatters onto the floor. Marlade carries on opening the taps, to the rest of the groups protest, and they all start gushing out this foul smelling liquid, which begins to flood the room.
+
+Mira rushes over and closes the taps.
+
+They are now stood, ankle deep in smelly liquid.
+
+Minogar looks out of one of the windows and sees that nature is reclaiming the building, its completely overgrown and the plants are growing into the building through cracks and holes.
+
+Minogar thinks there may be something else inside the barrels, Sasha protests saying it looks to be abandoned ages ago. The smell starts to get to people and Xena throws up.
+
+Marlade remains in the room with the barrels and smashes the barrels open with his mace. As he does this, the liquid pours out of the barrels rapidly and knocks him over.
+
+The rest of the group leave as the room floods.
+
+Marlade looks into the barrels, but they are now empty. He leaves the building.
+
+The group carry on through the main path in Thundertree, they arrive at two cottages, these ruined, side-by-side cottages look as though they might have been the homes of prosperous shopkeepers or well-off farmers in their time. All that remains are collapsed walls and piles of debris. Several young trees have grown up in the midst of the ruins.
+
+Mira walks inside, and does not spot that hiding in the rafters are these little twig beings that drop down. Sasha rushes in and uses Vicious Mockery on one of the creatures and curses at it. The creature covers it's ears and screams as it takes damage. 
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/Hjy6NVQ.png' 
+  style='position: absolute; right: 0px; bottom: 0px;' />
+  
+Minogar rushes in with his greataxe and smushes one of the twig creatures with the blunt face of his axe, he then turns to the other one and does the same, like a weird game of whack-a-mole.
+
+He then notices a third one to the south of the building, that screams as he sees his friends be killed, it tries to claw at Minogar, slashing him across the chest.
+
+Mira takes out one of his swords, and slices it's head off.
+
+Surrounding the group now are three piles of twigs, Sasha heads to the south of the building and rummages around the overgrowth.
+
+She finds a chest, the lock of which has rusted over the years. So she is able to open it with a bit of force. Inside she finds the leftover money from the store, presumably used for change.
+
+The group go outside, and see a tower a top a slight incline, also overgrown. However the top of the tower is clear of all the overgrowth.
+
+They head up a winding path, at the top of the hill stands a round tower with a cottage attached. Both are in good condition, although half of the tower’s roof is gone. A door leads into the cottage, and several arrow-slit windows are visible in the tower. The group can’t help but notice an eerie quiet in the area and a strange, acrid smell in the air.
+
+The group stand outside the tower and can see the top of it, they hear this slight rumble, and a giant green scaly head pokes it's head out and looks at the group.
+
+"Ah, visitors I see," as the green dragon's head begins to speak, "How can i help you today?"
+
+Everybody turns to Sasha, who greets the dragon as nice as she can.
+
+"You seem far from home, young elf" the dragon says, and Sasha says they are just visiting.
+
+"Ah, so you thought you could just come to my domain did you? Im glad, I was getting quite hungry..." the dragon's face becomes an unconfortable smile to the rest of the group, who start to feel unease.
+
+Mira asks the dragon what does a hungry dragon eat?
+
+"Whatever I want," the dragon says through it's toothy grin. "Give me one good reason why I shouldn't swoop down their now and gobble you all up!"
+
+Marlade tries to convince the dragon that he doesn't taste good as he is covered in spoiled beer. 
+
+"I've had cleric before, your meat is tender, from lack of combat!"
+
+Sasha agrees with Marlade and tries to <br>
+persuade the dragon they taste foul. The <br>
+dragon sniffs the air and agrees <br>
+that the cleric smells awful.
+
+"In that case, give me one <br>
+reason I shouldn't just kill you, <br>
+for intruding..."
+
+Mira says they weren't <br>
+intruding, they were just <br>
+looking around.
+
+"This entire town is <br>
+mine," the dragon <br>
+explains, "What kind of <br>
+dragon would I be, just to <br>
+allow you to come in here and freely <br>
+waltz out again, with your heads?"
+
+```
+```
+
+Mira asks what did he do with the druid?
+
+"With the what?!"
+
+Mira says nevermind, realising he has just revealed to the dragon something he should not know.
+
+"There is a druid around?! Tell me where Ranger, druid is a delicacy, you may get out of this alive after all..."
+
+Mira says he does not know, and thought he had already eaten him.
+
+"LIES!" the dragon shouts, "Tell me, or I will eat your friends first!"
+
+Mira gets annoyed and tells the dragon that he is telling the truth and does not know.
+
+At this point, the dragon gets annoyed at Mira for the way he is being spoken too. He swoops down and begins to attack the ranger.
+
+He bites at Mira's torso and takes a huge chunk of flesh out of it, Mira drops to the floor suddenly.
+
+The dragon continues, slashing at Mira with both of his claws, disemboweling him.
+
+Mira, dies from this quickly as the blood loss is significant. Minogar rushes over and grabs the remains of Mira, or at least, what he can grab and rushes back down the hill. The dragon swipes at Minogar, but misses and the rest of the group try to escape.
+
+Xena uses Scorching Ray against the dragon and manages to hit it in it's shoulder with a ray of fire, which leaves a scorch mark, but the dragon blows on it to remove the char.
+
+Seeing the group flee, the dragon laughs and returns to the top of it's tower.
+
+The group now huddle around Mira's corpse and come up with a plan. They need to find the druid and hopefully he can revive him.
+
+They survey the town, and notice that one of the buildings is not as ruined as the others. This small house appears to be in better condition than the ruined and dilapidated structures nearby. The doors are reinforced with heavy iron bands, and thick shutters protect the windows.
+
+Minogar knocks on the door, believing this to be Reidoth's home and shouts out for him, explaining that one of their members has fallen and they need his help.
+
+There is no answer.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/7nc7PA2.png' 
+  style='position: absolute; left: 20px; bottom: -30px;' />
+
+Xena also knocks on the door, she pleads with Reidoth to answer, and that they don't really want to be bothering him, but they are in a bad spot.
+
+To the left of the door, is a small crack. Through this crack, a squirrel appears and looks up right at the party. As this happens, it starts to morph into an old man.
+
+Xena greets the man, explaining that they danced with a dragon and their friend here got into difficulty.
+
+The man nods, "Venomfang."
+
+"Your friend, not good." the druid says.
+
+Minogar asks if there is anything he could do to help.
+
+"Materials" the druid replies.
+
+Xena asks what does he need, the druid replies "Rare oils, unguents, worth 1000 gold, or 1000 gold and I use my own."
+
+Xena explains that if he has his own, can't they just use it?
+
+"Hard to come by, difficult to replace", the druid says, to which Xena explains that so is their friend.
+
+The druid ponders, "How much you have?"
+
+The group combine their totals and come up around 100 gold short. Xena tries to persuade him to let them off the other 100 gold.
+
+"Something of equal value, 100 gold." the druid says.
+
+Xena takes out her arcane spell casting focus, and offers this to the druid.
+
+"Valuable to you, too valuable" the druid says, he raises his hand and rejects the gift, "I'll do it, the money you have, sufficient"
+
+He asks Minogar to place the body on the floor, and he does so.
+
+```
+```
+
+"Not the same, your friend will be," the druid warns, "Are you sure?"
+
+Minogar looks confused, and asks in what way.
+
+The druid shakes his head, "Never the same"
+
+Minogar asks what he will lose
+
+The druid explains, "Memories retained, appearance not the same."
+
+Minogar asks is it not just possible to heal him back to how he was.
+
+"The only way, this, only way. Only magic I know, that bring back in this condition."
+
+The group decide to let the druid go ahead. The druid goes back into his building, and returns with various oils and ointments. He places his hands on the body and says to the group, "One hour, you wait."
+
+The group decide to wait inside his building while he does the spell.
+
+An hour passes as the group discusses what they know about dragons, and Marlade explains that green dragons usually breathe poison.
+
+They head outside, hopeful to see their friend once again.
+
+Reidoth releases from Mira and turns to the group as he heads back inside, "It is done."
+
+### Chapter 42
+##### Reincarnation
+
+Standing before the group, looking confused, is a Rock Gnome.
+
+The group looked confused, and the Rock Gnome asks them what just happened to him.
+
+Realising it is Mira, Minogar says not to worry and its all good now.
+
+Misty goes up to Mira, slightly confused, she can smell that it is Mira but does not recognise him so is currently tilting her head at him.
+
+The group whisper amongst themselves, without Mira hearing as to whether they should tell him or not. Marlade believes they can just roll with it forever and never let him know.
+
+Xena walks up to Mira, and tries to summarize the situation, she tells him about the dragon attacking him and takes out one of her daggers and using the blade shows him his face in the reflection of the steel.
+
+Mira is taken a back, and cannot believe he is now a gnome. He jokes that they should have left him dead.
+
+The group go inside and talk to Reidoth once again, "Realized what I mean, have you? he says.
+
+Mira thanks the druid for bringing him back, but asks if there is any way to get his old body back.
+
+"Not the way the spell works, reincarnate you have, new life you now lead. Memories I kept for you, body has to change."
+
+Mira pleads and asks if he knows of any way in the world to get his old body back.
+
+"Get used to it, you will, not too bad, could be worse".
+
+Minogar asks Reidoth why he chose a rock gnome.
+
+"Wasn't my decision, will of the gods"
+
+Minogar asks which gods decided.
+
+Reidoth bluntly says, "Druidic gods"
+
+Marlade mutters to Sasha that this is why he worships legit gods.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/OIvzvnN.png' 
+  style='position: absolute; right: 20px; bottom: -30px;' />
+
+"Did as you asked," the druid continues, "Friend alive" and points to Mira. The group sigh, and thank the druid.
+
+Marlade thinks for a moment, and realises that his cleric path will at some point potentially unlock a way to restore Mira to his old self, using divine intervention.
+
+Minogar brings Reidoth to one side and explains that they met his dragon neighbour, "Hmm, yes, troublesome, he is", the druid states.
+
+Minogar asks why is he here?
+
+"Can't get rid of him"
+
+The goliath asks him if he has any proof they could use to show he is here to Neverwinter.
+
+"Asked Neverwinter eons ago, for help, they send you, your friend die, I thank Neverwinter. Not. Dragon not know im here, reveal myself not, too dangerous. Proof you require, I not possess"
+
+Xena agrees that the dragon doesn't know he is here.
+
+"Dragon best not know," and Reidoth stares inquisitively at the group, "What have you done?"
+
+Xena reaffirms that the dragon doesn't know he is here, and that all is good.
+
+Reidoth decides to believe the group, for now.
+
+Xena invites the druid to come with them,
+
+"I cannot, need to monitor the threat, incase it moves"
+
+Minogar asks if Reidoth knows a way to defeat the dragon.
+
+"Grow more powerful, I suggest"
+
+Sasha explains that they could do with some proof to show Lord Dagult.
+
+"Already sent letter, Lord Dagult know"
+
+Sasha explains that Lord Dagult doesn't believe the druid.
+
+"Hiding in my home, not wanting to be seen, too risky."
+
+The group start to wonder if they can use Mira's new form as proof that the dragon killed him.
+
+Marlade jokes that he would introduce himself as 'No longer Mira, but Mira the gnome!'
+
+Sasha argues at this point, the cost of trying to bring back proof of the dragon could be too high, and they should just hope that the Lord Protector will believe their eye-witness accounts.
+
+### Chapter 43
+##### Messengers
+
+They decide to head back to Neverwinter, they camp outside the city gates as they arrive at nightfall. Once again they are awoken by the drawbridge being lowered in the morning.
+
+They head into the city and proceed to the Hall of Justice, they advise Minogar to behave when they enter, and not to annoy Lord Dagult.
+
+They enter and see the familiar hall. However, this day, Lord Dagult is not standing proud, he is slumped to the side in his chair, and hasn't noticed the group enter. He does not look amused.
+
+They approach the guards at the top of the first stairs, that block access to Dagult, the middle guard asks, "What is your business?"
+
+Xena explains they are here to speak to Lord Dagult, regarding prior business investigating a dragon in the Thundertree area.
+
+"Ah, you are the ones he sent to Thundertree?"
+
+The group nods.
+
+"Have you the commendation?"
+
+Minogar produces the document and the guard stands to the side, allowing them an audience with Lord Dagult Neverember.
+
+The group approaches the stairs infront of Lord Dagult's throne. Xena bows, and the others follow suit. 
+
+"Ah, heroes," Lord Dagult speaks, "I see you have brought guests. I believe we haven't met tiefling and gnome. Allow me to introduce myself, I'm not in the best of moods currently, but I am Lord Dagult Neverember, Lord Protector of the realm. How can I help?"
+
+Mira explains that they have actually met before.
+
+"Oh sorry, I'm not very good with names and faces, could you remind of your name again gnome?"
+
+Mira tells him his name, and says he used to be an elf.
+
+"You used to be an, elf?" Lord Dagult says, bemused, "Rrright. And tiefling?"
+
+Xena states her name, and explains she signed on to help the group.
+
+"Have we met?" Lord Dagult asks.
+
+Xena explains that she has lived here all her life and has seen him from afar.
+
+"Very well, to the rest of you, what news do you bring from Thundertree?"
+
+Sasha explains that it is not good.
+
+"Don't come to me with more bad news," Dagult says.
+
+Mira says that it was that bad, he sort of died.
+
+Dagult gets annoyed at this point, "What is this?! Do you take me for a fool? You bring back bad news and a gnome and say he was an elf? I have never heard of such things."
+
+Sasha says that it is true.
+
+Lord Dagult is visibly upset with the group at this point. "I am starting to lose patience with you lot, you come in with this gnome. I presume you are with the gnome, correct?"
+
+Sasha starts to say that the gnome was their wood elf friend.
+
+"You as well?!"
+
+\page
+
+<div class='pageNumber auto'></div>
+
+Xena asks if he has a mage or something that could advise him on matters of the arcane. She agrees that she can see how this is 'irregular' but it is also the truth, inconvenient as it may be.
+
+Lord Dagult appears to be coming around, "We are followers of the light, is this spell of a holy nature?"
+
+Xena explains that she is not an expert in magic such as this, and that they did what they had to to get their friend back.
+
+Lord Dagult turns to his nearest guard and whispers in his ear. The guard marches down the steps, past the group and into another room. He returns moments later with Urzal, the red dragonborn.
+
+Urzal stands next to the group and addresses Lord Dagult, "Yes? My lord? What is it you require?"
+
+Lord Dagult replies, "I'm sorry to waste your time Urzal, do you know anything... have you ever encountered somebody being able to change their race? This gnome before you, he says that he was once an elf."
+
+Urzal realises, "An elf? Mira? Is that you?"
+
+Mira covers his face and says it is him.
+
+Urzal questions the gnome, "If you are Mira, you will know the answer to this question... How did we meet?"
+
+Mira says outside the cave, and Urzal says no, their initial meeting.
+
+Having only just come back from the dead, Mira's mind is still cloudy but he does manage to remember how they met. He explains that Urzal was working for the other side, and they went to a castle to find a captured dwarf. When they met Urzal breathed fire on the group. But it turns out a bugbear was manipulating his mind, and when the group freed him, Urzal joined them, vowing revenge on the black spider.
+
+Urzal reaches down under his top and produces an item, the 'memorandum obscura', which the bugbear - Grol - used to block his memories.
+
+He turns to Lord Dagult, "Lord Dagult, on my honour as a Paladin, this is Mira. Only he could know what happened that day."
+
+Lord Dagult stands up, "Very well Urzal. I trust you," he sighs, "So the rest of you have bad news for me I take it? First of all, can you explain, how did this elf become a gnome?"
+
+Sasha explains that they went to Thundertree, to see if the druid was telling the truth. 
+
+Urzal interupts at this point and scolds Mira, "Mira! Do you not remember! That tabaxi we met years ago came from Thundertree and warned us not to go there! Instead we went to Wave Echo Cave! Sorry Bard, do continue"
+
+Sasha continues, explaining that they met a dragon before they met the druid, and the dragon was too quick. It attacked Mira and killed him. 
+
+"So you are saying the dragon does exist?" Lord Dagult asks, "Reidoth was not lieing?!"
+
+Sasha confirms it to be true.
+
+Lord Dagult looks dejected and says, "I haven't told you this, but I have also heard rumours of another dragon, to the south. Tell me," he swallows, "The colour of this dragon that you met, was it white?"
+
+Sasha says that it was green.
+
+Lord Dagult looks down, "Tyr help me," he proclaims, "there are multiple dragons out there?!"
+
+Sasha says it seems to be that way.
+
+Minogar pipes up and explains it made it's home in a tower, and is being watched over by the druid - Reidoth. The goliath goes on to say it was he who brought back Mira from the dead.
+
+Sasha says that they had to give him all of their gold in order to do this so they are a bit poor now.
+
+Lord Dagult hears this and says, "Well you have fulfilled the task I gave you, the reward was 100 gold... I will increase it to 200, for your troubles"
+
+The group thank the Lord for his kindness.
+
+"Adventurers, as you have proven useful, I will bear you in mind if I need any more aide. For now I have other things to deal with."
+
+Minogar also tells Lord Dagult that the dragon goes by the name 'Venomfang'.
+
+Lord Dagult nods, "Very well."
+
+The group bid him one final thank you and head back out of the Hall.
+
+Xena asks only for the 13 gold pieces she started with from the group's reward. She explains that she had never left Neverwinter before today, and is probably going to return to that policy. She bids the group farewell, and says maybe they will see each other again.
+
+The group say to her, till next time, and she leaves to continue her adventure alone...
 
