@@ -1,4 +1,5 @@
 
+
 <style>
 .divider {
     width: 100%;
@@ -4100,3 +4101,364 @@ Xena asks only for the 13 gold pieces she started with from the group's reward. 
 
 The group say to her, till next time, and she leaves to continue her adventure alone...
 
+## Session 11 - 09/06/2020
+### Chapter 44
+##### Gilme
+
+The group decide to spend the next four weeks in Neverwinter, enjoying the city life.
+
+Sasha and Mira start playing songs once again, and convince Harrag to let them play every week at the Beached Leviathan.
+
+Minogar also decides to carry on learning Dwarvish and to do a spot of Pit Fighting on fight nights, also at the Beached Leviathan.
+
+Marlade decides now would be a good time to relax and earn some rest from his travels.
+
+However, Marlade does start to get this weird voice in his head from time to time, it seems to taunt him and tell him things that would annoy him, he does not recognise the voice.
+
+Furthermore, the city has put up posters around the districts asking for any information on Iarno Glasstaff and to bring him to Lord Dagult for a 5000 gold piece reward, dead or alive.
+
+They decide to see Don-Jon Raskin, and take him up on his offer to be taken to Axeholm.
+
+They walk through the city towards the gate they were going to meet Don-Jon at, as they enter the Protector's Enclave there are many crowds of people around them, as it is always busy. However, as they are walking through, Minogar keeps noticing they appear to be being followed, he believes it is an elf.
+
+Minogar whispers to the rest of the group, explaining he thinks they are being followed. Mira responds saying he has noticed this as well...
+
+Marlade jokes that it could be one of Mira and Sasha's fans!
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/1aYStys.png' 
+  style='position: absolute; left: 70px; bottom: 0px;' />
+
+Minogar looks again now the group has stopped, and can see the elf through the crowds once again, she is a woman and he recognises her as Gilme Birdiir, an elf monk he fought in the Beached Leviathan in a pit fight.
+
+The elf looks angrily at Minogar.
+
+Minogar explains that he may have used an axe in a fight against that elven woman over there.
+
+The elf moves closer to the party, she approaches Minogar and says the he owes her a fair duel. She says he did not fight honorably in the pit fight and that she has come to reclaim her honor.
+
+Minogar threatens the elf to leave now, before he uses his axe again.
+
+She challenges him to one on one combat, here and now, to settle this.
+
+Sasha and Mira look shocked, but Marlade says should they start taking bets on the street for who will win?
+
+Minogar believes that if he fights now, he will be arrested.
+
+Gilme calls him a chicken, and says if he does not fight he has no honor.
+
+Minogar laughs and says just know that you did get defeated infront of everyone in the Beached Leviathan.
+
+Gilme advances and tries to punch Minogar, he uses his Stone's Endurance to absorb the hit, and dodges a second punch that she throws.
+
+Sasha uses Dissonant Whispers on the monk, which hits and causes the monk to step back, who shouts at Sasha that this should be a one on one!
+
+Sasha responds to this by casting Bardic Inspiration on Minogar.
+
+Marlade sidles up to Minogar and says he can help him restrain the monk if he wants.
+
+Minogar rages at this point, and decides to try punching back at the monk, who just dodges both strikes.
+
+```
+```
+
+Mira uses Ensnaring Strike on his weapon and tries to hit the monk with his Shortsword, but the monk leans back out of the way of the swing.
+
+Gilme once again shouts one on one, to the group, and tries to attack Mira. But Mira is quick and moves back out of the way.
+
+Marlade casts Command on the monk, and tells her to Flee.
+
+Minogar decides to carry on throwing punches, he misses the first swing but connects with the second, the monk casts Shield in response however, and the barrier absorbs the blow.
+
+Mira swings again with his Shortsword, and Ensnaring Strike comes into effect, snaring the monk in place.
+
+Gilme tries to flee at this point, but can't because of the vines, she tries to break free from them but can't. She tries to hit Mira, but can't reach from her current location.
+
+Sasha tries to convince her to stop fighting, but the monk replies saying he has no honor.
+
+Minogar says they should just fight again in the pit, not in the streets.
+
+Gilme asks to be released from the vines, to which Mira does.
+
+The monk casts Jump on herself, and Minogar notices this and tells her to wait, he is impressed by her bravery and asks her name.
+
+The elf looks annoyed and says Gilme Birdiir, she scolds Minogar for not remembering from the fight in the Beached Leviathan.
+
+While Minogar and Gilme argue, Marlade starts to fuss Misty, and Mira notices this and tries to get Misty to come. Misty, not sure of Mira's new form stays with Marlade.
+
+Gilme says she will be waiting in Neverwinter for Minogar, and they will fight again. Using Jump she leaps backwards and leaves the party.
+
+The group decide to carry on towards where they were going to meet Don-Jon.
+
+### Chapter 45
+##### Don-Jon
+
+They arrive at the gate where they were to meet Don-Jon, and Marlade hears the voice again, "I will retrieve what is mine, I always do..."
+
+They see Don-Jon with his caravan, "Howdy, partners!", he says, "It feels like forever ago that I saw you last!"
+
+The group thank him for waiting for them
+
+Don-Jon sighs and says, "No problem, but I do have something to tell you guys, you see, the consortium, they spoke to me the other day and I told them my plan of taking ya'll to Axeholm and then to the mines. They're ok with it, but on one condition, they want us to go to the mine, first. They don't think that if I take you to Axeholm that we're ever gon' see you again, so ya know, we do their job first to keep them happy, keep everybody happy? I will still take you to Axeholm after, that's no problem."
+
+Mira looks suspicious and says they need some kind of guarantee that he will take them there.
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/RImyjmH.png' 
+  style='position: absolute; right: 0px; top: 0px;' />
+
+"What kind of guarantee you need?" Don-Jon asks, "I'm a man of my word, to be honest I know you guys quite well, and i've heard rumours of Axeholm myself, and I'm not gonna downplay it, its a dangerous place and I think you guys are being stupid. But I do believe I will see you again if I take you there! I'll leave it to you guys, shall we go against the consortium or not?"
+
+The group decide they can go to the mines first, and hop into the caravan. Don-Jon marks Axeholm and Mountain's Toe Goldmine on their map and sets off south down the High Road.
+
+The caravan continues through the night as the group sleep, he carries on because he wants to arrive at the mine within two-days.
+
+Don-Jon turns from the front and looks into the back, "So what you guys been up to in Neverwinter? Anything interestin'?"
+
+Minogar says they have had a lot of fights
+
+"A lot of fights ya'll say? You a pit fighter, goliath?"
+
+Minogar nods,
+
+"I used to be a pit fighter myself, I wasn't any good at it, but I tried!" Don-Jon says, "Too much getting hit yourself, I can deal it out, but I can't take it!"
+
+Minogar asks if he ever won,
+
+"Against the small ones!" As Don-Jon winks at Mira. His tone changes, "So can I ask, why Axeholm? What are you guys hoping to get from this place?"
+
+The group whisper amongst themselves as to whether they should tell the truth.
+
+"Is it a touchy subject?" Don-Jon laughs, "I can keep my mouth shut"
+
+Minogar says not to worry about it.
+
+"Ah ok, Ill shut ma mouth then!"
+
+As the caravan arrives at the first turn towards Phandalin, someone is walking on the road and raises his hand towards Don-Jon, who stops the caravan and starts talking to him. The group can overhear parts of the conversation and the new guy is asking where they are headed and if he can just tag along for a little bit?
+
+Don-Jon turns to the rest of the group and asks if any of them mind if they just give this a guy a quick lift to outside Phandalin?
+
+The group agree, and Don-Jon asks his name,
+
+"The name's Francis", he says.
+
+Francis goes around and sits up front next to Don-Jon, he gives the rest of the group a thumbs up as a thank you.
+
+The caravan continues for a few yards, when all of a sudden, Francis takes out a dagger and holds it up to Don-Jon's neck.
+Startled, he stops the caravan.
+
+Francis turns to the rest of the group, "Right, you guys in the back! Give us all your valuables or this guy is getting it!"
+
+Marlade tries to cast Command on the bandit, and tells him to jump. He complies and immediately jumps upward, the dagger slicing Don-Jon under his chin.
+
+"Enough of the games!" Francis shouts, "Give me your gold, or I swear, I'm gonna kill him!"
+
+Sasha casts Vicious Mockery on Francis, who covers his ears in pain. Mira jumps out of the caravan and tries to hit Francis with his sword, but he forgot he is now a gnome and his height disadvantage means he struggles to hit Francis. He instructs Misty to attack, but she loafs around.
+
+Don-Jon tries to elbow at<br>
+Francis but misses and Francis <br>
+restrains him further.
+
+Marlade casts Toll the Dead on <br>
+Francis but he resists it.
+
+Minogar rages and uses a <br>
+Reckless Attack on Francis, he <br>
+smashes into Francis's torso <br>
+with his greataxe, Francis <br>
+tries to kill Don-Jon but due <br>
+to the Vicious Mockery from <br>
+before, he isn't able to <br>
+carry it out.
+
+Unbeknownst to the <br>
+group, his accomplises have <br>
+been stealthing towards the <br>
+caravan and jump out, five <br>
+more bandits join the fray, one <br>
+of them tries to attack Mira and <br>
+hits him with his Schimitar, <br>
+another attacks Misty and also <br>
+hits her.
+
+Sasha jumps out the caravan <br>
+and attacks the nearest bandit <br>
+with her longsword, she hits him <br>
+and he starts to stumble.
+
+Mira attacks another with <br>
+his shortswords and tries to get Misty to attack but she is still loafing around.
+
+Don-Jon continues to try to elbow Francis, he hits and knocks him away, releasing the dagger from his throat.
+
+Marlade casts Spiritual Weapon outside of the caravan, where a spectral weapon appears, he uses it on one of the bandits and slashes him.
+
+Minogar tries to attack Francis again he smashes once again into his torso, knocking him unconscious.
+
+Sasha uses her longsword on the bandit she attacked earlier, she slices through him and kills him on the spot.
+
+Mira continues to attack the other bandit with his shortswords, he slices through his legs and brings him down to his size, he stabs him straight in the face and kills him.
+
+He once again tries to get Misty to attack, and she listens this time, but the bandit she attacks is able to coax Misty into not attacking him and Mira gives Misty a glare as she ignores his orders.
+
+Don-Jon now sees Francis being unconscious, he mutters that he is getting too old for this shit, and elbows Francis's unconscious body. Francis falls off the caravan and drops dead.
+
+Minogar moans that he stole the kill.
+
+Marlade casts Toll the Dead on a bandit, who drops dead from the bell tolling in his ears. Marlade also uses his spectral weapon to attack another bandit. Sasha rushes over with her longsword and finishes him off slicing him in two.
+
+The final bandit begins to flee, Mira takes out his longbow and fires an arrow at the fleeing bandit. He fires true and hits the back of his calf and he begins to stumble, Mira then instructs Misty to attack the bandit who rushes after him and savages him to death.
+
+Don-Jon looks shook and thanks the party for being there, he says if he was alone he would have been a goner.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/rvzJIQv.png' 
+  style='position: absolute; left: 50px; bottom: 10px; width: 350px' />
+
+The group search through the bodies and find 150 gold pieces in total, which they split. Minogar also finds a Ball in a cup on the leader. He tries to catch the ball in the cup, and succeeds!
+
+While looting, Marlade hears another voice, "Oh no, not that way, I would not have gone that way!" but it sounds like it is just mocking Marlade.
+
+Minogar also hears a voice, but they arent aware that each other is hearing it, "I knew you'd go that way, I would also have gone that way"
+
+Marlade casts Detect Evil and Good but doesn't detect anything around him.
+
+The group continue on the caravan and arrive at the gold mine. Don-Jon leaves the caravan at the road and they continue to the entrance of the mine on foot.
+
+As they walk, Minogar explains that he heard a voice to the rest of the party. A low ridge rises to their right, beyond which they see the Sword Mountains scrape the gray sky. But closer in, something is strewn across the rocky ground ninety feet ahead.
+
+“Well, ain’t that something,” says Don-Jon, pointing at what appear to be six dead orcs.
+
+The group go an inspect them, who are all strewn about as though they were running from something. Mira inspects the bodies more closely and notices that there is no snow around and yet there is frost on them.
+
+Don-Jon looks to the rest of the group, "Cryovain, looks like he saved us some trouble!"
+
+The group ask if Cryovain is the white dragon people have been talking about, to which Don-Jon says it is. He asks if they have much experience with dragons?
+
+The group laugh nervously.
+
+"Well the good news is, " Don-Jon says as he reaches down, "Is the dragon killed these at least three days ago, so he is probably not around..."
+
+The group loot the bodies and take their weapons back to the caravan, with intent to sell them later on.
+
+They continue on towards the mine.
+
+```
+```
+
+### Chapter 46
+##### Wererats
+
+Hidden among bushes, a tunnel burrows into the foot of a soaring, snow-capped mountain. Above the mouth of the tunnel is a wooden plank with the words “Mountain’s Toe” carved into it in Common.
+
+Don-Jon turns and explains that he has never actually been in the mines before, so won't know much about the layout. He leads them to the mouth of the cave.
+
+At the entrance they see two female looking individuals but they are super furry and have what appear to be, rat faces.
+
+They put their hand up to the group as they approach and asks what their business is?
+
+Don-Jon goes forward and introduces himself, he explains that the consortium sent him to check why they haven't been recieving their shipments lately?
+
+The guards say no but that they can take them to the leader if they want.
+
+Don-Jon asks the group if they should agree to this? He says he thinks the group can handle any trouble if there is to be any.
+
+He says, "If it gets a bit hairy, we can leave - pun intended!"
+
+The group groan, and Don-Jon asks the guards to lead the way.
+
+One of them stays guard as the other leads the group through the mine. Minogar lights a torch and Marlade casts Light.
+
+The rat guard arrives at a door and unlocks it, leading them through. The door creaks and they continue deeper into the mine, they arrive at another door, the otherside of which the group can hear the noises of someone giving a speech to a crowd.
+
+The rat opens the door and returns to her guard post.
+
+Inside, the group see a female rat person giving a rousing speech to six humans, the female is clearly the leader and is explaining the benefits of becoming a wererat.
+
+The leader notices the party and stops her speech, she introduces herself as Zeleen Varnaster and asks what she can do for her visitors?
+
+Don-Jon starts, "Ah, Zeleen, the names Don-Jon, we have come to find out why our shipements have stopped. I must say, I haven't seen much mining since I got here."
+
+Zeleen turns and says, "We don't need to mine, this is our home now."
+
+Don-Jon looks unconfortable but says, "Ah, well I hate to be the bearer of bad news, but the consortium owns this mine and you are kinda trespassing!"
+
+Zeleen responds, "I don't believe we are, finder's keepers and all that!"
+
+Minogar says he does not believe thats how the law works!
+
+Zeleen turns to the goliath and says it was empty when they got here.
+
+Sasha asks Zeleen then who are these people?
+
+Zeleen explains that they are the new recruits and asks the party if they want to join and become a wererat.
+
+The group politely decline, and whisper to Don-Jon why the mine was empty, he says that as far as he knew the work was going ahead.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+Don-Jon tells the group this is creeping him out a bit, he is not used to this sort of thing. Minogar offers to take the wererats out, but Don-Jon thinks this is just a misunderstanding. He does ask the party that he would like to know what happened to the miners though.
+
+Minogar turns to Zeleen and just asks where the miners went as they should have been here?
+
+Zeleen says she has no idea. But unconvincingly.
+
+Mira asks where they came from, Zeleen tells a story of how she found a cursed rat that turned her into a wererat and she was able to defend her town from bandits, until they overwhelmed the group and they had to flee, and thats how they got here.
+
+Mira asks how many of them there are, to which Zeleen responds why they would need to know this?
+
+Don-Jon asks Zeleen if they mind if they just take a quick look around, Zeleen thinks for a second and says "Sure..."
+
+The group start to wander around the mine, they still do not see any miners, they find store rooms full of rotten food, which concerns Don-Jon as it is odd how nothing has eaten the supplies. He decides it best for him to return to the caravan and the rest of the group carry on investigating.
+
+They find small cots and rooms that have been ransacked, its all very strange.
+
+They come to a door that is locked, Minogar tries to smash the padlock with his axe but it doesn't break. Sasha casts Knock on the padlock and it falls to the floor.
+
+The group enter and are in a passage, this has a steep slope leading upwards though, that is hard to get a footing on.
+
+Sasha rushes up the slope and to her horror a strange giant worm thing attacks her! Mira tries to rush to Sasha's aide and rushes up the slope, he slashes at it with his shortsword across its face. It has big bug eyes with a small mouth and huge whisker type tendrils coming off its face.
+
+Marlade casts Sanctuary on Sasha from the bottom of the slope.
+
+Sasha takes her longsword and tries to attack the thing, and gores the side of it, green blood spills onto the floor. The thing tries to hit Sasha but misses, and tries to bite her instead, it latches on and tears a chunk of flesh from Sasha's arm. Mira uses his sentinel ability to attack once again, but misses the swing.
+
+Marlade uses Guidance on Minogar to boost his abilities. Minogar rages and runs up the slope, he attacks the beast with his greataxe and cleaves up his belly. Its guts start to fall out and it hisses at Minogar.
+
+Sasha takes her longsword and attacks it again, it continues to bleed out, and in desperation it scuttles upside down onto the roof and tries to use one it's tentacles to hit at Minogar.
+
+It does hit, but Minogar resists being poisoned.
+
+Mira takes out his longbow and shoots at the beast, but it pings on the roof.
+
+Marlade can now see the beast as it is on the roof and uses Toll the Dead on it, its now looking like it's on it's last legs.
+
+Minogar takes out his greataxe and smiles at the beast, he tears from one end to the other of the beast, it screams and gets higher and higher pitch as his axe travels up it, and the two pieces fall from the roof, covering Minogar in green blood.
+
+Minogar carves it up and takes it meat for later. The meat is green and smells funny but he quickly stuffs it into his pockets.
+
+Sasha continues in the cavern and it comes to an opening that looks outside onto a field. She is stood ontop of a 20 foot drop and can see the field.
+
+This field contains a ring of ten earthen graves with pickaxes sticking out of the ground where headstones ought to be.
+
+Sasha tells this to the party, and Marlade thinks it might not be a bad thing, people might just die in the mines all the time?
+
+The group continue to search around the mine, they find more strange cots and eventually come to another locked door.
+
+Mira listens at the door, he can hear seperate voices that sound very weak, and he recognises the accent as dwarvish. Sasha also listens as she can understand dwarvish, she says they are debating whether to leave or surrender and another is saying they have killed enough of them, and that they are outnumbered.
+
+Behind them, the group hear the sounds of squeaking approaching...
