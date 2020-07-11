@@ -1,5 +1,4 @@
 
-
 <style>
 .divider {
     width: 100%;
@@ -730,7 +729,7 @@ The group stand well back, the beast has not spotted them yet. Minogar turns to 
 <div class="descriptive">
 “Manticores love the taste of human flesh. That’s why, on trips through the mountains, I always travel with human guards.”
 
-— Marthok Uldarr, dwarf copper merchant
+ Marthok Uldarr, dwarf copper merchant
 </div>
 
 Marlade nudges Sasha and says she should be the one to talk to the Manticore. The group all move forward and shove Sasha ahead slightly. The manticore stops attacking the door and slowly turns to the group.
@@ -1012,7 +1011,7 @@ The group navigate around the fan blades, their razor sharpness is apparent as t
 
 Minogar points to the fans, and says "Facktore?" to Pog. Pog isn't sure what he means, and Minogar clarifies that he is asking if Facktore made these. "Oh no, these were made by the great Fibblestib and Dabbledob! Infact, they are just through here, come, come!" Pog leads the group on.
 
-As the characters approach this area, they overhear an argument in Gnomish between two rock gnome recluses — a male named Fibblestib and a female named Dabbledob. As Gnomengarde’s foremost inventors, they are trying to dream up an invention that will cure King Korboz’s madness. Fibblestib’s proposal is a “sanity ray.” Dabbledob thinks that’s dumb, and wants to build something called a “straitjacket” instead.
+As the characters approach this area, they overhear an argument in Gnomish between two rock gnome recluses  a male named Fibblestib and a female named Dabbledob. As Gnomengarde’s foremost inventors, they are trying to dream up an invention that will cure King Korboz’s madness. Fibblestib’s proposal is a “sanity ray.” Dabbledob thinks that’s dumb, and wants to build something called a “straitjacket” instead.
 
 The two gnomes hear the group arrive and ask them which invention they believe has more merit, the group decide on "straitjacket". Dabbledob goes to high five Mira for suggesting it, and has to jump to met her palm.
 
@@ -1220,7 +1219,7 @@ Mimics are shapeshifting predators able to take on the form of inanimate objects
 >
 ><div class="descriptive">“Sometimes a chest is just a chest, but don’t bet on it.”
 >
-> — X the Mystic’s 3rd rule of dungeon survival</div>
+>  X the Mystic’s 3rd rule of dungeon survival</div>
 
 Mira and Minogar look at each other and both shake their heads, Minogar turns to the mimic and says it is gonna have to better than that.
 
@@ -4462,3 +4461,470 @@ The group continue to search around the mine, they find more strange cots and ev
 Mira listens at the door, he can hear seperate voices that sound very weak, and he recognises the accent as dwarvish. Sasha also listens as she can understand dwarvish, she says they are debating whether to leave or surrender and another is saying they have killed enough of them, and that they are outnumbered.
 
 Behind them, the group hear the sounds of squeaking approaching...
+
+## Session 12 - 14/06/2020
+### Chapter 47
+##### Dwarves
+
+As the party are listening at the door, Marlade hears the squeaking approaching and around the corner comes a swarm of giant rats! The group battle against the beasts and manage to slay most of them, however one injured rat skulks off and manages to escape, it heads back towards the wererats.
+
+Minogar then turns to the door and rages, he kicks it as hard as he can, but the door just buckles slightly and a boom echoes around the caves.
+
+Minogar gets even more annoyed and kicks right on the lock, the door flies through to the wall on the other side of the now revealed room, inside he sees two dwarves and says he means no harm. The dwarves look unconvinced, witnessing the door hit the other side of the room.
+
+As the group walk inside, they see a further three dwarves. These dwarves do not appear to be in the best of shape however, and are looking very frail and hungry.
+
+The first dwarf turns to the group and weakly asks who they are.
+
+The group explains that they came with Don Jon and heard there was some trouble here in the mines.
+
+"Took a while..." the dwarf weakly begins to say, "Have you met... them?", seeming to refer to the wererats.
+
+Minogar explains that they have.
+
+"Are you here to save us? Have our prayers... been answered?"
+
+Minogar turns to Marlade who is nodding with a smirk on his face to the dwarf.
+
+"Hmm," as the dwarf turns to Marlade, "A cleric?!... It seems you were right, Bori, praying to Savras has brought aid to us."
+
+The dwarf coughs, "Allow me to introduce myself, I am Duli. Duli Mountainriver. I suppose, after all this, I am now the acting foreman."
+
+Minogar gives each of the dwarves some of his rations, and they begin to perk up.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/696crrj.png' 
+  style='position: absolute; right: 0px; bottom: -20px; transform: rotate(30deg)' />
+  
+The dwarf thanks the goliath for his kindness and explains that they did try to fight the wererats but were overcome.
+
+The dwarf believes they are waiting for them to all starve.
+
+He explains that their weapons were powerless against the wererats, and that they have been hiding here ever since.
+
+Mira asks how many there are, and the dwarf explains that there were only around four before, but there could be more now...
+
+Sasha enters the room with the dwarves and sees a tunnel at the back, she asks if anyone has been through it - they say it is too small for them to fit through.
+
+Mira picks up a rock and throws it into the tunnel, it goes quite far and he hears it rattle on the floor. The tunnel turns a corner though, so he cannot see further.
+
+The gnome enters the tunnel and begins to crawl through, the base of the tunnel feels reinforced, so he deduces that this has been dug out for a purpose.
+
+He slowly crawls through it as it winds and starts to see light coming in. Mira emerges outside, and realises this is another exit to the mines.
+
+He decides to return to the group and explains what he saw.
+
+The group decide to repair the door that Minogar kicked down, Sasha casts Mending on each hinge and Minogar uses his strength to bend the door back into shape.
+
+They leave the dwarves in the room and decide to shut the floor for now to hide the dwarves, they begin to discuss how to get these dwarves out
+
+As they are talking however, they notice a squeaking sound. They turn around and see a giant rat staring at them, seemingly smirking.
+
+Minogar uses his ability to talk to the rat, and asks why he is here. The rat explains that he has alerted the others and that they are coming!
+
+Minogar begins to throw a javelin at the rat, to which the rat runs forward and tries to bite Minogar, but he dodges it. He now takes out his axe and attacks the beast.
+
+He kills the rat in one blow and it lets out a squeak, but the group hears the sounds of running footsteps and weapons clanging coming towards them.
+
+Around the corner comes Zeleen, the leader of the wererats, with a crossbow. Zelline fires at Minogar and hits him with a bolt. There does appear to be more people coming through, judging by the commotion behind her.
+
+Mira fires his longbow at the wererat, which hits but the bolt appears to not affect the beast at all...
+
+Marlade summons a spiritual weapon and attacks Zeleen with it, the damage from the magical weapon seems to stick, she seems shocked that it has managed to harm her.
+
+Minogar takes his torch and swings it at the wererat, but the fire doesn't seem to phase her.
+
+Sasha uses Vicious Mockery to hurl abuse at Zeleen, but she resists the cantrip.
+
+Zeleen tries to bite Minogar, he shakes off the wererat but she tries to bite him again, he dodges successfully.
+
+Behind Zeleen come the humans from before, but they are looking a bit hairier than before. As they enter they morph into the wererat creature resembling Zeleen.
+
+The group face down the wererats, the wererats relentlessly try to bite the party and infect them with their curse, but they manage to dodge or resist their attempts.
+
+In the end, the group manage to defeat Zeleen first, but as they do so, the other humans immediately revert to their normal forms and stop attacking - looking confused.
+
+The group lower their weapons and begin to speak to the humans. It is revealed that they have no memory of this place and they only remember meeting Zeleen in human form and then her transforming and biting them. They reveal that they are from a ranch nearby and aren't sure where they are.
+
+The group decide to investigate this ranch that the humans are talking about. They lead the dwarves and humans out of the mines and begin to head back up to Don-Jon's caravan.
+
+### Chapter 48
+##### Caravan
+
+The dwarves mention they would like to return to Neverwinter and speak to the Consortium, the humans wish to return to the ranch.
+
+As they are walking north, Sasha hears a voice in her head. The group begin to discuss this - as they have all heard this voice at some point - they believe they are all going crazy.
+
+They arrive to where Don-Jon had parked his caravan, but they do not see it. Instead they see him slumped on the floor, no caravan in sight.
+
+They begin to rouse him and he comes to.
+
+"Oh, Howdy guys, err, where's the caravan?"
+
+The group explain that it appears to have disappeared.
+
+Don-Jon tries to remember, his face drops as he does so. "Ahhh, nooo, they took it... Some orcs came and rushed me, making off with ma dang caravan!"
+
+The group ask which direction, but Don-Jon explains that he was hit before he saw where they went.
+
+Minogar notices that the tracks on the caravan have sunk into the earth where it was parked, and looking at the depth of the tread, he deduces that they headed east along the triboar trail. He believes that these tracks should be easy to follow to find the destination of it.
+
+The group deliberate over what to do with the humans, dwarves and the caravan. Don-Jon pleads that time is of the essence if they are to get his caravan back.
+
+They decide to send the humans and dwarves back to the mine for now, and the group and Don-Jon head along the triboar trail. Don-Jon says he is joining them no matter what as it is now "personal".
+
+Minogar leads the group and follows the tracks, they head in the direction of Conyberry following the triboar trail. Halfway along the trail, it starts to become night and they decide to quickly camp for the night, believing that the orcs will have stopped as well.
+
+After their rest, morning breaks and they decide to have<br>
+a quick chat. They begin to discuss the "voice" they keep<br>
+ intermittently hearing, Don-Jon actually perks up<br>
+ hearing this and explains that he too started hearing<br>
+ voices around the time he met the group to travel<br>
+ south from Neverwinter, but they stopped when<br>
+ they went to the mines.
+
+Marlade explains his current theory, he<br>
+ believes it to be a certain individual who<br>
+ escaped capital punishment in<br>
+ Neverwinter.
+
+"Iarno, you talking 'bout?" Don-Jon<br>
+ asks, "Yeah, I think I saw the poster,<br>
+ how did you guys meet him?"
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/ApfAtNU.png' 
+  style='position: absolute; right: 0px; bottom: -20px; width: 450px' />
+  
+Marlade says he was doing weird stuff with kids or something
+
+"So how do you think he is messing with you?"
+
+Marlade says he believes that it could the staff he currently has, he says to Don-Jon that he stole it from Iarno after defeating him.
+
+"Do you mind if I take a quick look?"
+
+Marlade hands over the staff, Don-Jon is surprised at how ornate it is, and recognises that it is magical. He advises the cleric to investigate it further, as he cannot.
+
+Marlade casts Identify on the staff, to get its properties. It is revealed that the staff has got a divination spell on it that is allowing someone - or something - to track the wearer.
+
+The cleric defiantly decides to keep the staff regardless. Minogar also decides to inspect the staff, he decides to speak into it and asks for Iarno.
+
+The group hear a voice laughing, it morphs into Iarno's voice, "So, you finally figured it out." he says menacingly.
+
+Minogar asks where he is, but the mage ignores his question, "Ah, on the Triboar trail now i see... quite far from Neverwinter! Did you enjoy my little 'party trick'? I saw you in the crowd."
+
+The barbarian jokes that he did infact enjoy it, the voice continues, "Your little tiefling friend, quite resourceful isn't she? You all got out of that situation pretty quick."
+
+Minogar decides to try to bond with the mage, he explains he has distain towards Lord Dagult.
+
+Iarno's voice, changes slightly, sounding slightly surprised as to what he is hearing. "Erm, yes? Are you serious when you say this, or is this in jest?"
+
+Minogar explains that he tried to stop him killing the mage, because he wanted to speak to him first, but got on the wrong side of the Lord.
+
+Iarno responds. "Interesting. Interesting... can I ask, would you be interested in a 'partnership' in order to dethrone Lord Dagult?"
+
+The group start to perk up and listen, Marlade begins to chuckle.
+
+Iarno continues, "See, the Zhentarim, I know that your first impression of us is not good. But all we want is order, and the Alagondar family ruled over Neverwinter and it prospered for centuries, Lord Dagult we believe is a usurper. He has taken the throne for himself. We know of a legitimate heir to the throne. We would like to instate this individual in his place."
+
+The group ask who the individual is, but Iarno remains tight lipped.
+
+The group believe it is the woman who runs the Driftwood Tavern.
+
+Minogar says to Iarno that they will not attack the mage if they see him again, the mage responds sarcastically, "Oh, how kind."
+
+The barbarian goes on to explain that perhaps the mages intentions have been misunderstood and he is not that bad, so if they ever meet face to face again, perhaps they should have a talk.
+
+Iarno pauses, "Ok... is this a pact of some sorts we are building, are you wanting to join the Zhentarim?"
+
+Minogar says it is a truce for now.
+
+Iarno asks him to take out a blade, the goliath looks confused. "Do as I say if you wish to join us."
+
+Minogar says that he didn't necessarily say he was joining the cult. Iarno explains that he has the information that he needs, but he will need to make a pact first. "If you wish to accept this pact, take out a blade, cut your hand, and place it on the floor."
+
+Minogar remains still and silent for a moment.
+
+He gives the staff back to Marlade.
+
+As he does so, he hears Iarno once again, "Disappointing."
+
+The group continue to the east, and arrive in the ruins of Conyberry. Marlade recognises the place from his vision, but it is not quite the same, some buildings have shifted around, but it looks like it could be the place.
+
+The tracks that Minogar is following continue east from here, Marlade explains that his vision actually took him south he believes.
+
+He puts it to the group to decide what they would like to do, and they decide to carry on after the caravan for now. In the distance, they see a ranch.
+
+The tracks lead up to the ranch itself.
+
+The group decide to camp one last time before heading towards the ranch as it is getting dark once again. In the morning Sasha is awoken by something licking her face.
+
+A cow has gotten curious and has wandered over to the party. Sasha pushes it away and a bell around its neck rings slightly, Sasha grabs it to stop it ringing and the cow stands staring at her.
+
+She wakes up the rest of the party, and they all stare at the cow.
+
+Don-Jon decides to walk around the cow, "Wow, this looks like someone's prized cow, this aint wild. Hold on, this cow is branded." He peers at the cow's rear end, "BAK. Whoever that is, it must belong to them."
+
+### Chapter 49
+##### Ranch
+
+The group decide to take the cow with them into the ranch to find its owner, Don-Jon attempts to goad it but it won't move from it stands. Sasha also tries but with a bit more finesse, and the cow follows her.
+
+Butterskull Ranch occupies a large plot of land on the north side of the Triboar Trail, nestled between two hills. Beyond a ramshackle wooden fence stand corn fields, an apple orchard, gardens, and pasture land. A path breaks off from the trail to lead to a two-story farmhouse next to a pond. West of the farmhouse are the charred remains of a barn and smithy that have been burned to the ground.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/EncCoFc.png' 
+  style='position: absolute; left: 0px; bottom: -20px;' />
+  
+The group move up towards the farmhouse, and parked outside is their caravan! However, they inspect it and Don-Jon calms his horses down. Minogar looks into the back for his axes, but all the weapons appear to be missing.
+
+Minogar decides to go up to the farmhouse and listen, he can hear orcish being spoken, they are arguing over who gets to keep what they have found.
+
+Mira comes up and looks through one of the windows. He sees five orcs arguing in what appears to be a dining room, they are shouting at each other with the axes on the table.
+
+However, they all seem to have at least one axe equipped to begin with.
+
+The group prepare to smash the door down and surprise the orcs. Minogar rages and kicks the door which makes a really loud thud but doesnt open. He kicks again, this time the door completely collapses, but they end up in a small porch area, not the room with the orcs they saw. They hear the orcs getting ready to attack from a door to their left. There is another door to their north where they can also hear noises of orcs getting ready to fight.
+
+The group begin to fight these orcs, the commotion is loud and causes all orcs to come and rush the party, orcs run down the stairs into the porch, the orcs they saw at the beginning rush through and orcs from the other door come bursting in. Don-Jon also joins the commotion and gets knocked down but uses his resilience to get back up and retreat from the combat scene.
+
+The group are eventually victorius and a lone orc runs off upstairs. The group split and follow it, one up stairs in the porch and another up stairs in the dining room, they are able to pincer the orc upstairs in a hall and finish it off.
+
+They count the bodies and there are 12 orcs that they have defeated.
+
+```
+```
+
+The group gather up the axes and put them back into the caravan.
+
+Mira looks around upstairs and finds a 'Three-Dragon Ante' playing card set and a 'Dragonchess' set.
+
+Marlade rummages around an office upstairs and finds what appears to be wages, he takes the gold, silver and copper pieces.
+
+In the master bedroom, Sasha finds a piece of Mithral Armor, a chest piece.
+
+The group carry on looking around the house, Sasha heads into the cellar.
+
+The cellar has a dirt floor, walls of mortared stone, and an eight-foot-high plank ceiling braced by wooden pillars. Tied to a chair is a large figure with a burlap sack pulled over his head. Shelves along the walls are lined with skulls made of butter and protected by a thin coating of wax.
+
+The bound figure is Alfonse Kalazorn, also known as "Big Al", Sasha goes over to help him, and asks who he is.
+
+"Are they gone, did you get rid of them?" The human asks, Sasha says they are gone.
+
+"Oh good, please tell me you are here to save me and not kill me!"
+
+Sasha jokes that it depends and Big Al looks scared, but she explains that she is messing with him.
+
+Big Al introduces himself to Sasha, he says that the place got ransacked by orcs who killed his remaining ranch hands and that he is the only one left.
+
+Sasha says that the good news is that they found his cow, and Big Al explains that that is "Petunia" his prized cow! He offers some treasure for Sasha if she releases him, to which she agrees and does so.
+
+After being untied, he explains that he has some Mithril Chain hidden away upstairs, but Sasha explains that she already found it. Big Al laughs and says she can keep it then I guess!
+
+Don-Jon asks Big Al what they grow or sell here, and Big Al explains that they make butter usually, their best seller is a butter block shaped like a skull. The locals in Phandalin go mad for it.
+
+Big Al continues, "Erm, I know you have just saved me, but can I ask you a favour. Obviously im pretty down at the moment, and the orcs killed my ranch hands, if you ever pass anybody looking for work. They can find work here and lodging!"
+
+Sasha says they may know some people, referring to the humans from the mine.
+
+The group all meet up back on the ground floor, and come up with a plan. Don-Jon goes with his caravan to fetch the humans from the mines. They offer their services to Big Al to help him rebuild and the group go back with Don-Jon to the mines, to fetch the dwarves.
+
+They pick up the dwarves and Don-Jon says he will take them with him back to Neverwinter, they all squeeze in and Don-Jon says he will drop the group off at Phandalin, to which they agree, they will make the rest of the journey to Axeholm on foot.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/tDRGEM6.png' 
+  style='position: absolute; left: 0px; bottom: 0px; width: 320px' />
+  
+### Chapter 50
+##### Election
+
+As the group are traveling with the dwarves, they ask them about the helmet. The dwarves explain that they know of Axeholm, but not much more. The group part ways with each other as Don-Jon rides the caravan of dwarves back up to Neverwinter. As they pull away, the group can hear the dwarves singing a song about Gauntylgrym.
+
+> ##### THE CANTICLE OF GAUNTLGRYM
+> Passed down by dwarves throughout the North for centuries, the Canticle of Gauntlgrym is now something of an anthem for the reclaimed city. It is often sung on the road by dwarven travelers on their way to make a life in Bruenor’s halls. 
+> 
+> <br>
+>
+> Silver halls and mithral doors
+>
+> Stone walls to seal the cavern
+>
+> Grander sights than e’er before
+>
+> In smithy, mine, and tavern
+>
+> Toil hard in endless night
+>
+> In toast, oh, lift yer flagon!
+>
+> Ye’ll need the drink to keep ye right
+>
+> At forge that bakes the dragon.
+>
+> Come Delzoun, come one and all!
+>
+> Rush to grab yer kin
+>
+> And tell ’em that their home awaits
+>
+> In grandest Gauntlgrym!
+
+The group turn and head south the entrance of Phandalin, this time however, things appear slightly different, it has been over a month since they last set foot in Phandalin, and it appears the locals been busy. The entrance gate to the town is surrounded by scaffolding and it appears the residents are constructing makeshift balistas and artillery, as would be used on a threat from the air.
+ 
+The military presence has been increased as well, as there are now town guards stationed, where before their were none. However, unlike the guards in Neverwinter these ones are holding longbows and appear to be ready for a ranged battle.
+ 
+As they enter the town proper, they notice that it is quite busy, there are many posters on the walls of people's houses and inns, telling people to vote for certain people. It would appear they are gearing up for an election, presumably to replace their previous townmaster.
+
+```
+```
+
+The group head over to Linene's shop - The Lionshield Coster - with an intent to sell all their axes that they looted from the orcs.
+
+They enter and see Linene behind the counter, talking to a human male who is trying to give her a pamphlet but she doesn't want it. The male turns to the group and tries to hand them a pamphlet. Mira takes one and reads it.
+
+"Vote Today! Toblen Stonehill: I will make Phandalin a better place."
+
+Sasha jokes with the man, asking what's all this about, did you lose your townmaster or something?
+
+"Yeah," the male says, "apparently, the townmaster fled. Thanks to his 'note' we have all found out about this Dragon... We have survived for about a month without a townmaster and it feels like now is the time to get a new one. It appears that Toblen Stonehill is the current favourite to replace him, the second favourite - who I don't particulally care for - is Elmar Barthen, who is a dwarf, and I don't want no dwarf running this settlement!"
+
+The group are taken aback by this comment and Minogar says thats a bit racist.
+
+"Huh, coming from a goliath..." the male says.
+
+Minogar attempts to grapple the man but the man is able to push the goliath off him and leaves in a huff.
+
+Linene realises that the party are standing at the door and greets them.
+
+They discuss what has happened since they were last here and Linene explains that she couldnt keep the dragon secret to herself, and the town has pulled together and decided they are gonna stay and fight the dragon if it comes.
+
+The group try to convince Linene that the weapons they have were won in a gamble, but Linene asks why that would be, bit unorthodox to be betting weapons.
+
+Sasha continues to try and persuade Linene, and manages to successfully.
+
+"Neverwinter, ay, some weirdos up there arent there?" Linene jokes and offers to buy the axes off the party.
+
+Minogar tries to sell the axes, and tries to work out the price, but scuffs the sums and ends up selling them all really cheap.
+
+Mira interjects and stops this happening, and Linene agrees to buy them at the correct rate.
+
+Minogar tries to sell some gold nuggets they found from Mountains Toe, but Linene explains that they would need to sell those at the mining exchange.
+
+They head over to the Phandalin Miner's Exchange
+
+The Miner's Exchange is a trading post where local miners have their valuable goods weighed, measured and paid out. In the absence of any local lord or authority, the exchange also serves as an unofficial records office, registering claims to various streams and excavations around the area. There isn't any real gold rush in Phandalin, but enough wealth is hidden in the nearby streams and valleys to support a good number of independent prospectors.
+The exchange is a great place to meet people who spend a lot of time out and about in the countryside surrounding Phandalin.
+
+As the group enter, they see a counter they see an older looking woman with her hood up, sorting some papers out.
+
+To their right, they see the two dwarves they met from the Dwarven Excavation - Dazlyn Greyshard and Norbus Ironrune
+
+The group start to talk to the dwarves and tell them about their latest adventure in the mines.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+Dazlyn asks, "So where you heading nowadays?"
+
+Minogar says to Axeholm.
+
+Dazlyn and Norbus laugh, "Nah, seriously?"
+
+Minogar just looks at them.
+
+The dwarves realise that he is being serious. "You do realise what's there, right?"
+
+The group nod.
+
+"Then why on Faerun would you want to go there?"
+
+The group decide to lie and say its to do with Marlade's worship.
+
+The dwarves explain that Axeholm used to worship Abbathor the dwarven god of greed.
+
+As they are talking to the dwarves, the woman behind the counter rudely interupts and says, "Can I help you?"
+
+Minogar wanders over and glares at her.
+
+"Don't you glare at me goliath, I can bring you down to size!"
+
+Minogar explains that he has some gold nuggets on him and would like to sell some.
+
+The woman inspects the gold and tries to offer 20g for the lot, explaining that the gold is dirty and not good quality.
+
+Minogar decides that she is telling the truth and starts to accept her offer. Mira steps in again and says they are definitely worth more.
+
+Mira decides to offer 70g for the whole lot, and the woman immediately accepts the lot. Marlade rushes forwards but the deal has been done, Minogar turns slowly to him saying it can't be washed there is nothing they can do. Marlade says that its gold, it has a defined value! It literally is money...
+
+The two dwarves turn over to the group and shout, "You could have sold it for a lot more, ya prats!"
+
+The dwarves laugh but then change the subject, "So, are you guys voting? I know who we are voting for, Elmar of course!"
+
+The group aren't sure if they even can vote.
+
+"Yeah, just vote! They don't care! We did haha!" the dwarves say.
+
+The group ask the woman for a voting slip each.
+
+Marlade abstains, Sasha spoils her ballot and Minogar and Mira both vote for Barthen.
+
+The group leave and discuss who they voted for as they head south from Phandalin towards Axeholm.
+
+### Chapter 52
+##### Axeholm
+
+The day-long journey to Axeholm from Phandalin takes the party across grassy lowlands that skirt the rocky foothills of the Sword Mountains. The trek passes without incident, though cool winds and rain blowing in from the Sword Coast make the trip far from pleasant.
+
+Thrust out from the base of a dark gray mountain is the entrance to the dwarven fortress — a dark, fifteen-foot-wide passageway flanked by forty-foot-high bulwarks of smooth, seamless stone. An iron portcullis covered with rust blocks the entrance. Arrow slits carved into the bulwarks are dark, revealing no hint of occupation.
+
+The group stand at the entrance and discuss how best to approach this, they don't think just barging right in is the best idea.
+
+They slowly move forward and inspect the portcullis, it is sealed into the floor.
+
+They inspect the arrow slits and believe they could probably just about shove a gnome through it.
+
+Minogar picks up Mira and shoves him inside the closest one on the left.
+
+Mira enters a room and sees infront of the arrow he was just shoved into is a massive arrow pointed at his face, connected to a ballista. Further south in the room he sees more arrow slits, each with loaded ballistas in front of them.
+
+He tells the group what he sees and Marlade advises him to disarm the ballistas.
+
+Marlade steps back from the arrow slit, but Minogar stays and watches.
+
+Mira tries to disarm the ballista, but is unsuccesfull and it goes off and fires straight into Minogar!
+
+He is launched across to the other wall and pinned against it by the metal bolt, it has pierced straight through his chest.
+
+Minogar screams in agony as he begins to bleed out. Marlade goes over and inspects the damage as Minogar carries on bleeding out. Marlade tells the group he has an arrow in his chest.
+
+Marlade and Sasha both try to pull out the arrow, but don't have enough strength to pull it free. The failed attempts cause Minogar to take more damage and he screams out in agony each time.
+
+The group are now panicking at the entrance to Axeholm, with the goliath pinned against the wall.
+
+The sounds of zombies approaches...
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://i.pinimg.com/originals/93/36/0a/93360a3fce8fb0a22e9946ecbbb77792.jpg' 
+  style='position: absolute; left: -885px; top: 0;height: 100%' />
+  
+\page
+
+## Session 13 - 18/06/2020
+##### Axeholm (continued)
