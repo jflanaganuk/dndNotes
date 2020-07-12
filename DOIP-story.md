@@ -4915,7 +4915,7 @@ Marlade and Sasha both try to pull out the arrow, but don't have enough strength
 
 The group are now panicking at the entrance to Axeholm, with the goliath pinned against the wall.
 
-The sounds of zombies approaches...
+The sounds of gnashing and clawing approaches...
 
 \page
 
@@ -4926,5 +4926,377 @@ The sounds of zombies approaches...
   
 \page
 
+<div class='pageNumber auto'></div>
+
 ## Session 13 - 18/06/2020
 ##### Axeholm (continued)
+
+South of the portcullis, two sealed wooden double doors are banging away. The room that Mira is now trapped in contains a single wooden door that is also banging, and he can hear the sounds of groaning and clawing coming from the other side.
+
+Above the rest of the group - who are trying to free Minogar - notice above them, the ceiling to the next floor is 15 foot high. But in this ceiling are 'murder holes' - places where defenders of this fortress would fire down arrows or pour hot oil onto attackers. But on this day there are no arrows or hot pitch, only undead arms reaching through clawing and grasping to the adventurers below... The floor around these arms appears to be starting to crack.
+
+Sasha starts to panic and continues to try and free Minogar from the arrow pinning him to the wall. Using all her might, she finally frees Minogar from the wall who drops to the floor, but is freed.
+
+Sasha then uses Bardic inspiration on Minogar to aide him.
+
+Mira is in trouble, there are stairs near him which have ghouls rushing down it, one of the them rushes to the gnome and tries to claw at him, it lands an attack and tries to paralysehim but he resists.
+
+Mira disengages and tries to shove himself back into the arrow slit, but can't get out on his own. The door to the left of Mira bursts open - revealing more ghouls - who shamble towards him.
+
+Minogar rushes over to Mira and tries to pull him out of the slit, he uses all his might and yanks the gnome free and starts to flee out of the fortress entrance - gnome in hand.
+
+Where Minogar was pinned against the ghoul, the arrow slit to the right of it, a ghoul starts to force itself through, the ceiling does now crack and three ghouls fall to the ground sscreaming, but land motionless on the hard stone floor.
+
+The doors to the south keep banging.
+
+Marlade casts suggestion on the nearest ghoul and tells it to flee, but the ghoul does not seem to even understand the command and ignores it. The cleric realises that ghouls are immune to charm effects, and casts healing word on Minogar.
+
+Sasha starts to retreat from the fortress also.
+
+The ghouls on the floor suddenly open their eyes and jump up to a standing position, they scream and rush forwards, one attacks Marlade but he manages to dodge it.
+
+The doors to the south keep banging.
+
+The ghoul in the arrow slit starts to come through, as other ghouls are shoving it from behind, blood and bits of flesh are being left behind on the arrow slit as it forced through the tiny hole.
+
+The doors to the south keep banging.
+
+The doors smash open revealing a plethora of ghouls, who all rush forwards and slam into the portcullis, their arms grasping through to the party gnashing and growling.
+
+Minogar joins the rest in fleeing the scene, only Marlade remains at the entrance.
+
+The ghoul is pushed through the arrow slit, and tries to claw at Marlade. Marlade casts shield to block the attack, but the ghoul manages to hit regardless, but Marlade resists being paralysed.
+
+Another ghoul breaks through another arrow slit and attacks Marlade, but Marlade manages to dodge.
+
+More ghouls appear in the arrow slits and begin to force themselves through.
+
+Marlade disengages at this point and decides now is the time to flee with the rest of the group.
+
+The group decide to head back to Phandalin.
+
+### Chapter 53
+##### Phandalin
+
+They head over to the Stonehill Inn, Minogar apologises to Mira for putting him in a life threatening situation.
+
+Inside the Inn, they see Toblen and Trilena behind the bar, Toblen is looking more well dressed - presumably to put on a good impression for the election.
+
+The group sit at the bar, Mira sits down first.
+
+Toblen turns to the gnome, "Well howdy there Ranger, I don't think we have met before?"
+
+Mira groans. He explains the situation to Toblen, who laughs and probably doesn't believe the tale.
+
+"Hah, well you guys look pretty beaten up, everything ok?" Toblen turns to Minogar, "What happened to you, goliath?! You have so much blood down your front!"
+
+Minogar explains that he was impaled into the side of Axeholm, he orders a drink.
+
+The rest begin to place orders as well, Toblen interupts and asks if they have voted yet.
+
+The group say they have, "Ah, thats a shame, I was gonna offer you free beers in exchange for a vote! Who did you vote for by the way?"
+
+Marlade says that he abstained and hasn't actually voted yet.
+
+Toblen quickly turns to the cleric and tries to sweet talk him into voting for him in exchange for free beers.
+
+Marlade agrees, Toblen pours a pint and Marlade winks to the rest of the group as he takes a swig.
+
+The rest of the group tell Toblen that they voted for him. He believes the group and pours them all free drinks as thanks.
+
+Toblen pours his own pint and begins chatting to the party, they get talking and the topic of Harbin disappearing comes up. Toblen explains that he has a hunch as to where he is. He explains that up near Thundertree, he owns a logging camp, Toblen says his bet is that he is hiding out there. Toblen asks if they find him, to bring him back to the town, because everyone here would like a "word" with him.
+
+The group thank Toblen and find a table in the inn to have a talk. They discuss the fact that they almost died back there, Marlade believes that picking them off in smaller groups would be a better plan against the ghouls.
+
+Marlade also recalls some lore he has read about Axeholm, Axeholm is a dwarven fortress carved into the base of a mountain fifteen miles south of Phandalin. The site was abandoned and sealed up many years ago after being haunted by a banshee — the restless spirit of a moon elf ambassador named Vyldara who tried and failed to foment civil unrest among the dwarves. The dwarves imprisoned the elf and sent messages to her people, asking that they come to collect her. Before envoys could be sent, Vyldara killed two guards trying to escape, only to be cut down by dwarven axes before she could succeed.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/WwZqpiK.png' 
+  style='position: absolute; right: -150px; bottom: -300px;' />
+
+When the elf’s evil spirit started filling Axeholm’s halls with deathly wails, the dwarves abandoned their stronghold, but not before several dwarves slain by the banshee arose as ghouls to feed on their kin. Ghouls and other creatures now prowl Axeholm, while the banshee continues to haunt the fortress’s upper halls. 
+
+Marlade also recalls lore about banshees, he knows that banshees can wail but they cannot cast it more than say once a day, they also resist all non-magical attacks.
+
+Sasha remembers she has a lute that she can use to speak to the master bard - Lothouryte - they head outside and she plays the lute.
+
+As the strings reverberate, and start to glow pink, and tiny portal about the size of her head appears and through it the group can see an elderly blue dragonborn female sat at her desk.
+
+Sasha says hello!
+
+"Oooh, who is that?" the dragonborn turns and squints at the party, "Oh, Sasha! I see you have used my lute again!"
+
+Sasha asks if its possible for her to be asking for any guidance from the dragonborn,
+
+"Well, it depends on what it is, is it to do with your Bardic training?"
+
+Sasha explains that she is with her friends and they are embarking on a dangerous mission to axeholm, Lothouryte explains that she has not heard of that place. Sasha tells her how it is full of banshees and ghouls.
+
+"Ah, that sounds like a wonderful place..." Lothouryte says, concerned. "Why, heavens, would you want to go there?"
+
+Sasha says that she was just wondering if - as a bard - there was anything she could do to be of more help there.
+
+"Erm, well this does seem slightly above my remit... Bear with me while I fetch somebody..."
+
+The dragonborn leaves her chambers and the party waits.
+
+A male elf bard comes back in to the room and introduces himself, "Hello. I am Ruben, the master of whispers. Lothouryte says you are in dire need of my information..."
+
+Sasha starts to tell him about Axeholm.
+
+"Could you sort of tell me what region we are talking about? Is this near to Silverymoon?"
+
+Sasha thinks, and says it is near Icespire Peak.
+
+"Hmm, do you know which mountain range that is in?"
+
+She takes out her world map, and tells him it is in the Sword Mountains which is in the Sword Coast region of Faerun.
+
+"Ah, you are miles away from Silverymoon! Haha!"
+
+Sasha now asks if he knows anything about Axeholm.
+
+The bard steps back and appears to cast a spell on himself - Legend Lore. He then comes forward saying he now has knowledge on Axeholm.
+
+<div class='descriptive'>
+##### Legend Lore (Spell)
+Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named. The lore might consist of current tales, forgotten stories, or even secret lore that has never been widely known. If the thing you named isn't of legendary importance, you gain no information. The more information you already have about the thing, the more precise and detailed the information you receive is.
+</div>
+
+He explains that Banshee are cursed elves with unfulfilled causes that must be completed for them to pass on. He says most of them covet a gift or an item, which when given to them can cause them to be satisfied and pass on.
+
+Sasha asks if he knows of the name "Vyldara", but he does not. He advises to try and speak to any elves that live nearby, perhaps of a religious persuasion.
+
+The group realise they could ask the elf at the Shrine of Luck. Sasha thanks Ruben, and the portal starts to close.
+
+It is now night time, and they decide that they should rest in the inn. They go back inside and speak to Trilena, who sells them each a room and hands them some keys.
+
+They rest up for the night and head back into the main room of the inn for breakfast.
+
+Breakfast arrives and the party tucks in, however Marlade is not happy with his meal. The inn has given him holy bread and nothing else, meanwhile Minogar is tucking in to a massive meaty dinner.
+
+Marlade says to the waitress to get him his money back, as he does not want this meal.
+
+The waitress argues that each person has had a meal to fit their profession, but Marlade doesn't care.
+
+The waitress heads back to Toblen and the group can see him mouthing to her to go back and sort it.
+
+She comes back over and explains that their policy is not to give refunds.
+
+Marlade says ok, and that incase he will have to torch the place.
+
+"Erm, just one moment," the waitress says and rushes back to Toblen.
+
+They see Toblen get more annoyed and point back at the group, seeming to suggest he is telling the waitress to just make him eat the food.
+
+The waitress comes back. "I have erm, just spoken to the owner, and he doesn't believe you." She reiterates that there is no refund.
+
+Marlade pushes his chair back in a huff as he stands up and marches over to Toblen.
+
+Toblen folds his arms as Marlade approaches and says, "Ah, I thought we had become friends last night Cleric, I gave you free beers - and now you are moaning about the meal we have provided?"
+
+Marlade says that he just wants some eggs.
+
+"Ah, well you see we have no eggs in stock at the moment, the ranch where we normally get eggs from has been struggling lately it seems..."
+
+Marlade makes the case that everyone else appears to have had a good breakfast, apart from him.
+
+Minogar walks up behind Marlade, just to see what is happening.
+
+As the goliath approaches though, Toblen takes it as a threat and his demeanour changes, he begins to offer Marlade his money back. But Marlade decides to<br>
+just cast Suggestion instead, but Toblen resists it. <br>
+He still looks at the goliath, intimidated, and offers <br>
+Marlade the money back.
+
+The group leave the inn, but Marlade casts <br>
+Silence on the owners before he leaves.
+
+Marlade heads to miner's exchange <br>
+in a huff, and asks for a voting slip. <br>
+He angrily puts a cross next to Elmar <br>
+Barthen and storms back to the party.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+He asks to "borrow" Mira's necklace of Fireballs, but Mira refuses.
+
+The group heads over to the shrine of luck, they see Sister Gaerele praying at the bowl.
+
+Minogar kneels down next to her and pretends to pray.
+
+"Errr, can i help you goliath?" the crone says.
+
+Minogar asks for some advise. They have been told you might be able to help them understand an elf named 'Vyldara'.
+
+As he is talking, the elf panics and moves back in fright of his large presence.
+
+Minogar realises this and stops talking.
+
+Sasha asks if she is sister Gaerele, "Ooh, ooh, hello..." the woman says, she calms down and begins to start to Sasha.
+
+They bond and Gaerele reveals that she can flip a coin and consult the god of luck - Tymora - to see if she will aide them.
+
+> ##### Tymora
+> **Lady Luck, Our Smiling Lady**
+>
+> Tymora is the bright-faced goddess of fortune, the one to whom gamblers and game-players pray in Faerun. Our smiling lady is said to love none so much as those who gamble with the utmost skill and daring. Yet she is thought to watch over all who take risks to better their fortunes.
+>
+> Someone might say words to Tymora before any endeavour in which a little good luck would help, but not when an incidence of bad luck might occur. One common method of diving the future is to toss a coin to a stranger (typically a beggar) and ask if its heads. If it is, the coin is left with the stranger as payment for Tymora's favour. If it is not, the stranger can choose to keep it (and the bad luck) or return it.
+> 
+> Those who favour Tymora - as distinct from folk who invoke her name by mumbling over the dice - tend to be daring sorts. Adventurers and gamblers make up much of their ranks. They all have the belief that what is good about their lives is the result of having both good luck and the bravery to seek it out. Tymora has worshippers among all sorts of folk: the dashing young noble, the risk-taking merchant, the daydreaming field hand, and the scheming ne'er do-well.
+
+Sasha gives a coin to Gaerele, who flips it, and it landed on heads. "Ah, fortune favours you today."
+
+Gaerele reveals that she is looking for someone or some people to help her with the banshee, she takes out a silver comb from her hair and hands it to Sasha.
+
+"This silver comb, if you show it to the banshee, if she accepts it - I need you to ask her a question and report back to me with the answer. I need to know what is going on, under Neverwinter?"
+
+The group asks why she would need to know this, she explains that she cannot reveal exactly why - but that she is a member of the Harpers - who seeks to know all the can about the realm.
+
+```
+```
+
+> ##### Harpers
+> This clandestine network of spellcasters and spies seeks to tip the scales in favor of the innocent, the weak, and the poor within the Realms. Harper agents pride themselves on being incorruptible defenders of good, and they never hesitate to aid the oppressed. Because they prefer to work behind the scenes, they are rarely noticed as they thwart tyrants, depose rulers, and head off any growing force that is rumored to have evil intent. The Harpers has its finger on the pulse of power in the Realms and works tirelessly to even the odds for the downtrodden.
+Individual Harper agents operate alone, relying on their wits and extensive information networks to gain an advantage over their enemies. They know that knowledge is power, so gathering intelligence beforehand is paramount to their success. They are well-informed and always have access to aid, magical and otherwise. Veteran members have access to secret caches of knowledge stashed all over Faerûn, along with trusted sources stationed in every major town and city.
+> 
+> The organization is always on the lookout for powerful items, expressly to keep them out of the hands of evildoers. To this end its agents use various guises and identities to gain access to carefully guarded secrets such as ancestral maps, buried cities, and mages’ keeps.
+> 
+> The bond between Harpers is strong, and their friendships are nigh unbreakable. Rarely do they operate in the open, but on rare occasions they must, because there is no other choice. When that happens, you can be sure that a fellow Harper is watching closely, ready to emerge from the shadows and help a comrade at a moment’s notice.<div class='descriptive'>
+  >
+> “A Harper is first and foremost self-reliant, for once you are autonomous then no one can tempt you into using power as a crutch. You are sovereign unto yourself.
+> 
+> Therefore, a Harper’s soul must be incorruptible. Many believe themselves to be so, but power comes in many guises, and it will surely find your weakness. Of this you may be certain. Only a true Harper can pass this test and transform weakness into strength. That is why we are the hand that stops the tyrant, feeds the oppressed, and asks for nothing in return.
+> 
+> We are the song for those who have no voice.”
+>  
+> ##### Remallia “Remi” Haventree
+</div>
+
+We have reason to believe there are some "undesirables" trying to exert control over Neverwinter, and we need to know why.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/x0NJj8m.png' 
+  style='position: absolute; left: 0px; bottom: 0px; width: 400px' />
+
+
+After being given this information and advice, Minogar bows infront of Gaerele and goes to shake her hand with a coin in it
+
+He effectively gives a tip to the Sister, and says that she may well have saved their lives. Sister Gaerele thanks the group.
+
+The group head over to the town green, as they want to find out who won the election before they leave for Axeholm again.
+
+They discuss how they are willing to die together and risk their saves to save people, that they should really come up with a name for the team.
+
+They deliberate for a while but finally settle on a name.
+
+"Phandalin Hurricane Action Team" - or P.H.A.T. for short.
+
+The group decide to wander around the town for a bit, they go past the Stonehill Inn and see through the window that the silence spell has worn off. They continue down the road and come to a new inn, called the Sleeping Giant.
+
+This inn seems a lot more rough and unkempt than the other one, but the group head inside.
+
+```
+```
+
+### Chapter 54
+##### PHAT
+
+Within, it is dark and dingy. Behind the bar they can see the forehead of what appears to be a woman.
+
+They walk up to the bar and see a dwarf woman standing there with glasses on.
+
+"Helloorrr", the woman says as they approach.
+
+Mira asks if they could have a room for the night.
+
+"Ahhh, yessss, certainlyy. Erm, how many of you is there, I cannot see?"
+
+Mira says four.
+
+"Ok, let me just get out my notteeee boookkk"
+
+She peruses through the book and assumes that they want standard rooms, and that the goliath will want a bigger room.
+
+She offers a price for them all, and the group are shocked at how cheap it is.
+
+In response to this, the dwarf winks and suggests they recommend this place to all their friends.
+
+She also notices that Marlade is a cleric, she whispers to him that he can have it for free if he blesses the place.
+
+Marlade agrees and talks business, he says that today he will pay a lot more for the room to help her out.
+
+They take their long rest upstairs and in the morning they ask the dwarf if she knows where the election results will be announced.
+
+The dwarf explains that Daren Edermarth will be announcing it soon in the town centre.
+
+They head over to the town centre and see a calm crowd gathered infront of a make-shift stage, presumably where Daren will arrive to read the results.
+
+The party wait, and see him start to ascend the stairs, he is reading a note in his hand as he does so.
+
+He stands at the front of the stage and addresses the crowd.
+ 
+"Morning, ladies and gentlemen - please, settle down, settle down. We have a result for the new townmaster, the results came in. There was 120 votes and - although one vote was spoiled - the winner won by a majority of 30 votes..."
+
+The crowd applauds.
+
+"In second place... Elmar Barthen!"
+
+The crowd claps again.
+
+"And that means, the winner of the Townmaster Election - the beloved innkeeper himself - Toblen Stonehill!"
+
+The crowd cheer as Toblen takes to the stage, Daren claps and moves back to let him speak.
+
+"Thank you all, for voting for me!", Toblen begins, "I will restore this town to it's former glory! Already, I have dispatched some adventurers to bring back our previous Townmaster and will make sure crime is lowered and punishment is enacted in this town - as it should be. Phandalin, under my leadership will one day rival Neverwinter, of that I am sure!"
+
+The group look bewildered as to what just happened.
+
+They head off south of Phandalin and once again walk towards Axeholm.
+
+Some time passes and they arrive at the familiar entrance to the fortress, the ghouls appear to have gone back into the fortress proper, and all is silent.
+
+The group come up with a plan, and decide to make some noise at the entrance, to try and draw the ghouls out in a controlled manner.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+### Chapter 55
+##### Ghouls
+
+Sasha and Mira begin to play their instruments, and they hear the sounds of ghouls approaching, echoing through the halls.
+
+They continue to play their instruments, and the noise grows louder, they cannot see any ghouls yet.
+
+Suddenly through the double a hoard of ghouls appears and smash into the portcullis once again, too many to count. Their arms start reaching through the portcullis grasping towards the party.
+
+The ghouls start trying to bend the portcullis to get through it. The gate starts to bend slightly and starts to give, the prongs in the floor start to scrape into the rock below.
+
+Marlade casts Protection from Evil & Good onto Minogar, to protect him from the ghouls impending attacks. He also summons a spiritual weapon beside him.
+
+The portcullis now warps upwards from the force of the ghouls, and they scramble underneath it and rush through, like a torrent.
+
+One of them rushes towards Mira and slashes him with its claws, Mira is now paralysed.
+
+Minogar grabs Mira and tugs him away from the ghoul, but the ghoul overpowers Minogar. Mira manages to break out of the paralysis shortly after.
+
+Sasha decides to flee.
+
+Marlade realises the situation is starting to become bad, so he casts Turn Undead, which affects all the ghouls nearby. Around half of them resist it but the other half immediately start to retreat back into the fortress.
+
+He also gets his spiritual weapon to attack a nearby ghoul.
+
+The group now attack the reduced forces of the ghouls and manage to succeed against them! After this, they gather up the bodies outside the fortress and burn them to prevent them reanimating again.
+
+They look back at the entrance of the fortress, and ponder what to do next.
+
+
