@@ -5270,6 +5270,10 @@ The group come up with a plan, and decide to make some noise at the entrance, to
 
 <div class='pageNumber auto'></div>
 
+<img 
+  src='https://imgur.com/eSdLYpQ.png' 
+  style='position: absolute; left: 50px; bottom: 10px; width: 400px' />
+  
 ### Chapter 55
 ##### Ghouls
 
@@ -5298,5 +5302,273 @@ He also gets his spiritual weapon to attack a nearby ghoul.
 The group now attack the reduced forces of the ghouls and manage to succeed against them! After this, they gather up the bodies outside the fortress and burn them to prevent them reanimating again.
 
 They look back at the entrance of the fortress, and ponder what to do next.
+
+```
+```
+
+## Session 14 - 29/06/2020
+##### Ghouls (continued)
+
+The group discuss either stealthing through the dungeon or doing the noise again.
+
+They decide on making noise outside once again, after taking a short rest at the gates.
+
+Sasha and Mira once again take out their instruments and begin to play.
+
+They wait for the zombies to approach, but they continue to play and yet nothing comes.
+
+They play louder and louder and it starts to echo off the walls back at the group.
+
+A blood curdling scream comes from within the fortress, they stop playing and look shocked...
+
+Sasha takes out the silver comb and holds it infront of her.
+
+Marlade believes the scream is that of a banshee, and thinks it could controlling the ghouls.
+
+The group look up at the hole in the roof where the ghouls fell through. Marlade climbs onto Minogar and Mira climbs on top of them both to try and get a view inside the room.
+
+The gnome pops his head up into the room and sees a large room, with two empty fireplaces either side and two staircases either side leading up into it. He notices that to the south of the room, there is a lot of cobwebs.
+
+Marlade jokes that they should put the gnome on that floor, Mira protests!
+
+They let the gnome down and discuss what to do next.
+
+Minogar lifts the already bent portcullis to allow the others through, he then crawls under himself, the press on south into the fortress through the double doors.
+
+The group enter into a large hall, this great hall has a 40-foot-high ceiling supported by four thick stone pillars. A thick layer of dust covers the flagstone floor. In the middle of each wall past the entrance is a double door. Arrow slits are set high up in the north and south walls, and a small stone balcony protrudes from the wall above the east exit, 20 feet above the floor.
+
+The door to the south has been smashed open - presumably indicating that this is where the ghouls burst into this room.
+
+The group begin to head south, but as they walk into the room, the door to the west starts to bang. Minogar goes up to the door and listens.
+
+He can hear scratching and growling coming from the door, he believes there to be around four or so creatures.
+
+The group prepare, and Mira opens the door, he sees a ghoul that was scratching against the door, amongst other ghouls and one that looks slightly different and smells more.
+
+They take on the smaller troop of ghouls, Marlade notices that the odd ghoul is in fact a ghast. He explains that ghasts usually act as "pseudo-commanders" of ghouls as they are smarter.
+
+They inspect the ghouls closer, and realise they are were once dwarven.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img 
+  src='https://imgur.com/cFT2qmW.png' 
+  style='position: absolute; right: 0px; top: 0px; width: 400px' />
+
+### Chapter 56
+##### Privies
+
+The group enter the room the ghouls were defending, the floor is strewn with bits of armor and the gnawed bones of dwarves who were killed and eaten by ghouls.
+
+They see three more doors in this room, to the north, south and west. A corridor also goes to the north, to the right of that door.
+
+Mira listens in this room, but hears nothing.
+
+Mira listens to the door to the south, and can hear something tiny that appears to be flapping around. He opens the door and see standing before two blackened hearths are a pair of rusty anvils, which dwarves once used to fashion and repair their armor and weapons.
+
+A fluttering noise can be heard coming from the southernmost fireplace.
+
+Mira looks into the fireplace and looks up, the chimney is blocked and can hear the flapping really loud above him.
+
+Mira moves back and Marlade tries to light the fire.
+
+As he does so, a red bat thing flies out of the fireplace and attacks the party!
+
+Mira tries to talk to the bat, but it ignores her. Marlade tries to figure out if it is aggressive, he realises that it could be a stirge, but as he is thinking, doesn't realise it has landed on him and is trying to bite his neck.
+
+Marlade starts to panic and shouts around the room with it on him, saying its not friendly!
+
+Marlade asks Minogar to get it off him, Minogar grabs the bat and pulls on it, but it has latched onto Marlade too hard and he can't pull it away.
+
+Sasha uses mage hand and gets it to try and remove the bat from Marlade's neck, however the bat still clings on, and Marlade starts to get annoyed.
+
+Mira also rushes over to pull the bat away, but also cannot seem to free it from Marlade's neck.
+
+Marlade decides to just ignore the party and do it himself, he grabs the bat and rips it away from his neck, leaving the claws behind and rips the bat in half, killing it. He holds the flesh in his hand and inspects it. He realises it was a stirge, they enjoy drinking blood.
+
+There is a door in this room leading east, Mira listens and cannot hear anything. He opens the door, Dwarven armorsmiths and weaponsmiths stored their tools here, which still hang from hooks along the walls. 
+
+He also sees two chutes in the roof. Marlade uses his light cantrip to peer up it, and they get a faint whiff and realise the chutes probably lead up to some toilets...
+
+They head back into the room with the stirge, and then back into the room that the ghouls were defending.
+
+They listen to the door to the left, but don't hear anything.
+
+Mira opens the door and sees three tattered wool curtains, that have rotted away over the years, each infront of three neglected privies.
+
+The group check each stall one by one, at the final one, Marlade peers into the toilet and an arm pops out!
+
+It doesn't appear to be a ghoul hand, or human. Upon closer inspection - it appears to be ethereal. The group hear a voice shout out "Paper! Please! Paper!	Please!"
+
+The group are shocked, but decide to give the hand a voting slip from the election that they didn't use. The hand takes the slip, and disappears back into the toilet.
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+A moment passes and a pouch flies out of the privy and lands on the floor with a thud. The group hear the voice say "Thank youuuuu..."
+
+Inside the pouch is 10 gold pieces, and Marlade inspects it further, there is also a pendant, the pendant is in the shape of a heart, the heart is translucent and has a smaller pink heart in the centre.
+
+The group head back into the previous room and listen to the final door they have not been through - to the north. They hear the faint sound of what sounds like wind blowing over a hole.
+
+Marlade enters the room and sees dozens of meager cots lie scattered about the floor. A pair of fireplaces stand cold and dark, their rubble-choked chimneys rising 120 feet through the mountain.
+
+The group look around, Minogar peers up one of the chimneys and can see it goes up all the way outside, but there appears to be rubble on top blocking most of the light.
+
+Marlade looks up the other chimney, however this one is pitch black, presumably it is completely covered.
+
+The group head back out of this room, and go up the corridor to the north, to the west they come to another door, they enter this room.
+
+It appears to have once been an armory, the dwarves took all the weapons and armor from this area when they left. All that remains are empty stone weapon racks, wooden mannequins upon which armor once hung, and iron hooks in the walls that once bore shields.
+
+### Chapter 57
+##### Tunnels
+
+The group backtrack into the first room they entered in the fortress, and decide to now head east to another closed door, Mira listens to the door before entering but hears nothing, however he does smell the horrible stench of death coming from it.
+
+The group enter and see a large hall, the eastern half of the hall is strewn with debris. The stench of death hangs heavy here.
+
+A corridor lies to the north and a door to the south, there are tunnels in the rubble to the east.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img 
+  src='https://imgur.com/viYcvyI.png' 
+  style='position: absolute; right: 0px; bottom: 0px; width: 400px' />
+
+Minogar heads north into the corridor and comes to a small tunnel to his right, about 5 foot tall and wide. He beckons for Mira to come over and have a look.
+
+Mira enters the tunnel and is able to just walk normally, he ascends upwards as he walks and is going in a spiral fashion. He arrives in another room, one story up that appears to have collapsed at the south. The north side of this room has a door.
+
+While Mira ascends, Marlade inspects the tunnels to the east, the stench of death grows more as he explores and he finds a corpse.
+
+Mira opens the door and enters a new room, this room appears trashed  leaving behind wrecked cots, chairs, tables, and other furnishings. A blackened fireplace is set into the east wall, there is dim light coming out of it.
+
+Mira looks up the chimney and can see outside, about 20 feet above him. 
+
+There is a door to the west in this room and Mira goes to open it.
+
+Marlade has found a dead ghoul in the tunnels and pokes it with a stick, but it does not move.
+
+Marlade decides to burn the body to prevent it coming back.
+
+Sasha decides to fetch Marlade back to the group.
+
+Mira opens the door to the west, and arrives in the room he saw earlier, when Minogar and Marlade lifted him up.
+
+This large chamber extends over the outer gauntlet of the main entrance and contains many former defensive measures. Arrow slits to the north allow outside light to enter, filling the northern half of the room with sunlight or moonlight depending on the time of day or night.
+
+Thick webs are strung between the walls and pillars. 
+
+Other defenses include two fireplaces, which were used to heat cauldrons full of oil that the dwarves poured through narrow slits in the floor. Three empty cauldrons are lined up along one of these slits. 
+
+Mira decides to back track to the party and tell them what he saw.
+
+Marlade has wandered off from the group again like a toddler, and headed south in the tunnels, the group realise this and rush after him.
+
+The stench of death here has become awful as they keep heading south. Marlade can hear hissing and snarling in this tunnel, but cannot pinpoint where.
+
+The group continue south, into a new room, but before they can inspect the room, they look up as they can hear the hissing coming from above them!
+
+Ghouls and a ghast are hanging on the ceiling and drop down as the party enter the room and begin to attack!
+
+During the fight, Marlade is paralyzed by one of the ghouls and they begin to drag him up some stairs to the south away from the party!
+
+Thankfully he breaks free and they finish off the ghouls.
+
+This fighting has made a lot of noise and brought the ire of the banshee, who appears before the group, who are extremely tired by this point.
+
+An apparation appears behind the group and screams!
+
+Sasha pulls out the silver comb and speaks the name "Vyldara".
+
+"How dooo yooouuu know my name? Leave this place!!" the banshee commands.
+
+Sasha asks if this is hers.
+
+"Who gave you that?"
+
+Sasha says it was sister Gaerele, the banshee appears to calm down and approaches Sasha.
+
+It stares at the comb and takes it off Sasha. As it does so, it wails.
+
+The piercing howl pierces through the halls of Axeholm and everyone except Sasha is immediately knocked down from the force of the attack.
+
+Sasha's friends are now close to death but she decides to talk to the banshee, who ignores her and carries on screaming - staring at the comb.
+
+The other members of the party slip closer to death.
+
+Sasha carries on talking to the banshee, but realises she should probably help someone.
+
+She goes over to Minogar and casts Cure Wounds on him, Minogar heals slightly and sits up.
+
+Marlade starts to stablise on his own slightly, but Mira slips further into death.
+
+The banshee is muttering to herself that they killed her, over and over again.
+
+Minogar uses a potion on Mira, stabilising him and he sits up.
+
+Sasha goes over to Marlade and casts Cure Wounds, he comes to and sits up.
+
+The party has all survived the wail, but the banshee is still in the room - staring at the comb.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+Marlade casts Silence in the room they are in, preventing anyone - or thing - speaking.
+
+Mira cures himself a bit more, the banshee realises she has been silenced, and turns to Marlade and casts Horrifying Visage, everyone resists the image though and are not frightened.
+
+Minogar tries to attack the banshee with his magical greataxe, he slashes through the banshee, the banshee seems shocked that he managed to do damage.
+
+She lets out a scream, but no noise comes out due to the Silence spell.
+
+Sasha also tries to hit the banshee with her longsword, but the non-magical weapon appears to do very little to it.
+
+The banshee decides now to use her incorporeal movement to flee the scene through the ceiling.
+
+The group decide to return to the armory and barricade themselves in, they take a short rest.
+
+### Chapter 58
+##### Spiders
+
+The group are becoming very tired now, and night has started to set in (they can see the darkness of night through the fortress's arrow slits)
+
+They debate whether to continue or give up, Marlade says he is done and wants to leave but the others want to press on to find the helmet.
+
+They press on and head north after leaving the armory, they arrive in the room Mira was trapped in when they very first arrived at Axeholm, this area contains seven ballistas pointed at arrow slits, a winch that raises and lowers the portcullis, and a stone staircase
+
+They proceed up the staircase, and are in the room that Mira has been in before, with the cobwebs and the massive hole from when the ghouls fell through.
+
+The floor near the edge looks like it might break if someone was to stand on it.
+
+They can also see 3 old pots in the middle of the room, presumably where defenders would have boiled oil to pour on attackers below.
+
+Mira walks into the cobwebs, and scuttling and hissing is heard from above, as four giant spiders descend on the party!
+
+Some of the spiders fire webbing at Mira, and land a hit, the gnome is now restrained by the web.
+
+Marlade fires his crossbow at the spiders but pings the post they climbed down, one of the spiders tries to bite the now restrained Mira and succeeds.
+
+Minogar rages witnessing this and swings his axe at the spider, he lands a heavy blow and the spider's back cracks.
+
+Mira breaks free from the webbing. Sasha uses her longsword to attack another spider but the spider knocks the sword away.
+
+The spider that Minogar hit, fires webbing at Minogar and restrains him. Mira uses his sentinel ability to stab it, and kills it.
+
+Another spider comes up to the now restrained Minogar and tries to bite him.
+
+Marlade moves over and frees Minogar from the webbing.
+
+Another spider sees this and fires it's webbing at Minogar and restrains him once again, but his axe is freed and he swings on the spot at another spider.
+
+Marlade once again frees Minogar and the group manage to defeat the now damaged spiders.
+
+After this bout, the group are extremely tired and sit on the floor. They stare at each other and really ponder if they want to carry on...
+
 
 
