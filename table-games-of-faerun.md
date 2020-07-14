@@ -5,11 +5,17 @@
 # Table Games of Faerun
 ## Dragonchess
 Both players roll checks against each other (in private to the dm) they have to roll one of each of the following - but don't have to roll the same as each other.
+
 Deception
+
 Insight
+
 Investigation
+
 Perception
+
 Persuasion
+
 If the player is proficient with the gaming set and the roll type, they can add their proficiency bonus to the rolls a second time
 The player who wins 3/5 of these checks wins the game.
  
@@ -18,6 +24,7 @@ Players can bet if they want to make it interesting, they would put a stake down
  
 ## Three-Dragon Ante
 2 players bet against the "house", the house and the players both roll a d20. The house rolls first, but does not reveal the result yet.
+
 The objective for the players is for them to have 1 player roll higher and 1 player roll lower than the house. They can roll any modifier they want that is on their character sheet, to allow them some control over their roll, before the house reveals their roll.
  
 If a player and the house have the same roll, the house wins.
@@ -27,6 +34,7 @@ Players can bet if they want to make it interesting, they put a stake down to pl
  
 ## Devil's Dice
 Each player can roll any amount of d6's they wish, the one with the highest total wins. However any 1s mean that player loses.
+
 If both players roll a 1, the pot either goes to the house (if playing in a gambling house or similar) or gets added to the pot of the next round.
  
 ##### Betting: 
