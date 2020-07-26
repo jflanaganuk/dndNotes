@@ -5570,5 +5570,246 @@ Marlade once again frees Minogar and the group manage to defeat the now damaged 
 
 After this bout, the group are extremely tired and sit on the floor. They stare at each other and really ponder if they want to carry on...
 
+## Session 15 - 09/07/2020
 
+### Chapter 59
+##### Treasures
+
+The group decide to investigate around the room, Mira looks out the arrow slits to the north and can see that night has settled in. In the distance, he can see the dim lights of Phandalin. He looks to the east, and expects to see light coming from Gnomengarde, but there is none. There appears to be grey clouds over it instead.
+
+To the south, the group look and can see a room on the opposite side of the main room in the center of Axeholm, they can see a blue shimmering light moving back and forth within it.
+
+Minogar listens to a door to the west of this room, he can hear the faint sounds of outside, owls hooting and wind slowly blowing.
+
+He opens the door slowly and sees a room with a fireplace inside, above the fireplace hanging on a hook is a steel shield, bearing some kind of symbol.
+
+He inspects the shield, the symbol on it is a dwarven gaunlet, clutching a handaxe. Marlade realises it is the ancient symbol of Axeholm, so this shield was constructed here.
+
+They decide to leave the shield for now, and head downstairs in the fortress, they come to a room that they walked past before, near the tunnels. Inside, they find nothing but dust, and decide to shut the door and leave it. They realise that perhaps they could have used this room for a short rest before.
+
+They continue back through the tunnels once again and arrive in the room where the ghouls jumped them and the banshee arrived. They decide to look around it properly this time,
+
+This chamber was once a shrine, as evidenced by wall carvings that depict dwarves carrying censers and observing religious rites. However, the eastern section of the room has collapsed, filling the area with rubble. Gnawed bones scattered among the debris are the remains of a number of dwarves.
+
+Minogar inspects the rubble, he finds a potion of superior healing, and a pendant. Upon inspection of the pendant, it bears the symbol of Abbathor. Marlade decides to take the pendant.
+
+Marlade recognises the carvings on the wall to depict a religious rite to serving Abbathor.
+
+The group head up the stairs to where they saw the banshee flee to last time, Minogar leads the way and can hear the faint sounds of what appear to be a woman crying.
+
+He decides to get Sasha to go up instead, as she has the comb.
+
+Mira backs up Sasha, but keeps his distance.
+
+The crying gets louder as they ascend the stairs.
+
+At the top of the stairs, they come to a corridor, with a door opposite. Sasha listens and can hear ghouls on the other side, scratching and scraping against the door.
+
+They instead head north up the corridor, to the left around a corner, Sasha can see the banshee sat crying leaning against a door. They can see the luminous, wispy form of the female elf before them, its face wreathed in a tangle of gossamer hair, its body clad in spectral rags that flutter around it.
+
+Sasha can hear her muttering to herself that she will never see her family again and asking why did they kill me?
+
+Sasha goes back and gets the rest of the group to come up - quietly.
+
+She explains that she is going to try and talk to the banshee, and that if things go south, come round and back her up.
+
+The high elf approaches the banshee, and explains that she means no harm.
+
+The banshees words come out with a start, "You again?! You have brought enough pain for one day!"
+
+The banshee holds up the comb and asks where she got this.
+
+Sasha explains that she got it from Sister Gaerele in Phandalin.
+
+"Gaerele," the banshee's face drops, "Sweet, sweet Gaerele... I will never lay eyes on her again, she will never know what happened to me... Centuries ago, the dwarves, they killed me. I was their prisoner. She is family you see, return the comb to her, let her know what happened."
+
+The banshee apologises for earlier, and Sasha says it is ok, and takes the comb back.
+
+Before the banshee goes, Sasha decides to ask the Banshee a question, instead of asking what Sister Garaele wanted her to ask - which was "What is going on under Neverwinter" - Sasha instead asks about the helmet.
+
+The banshee explains that he has never come across it, she explains that she can sense a magical artifact nearby... the banshee fades away after this exchange into the great beyond.
+
+The banging where the ghouls were stops.
+
+### Chapter 60
+##### Riddle
+
+Marlade casts Detect Evil and Good, to try and see what happened to the ghouls, he does not detect anything.
+
+Mira - with this information - decides to open the door, he sees four dwarves that look like they were once ghouls, but whatever magic was keeping them in undeath, appears to have worn off.
+
+Further in the room in the center is what was once a bath, but inside it is full of gnawed bones.
+
+The group exit this room, and move across to the room that the banshee was leaning against and head inside. This bedroom was set aside for honored guests, but its furnishings have decayed with age and are covered with dust and cobwebs.
+
+To the south is a fireplace, and Minogar reaches inside, he can see some strange markings on the wall of the chimney, but cannot make it out.
+
+Marlade comes over and has a look, but also cannot make out what they are saying.
+
+They head further west into a final room, this one appears similar to the one before, but slightly less furnished.
+
+Mira inspects the fireplace in this room, but as he inspects it, six red bats fly out and attack the party!
+
+The group flail around as the bats attack them but they manage to fend them all off and defeat them all.
+
+Mira then peers at the fireplace once again and can see a message on the wall. There is a dwarven contraption below it with what appears to be each dwarven letter on it.
+
+Sasha looks at the message and realises it is dwarvish, she reads it aloud.
+
+"It is greater than all the gods,
+and more evil than the devil,
+the poor have it,
+the rich need it,
+if you eat it, you will die..."
+
+Sasha ponders the message and keys in the dwarven word for "Nothing."
+
+The group hears a large bolt go behind the fireplace, and it moves forward slightly.
+
+Sasha pushes the fireplace and it reveals a secret vault. Against the south wall of this otherwise empty room rests a 80-pound iron chest with clawed feet. Its built-in lock bears a tiny circular indentation instead of a traditional keyhole. Close inspection of the indentation reveals a tiny symbol of a handaxe clutched in a gauntlet. However, this symbol appears to be a reverse of the amulet's symbol.
+
+The amulet seems to big to be able to fit though.
+
+Mira believes the key might be in the other room, he inspects the fireplace and sees the message that Minogar and Marlade saw previously. Sasha looks at the message and realises it is dwarvish again, and it says "This is the not the one you seek."
+
+They head back to the chest, and Sasha decides to cast Knock on the chest. The chest starts to spring open as the lock is released. Marlade opens the chest.
+
+Inside, he finds a dark blue helmet, the group cheer! It has fearsome glowing red eyes and two gauntlets either side of it. He finds a Dread Helm and Gauntlets of Ogre Power.
+
+Sasha is nominated to hold the helmet, she peers inside the helemt and can see etched inside it, the name "Lady Tanamere Alagondar".
+
+The group continue to search around the dungeon after this, they head back downstairs and find an altar, behind the altar they see what appears to have been a dwarven king, turned into a ghoul like the others but is now just a corpse. They inspect the body and find a ring on his hand. The ring bears the mark of the dwarven gaunlet holding a handaxe, the group realise that this would have been the key to open the locked chest.
+
+The group decide to head back out of Axeholm at this point, they are feeling extremely tired and decide to set up camp away from the fortress in the darkness. Sasha takes watch.
+
+### Chapter 61
+##### Sasha
+
+Sasha is taking watch as the others sleep, she looks out towards Gnomengarde in the distance, and notices the dark clouds over it and ponders. As the night goes on, the clouds start to head towards the group.
+
+While outside, it is not unusual for the night to be cold at this time, but Sasha realises that she is colder than usual, and is starting to shiver. Fine rain starts to fall on the camp site.
+
+Sasha notices that the fine rain is actually snow, which gets thicker and thicker. She can hear in the distance the sound of something large, flapping.
+
+She heads over to Marlade's tent and wakes him up, he notices that it is cold, and Sasha starts to tell him what is happening. Marlade tells her to wake the rest and he will start packing things up.
+
+As they are talking they hear the flapping begin to get faster, and can hear the beast roar. They recognise it as the white dragon from earlier and they realise they have been spotted.
+
+They quickly wake the rest of the group and as fast as they can, explain that the dragon is coming.
+
+The group stamp out the camp fire in the centre, and start to try and get out of the open.
+
+The flapping gets louder, and with a massive thud! The dragon lands in the center of the camp and roars.
+
+They panic at the sight of the beast and begin to flee, Sasha runs off first to the north, followed by Minogar and Marlade who also flee.
+
+The dragon flaps its wings and gives chase to those that ran away from it, it is closest to Sasha and quickly catches up to her knocking her over, it bites and claws at her and knocks her unconscious. It attacks with it's second claw and severely injures Sasha, who is now close to death.
+
+Mira sees this and tries to distract the dragon, but it ignores him. 
+
+The dragon bites at Sasha again, and carries off her corpse to the east, holding Sasha in it's feet.
+
+[[[[[[[[[[[[[[[SASHAS AFTERLIFE]]]]]]]]]]]]]]]
+
+Sasha wakes up, she remembers the dragon attacking her and biting her, but at the moment she is lying on a beach in the warmth. She gets up and looks around. She has a sense of peace and tranquility about her, before her she sees a pirate ship with a crew on it, beckoning her to join them, to sail the seas and go on an adventure.
+
+[[[[[[[[[[[[[[[SASHAS AFTERLIFE]]]]]]]]]]]]]]]
+
+The group lament over Sasha's death, and realise the helmet is gone.
+
+As the dragon flies off, the snow does stop.
+
+The group walk over to where Sasha was attacked, they do not see any loot left behind.
+
+Mira makes a cross where Sasha fell, and Minogar curses Lady Alagondar, saying he will kill her when he next sees her.
+
+Marlade hears a voice in his head, laughing away. "Looks like it's going well, haha!"
+
+Iarno mentions that his offer still stands, he can bring the dead back to life afterall.
+
+The group don't believe that they can even bring her back, as her corpse has been taken away.
+
+They decide to stop talking to the mage, and attempt their rest again. This time, Mira takes watch.
+
+The night passes without any more incidents and they head towards Phandalin, sad and depressed.
+
+### Chapter 62
+##### Maryia
+
+The remaining group decide to help Mira get her rest, they head over to the Sleeping Giant. Mira asks Grifta for a room, she gives her a key and she heads up to bed. The other two stay downstairs. They continue to talk to Grifta, who asks what is wrong with the group, as they appear very tired.
+
+Minogar explains that Sasha was defeated last night by a white dragon. Grifta explains that she has been hearing rumours of that dragon, and that that is why the town is building up it's defences.
+
+While they are talking to dwarf, the doors to the inn open and a person enters the building. The person - a female elf - goes up to Grifta and asks if she has seen an elven bard recently.
+
+The other two perk up and turn to her. The elf asks them if they know of a bard named Sasha.
+
+She explains that she is looking for her sister, who left home on an adventure.
+
+Minogar asks if she happened to play a lute per chance?
+
+The elf says yes! That is her!
+
+Minogar sighs and explains that she used to adventure with them, until recently...
+
+The elf introduces herself as Maryia and that she is Sasha's sister.
+
+Minogar breaks the bad news, and explains that she was eaten by a white dragon.
+
+Maryia sighs and explains that she feared this of her sister.
+
+Minogar says that she died with a cool helmet and comb at least!
+
+The group exchange pleasentries and Minogar and Marlade bring Maryia up to speed with the adventure so far.
+
+Maryia decides to join the group - if they will have her - and avenge Sasha's death.
+
+Minogar sets a challenge for her. If she can engrave Sasha's name in the Stonehill Inn, where she used to play, she can join the group.
+
+They sit around a table in the inn, Mira comes down from her rest and sits next to Maryia, but then realises it is not Sasha, and introduces himself. Maryia realises that the gnome has a weird accent, almost elf like.
+
+The group decide to head over to the Stonehill inn, as they approach however, they notice that guards are once against posted outside. Maryia goes up to the guards first and says hello, they greet her and let her inside.
+
+Minogar and Mira head over afterwards.
+
+"Hmm, a goliath and a gnome, werent we supposed to be looking out for these?" one guard asks another, the other mutters back, "I think there was supposed to be four of them though."
+
+The guards turn to the pair and one asks, "What can I do for you guys?"
+
+The pair explain that they just want a drink.
+
+"Have you ever been here before?"
+
+The pair shake their heads.
+
+"So if I go inside and ask, they won't know who you are?"
+
+The pair shake their heads.
+
+One guard enters the building while the other stays at his post.
+
+Maryia is walking towards the bar, as a guard hurries past her and starts talking to the landlady. Maryia goes up to the guard and asks him if there is any trouble.
+
+"Erm, no. Nothing at all, have a nice day." As the guard walks back outside.
+
+Maryia asks the landlady for a drink.
+
+Meanwhile, the guard comes back outside and tells Minogar and Mira that they can't come in.
+
+The pair ask why, and the guard says that one of their accomplises really upset the landlady the other day, casting spells at them and complaining.
+
+They protest, but ultimately decide to not attempt anything. They sneak round the side and peer through the window at Maryia who is at the bar.
+
+Maryia buys a beer from Trilena Stonehill, the landlady.
+
+Marlade has snuck around the back of the inn during all this, and is peering into the kitchen. No one is in the kitchen currently.
+
+He casts Create Water inside the kitchen, and causes a localised rain cloud inside.
+
+Maryia is conversing with Trilena, who is telling her about Lady's revenge. And comments on how similar Maryia looks to Sasha.
+
+Maryia notices water coming out of the kitchen, but the landlady has not noticed yet...
+
+## Session 16 - 16/07/2020
+## Session 17 - 21/07/2020
 
