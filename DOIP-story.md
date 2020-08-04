@@ -5605,6 +5605,14 @@ The crying gets louder as they ascend the stairs.
 
 At the top of the stairs, they come to a corridor, with a door opposite. Sasha listens and can hear ghouls on the other side, scratching and scraping against the door.
 
+\page
+
+<div class='pageNumber auto'></div>
+
+<img 
+  src='https://imgur.com/yXwsYeB.png' 
+  style='position: absolute; right: 80px; bottom: -110px; transform: scaleX(-1); width: 300px' />
+  
 They instead head north up the corridor, to the left around a corner, Sasha can see the banshee sat crying leaning against a door. They can see the luminous, wispy form of the female elf before them, its face wreathed in a tangle of gossamer hair, its body clad in spectral rags that flutter around it.
 
 Sasha can hear her muttering to herself that she will never see her family again and asking why did they kill me?
@@ -5682,6 +5690,10 @@ The group continue to search around the dungeon after this, they head back downs
 
 The group decide to head back out of Axeholm at this point, they are feeling extremely tired and decide to set up camp away from the fortress in the darkness. Sasha takes watch.
 
+\page
+
+<div class='pageNumber auto'></div>
+
 ### Chapter 61
 ##### Sasha
 
@@ -5709,11 +5721,19 @@ Mira sees this and tries to distract the dragon, but it ignores him.
 
 The dragon bites at Sasha again, and carries off her corpse to the east, holding Sasha in it's feet.
 
-[[[[[[[[[[[[[[[SASHAS AFTERLIFE]]]]]]]]]]]]]]]
-
-Sasha wakes up, she remembers the dragon attacking her and biting her, but at the moment she is lying on a beach in the warmth. She gets up and looks around. She has a sense of peace and tranquility about her, before her she sees a pirate ship with a crew on it, beckoning her to join them, to sail the seas and go on an adventure.
-
-[[[[[[[[[[[[[[[SASHAS AFTERLIFE]]]]]]]]]]]]]]]
+<div class='descriptive'>
+Sasha wakes up, she has a weird feeling.
+  
+ She remembers the dragon attacking her and biting her.
+  
+  But at the moment she is lying on a beach in the warmth. She gets up and looks around. A sense of peace and tranquility fills her heart.
+  
+  Before her she sees a pirate ship. It is huge and looks extravagant.
+  
+  She notices a crew on it, waving their swords at her from the deck, beckoning her to join them, to sail the seas and go on an adventure.
+  
+  They throw a rope ladder down to her, she ascends the ladder...
+</div>
 
 The group lament over Sasha's death, and realise the helmet is gone.
 
@@ -5774,6 +5794,17 @@ Minogar and Mira head over afterwards.
 
 "Hmm, a goliath and a gnome, werent we supposed to be looking out for these?" one guard asks another, the other mutters back, "I think there was supposed to be four of them though."
 
+\page
+
+<div class='pageNumber auto'></div>
+
+<img 
+  src='https://imgur.com/obHkCfG.png' 
+  style='position: absolute; left: 0px; bottom: 0px; ' />
+  <img 
+  src='https://imgur.com/obHkCfG.png' 
+  style='position: absolute; left: 200px; bottom: 0px; transform: scaleX(-1) ' />
+  
 The guards turn to the pair and one asks, "What can I do for you guys?"
 
 The pair explain that they just want a drink.
@@ -5810,6 +5841,1361 @@ Maryia is conversing with Trilena, who is telling her about Lady's revenge. And 
 
 Maryia notices water coming out of the kitchen, but the landlady has not noticed yet...
 
+```
+```
+
 ## Session 16 - 16/07/2020
+### Chapter 63
+##### Marlade
+
+Mira heads around the back of the inn, expecting to see Marlade. But he notices something odd about the window infront of him. The window is a window into the kitchen of the inn. There is rain falling inside that is filling up the kitchen with water. The window pane itself has an imprint of what appears to Marlade's face with a bit of blood spattered on it. There is an amulet on the floor with the mark of Abbathor on it.
+
+Mira looks at the amulet and recognises it as Marlade's. He heads back around to Minogar.
+
+Maryia takes her beer and says to everyone in the inn, where is this water coming from?
+
+The waitress notices the kitchen is flooding and her and the landlady go and sort it out.
+
+Maryia is now the only person in the inn, besides an elderly lady minding her own business. She heads over to the corner and carves Sasha's name into the table in view of Minogar - who is peering through the window, giving a thumbs up.
+
+Maryia quickly exits the inn.
+
+Mira meets back up with the group, and explains what he found. Minogar confirms to Mira that Maryia is now "in" the group.
+
+Mira shows them Marlade's amulet.
+
+Minogar bites the amulet, he realises it is real and believes that Marlade has been taken.
+
+They head back round to the window where Mira found the amulet.
+
+Inside they see Trilena and the waitress frantically trying to stop the rain, but they haven't noticed them outside.
+
+The rest of the group see the blood and face marking on the window that Mira was talking about.
+
+Mira checks around for any tracks, he sees that the bottom of someone's shoes has been dragged away, towards the south of the inn.
+
+They follow the tracks to the centre of the town, where the tracks appear to stop.
+
+Guards are standing watch in the town centre, and Mira goes up to one of them.
+
+"Hello Gnome, something you want to ask?"
+
+The gnome explains they are looking for their friend, who is a cleric.
+
+The guard explains that he saw who it was, and that they should talk to the townmaster, as their friend is in trouble - it seems.
+
+The group head over to the Townmaster's Hall. Mira knocks on the door, but no response.
+
+Minogar slams into the door, "Just a second," they hear faintly. It sounded like Toblen.
+
+Sure enough, Toblen Stonehill opens the door, "Ah, I wondered when you guys were going to show up, please come in!"
+
+Toblen leads them to a table for them to have a chat, and he sits at the head of the table.
+
+Minogar decides to stand, as the rest take a seat.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+"Now listen, I know you have come for Marlade. I had to take matters into my own hands a little bit earlier. I caught him, trying to vandalise my inn. We don't tolerate that here. I intend to return the cleric, and confiscated his stuff, to teach him a lesson, i do intend to return him to you."
+
+Toblen laughs. "Incidentally, before you arrived, I was speaking to some guests in the back, but I will see to them soon. Im all yours for now!"
+
+Mira asks why did they find blood?
+
+Toblen looks concerned, "Ah, yes... I was with one of my friends in the back when we found Marlade, he took offense to what he was doing, and kind of smashed his head into the wall. We tried to get Marlade back here as quick as we could, so as not to panic the town. But yeah, Marlade is fine. If you ever meet my friend, you will understand why. I think he is a red blooded barbarian, much like yourself, Minogar."
+
+Mira asks when they are likely to get him back.
+
+"I can return him to you whenever, I just wanted to talk to you without him for a bit."
+
+Mira nods.
+
+"Ok, did you manage to find Harbin yet? I know the townsfolk are desperate for him to meet justice."
+
+Mira explains that they believe the dragon is higher priority at the moment.
+
+Toblen explains that the town is building up it's defences incase the dragon attacks, and he is currently negotiating with his guests for more support.
+
+Toblen asks the group if they know anything at all about the dragon. Minogar explains that they met the dragon south of Phandalin about a month ago - he does not want to reveal that they met it recently.
+
+Minogar also explains that snow usually signals it is about to arrive.
+
+"Ah. That is good information to know."
+
+The topic of Marlade comes up, and Toblen asks the group to remind him which god he worships.
+
+"Ah, Savras? Did you know there is an abandoned shrine to that god in the sword mountains somewhere?"
+
+Toblen gives a key to Minogar, and gestures to a door to his right, "He is in there."
+
+Minogar walks over to a different door, and opens it towards the back.
+
+As Minogar enters, he hears a familar voice exclaim,
+
+"Minogar! Fancy seeing you here!"
+
+It is the red dragonborn, Urzal, sat with the Kingsguard - Justice Keenseeker.
+
+Minogar calls him a red bastard and laughs.
+
+Urzal explains that they have been talking to Toblen, and asks if Mira is with him.
+
+Minogar explains that he is, and is currently sat with the townmaster.
+
+"Have you managed to sort out his little problem yet?" Urzal asks, "Heh, get it?" as he snorts.
+
+Minogar says they are still working on it.
+
+"Hey, Justice. Do you know anything about curing an elf that's become a gnome?" Urzal says to the knight.
+
+"Pardon?" Justice asks politely.
+
+"Yeah, when I was at the Hall of Justice the other day, one of my previous adventuring buddies came in, and he had been turned into a gnome!!"
+
+"Hmm, no, I can't say I do." Justice responds. He turns to Minogar, "Can I ask, Goliath. How did that even come about?"
+
+Minogar explains that there isnt just one dragon, this one was a green dragon, that didn't appreciate the conversation they had with it.
+
+"Ah yes," Justice begins. "We know of the green dragon to the east of Neverwinter. Funnily enough, that is why we have been sent down here. Lord Dagult has been asked by Toblen for some of his guards, but Lord Dagult isn't keen on giving them out currently."
+
+Minogar asks how many guards Phandalin has at the moment.
+
+"Only a handful, its not gonna be much if the dragon does attack," Justice explains.
+
+Urzal starts, "I believe the approach we should be taking is trying to find the dragon's lair. Attack it at it's source, then it has no where to run."
+
+Minogar asks if they know where it's lair is.
+
+The pair explain that whenever they see it, it is usually flying around or towards Icespire Peak or the sword mountains.
+
+Minogar invites them both back into the other room to speak to the rest of the group.
+
+Mira greets Urzal.
+
+"Hi Mira! I see you still have that little 'affliction'".
+
+Mira says he is getting used to it, and asks how he has been.
+
+"Ah good, Mira. Any interesting tales?"
+
+Mira says they do have tales, but maybe not right now.
+
+Justice and Urzal scan around the room, and notice Maryia.
+
+"I don't believe you were the bard from before were you?" Justice asks.
+
+Urzal says, "Heh, let me guess. She died and has been brought back, similar to you, Mira?"
+
+Urzal laughs, but notices the group looking sad, and stops.
+
+Maryia explains that she is Sasha's sister.
+
+Urzal begins to ask where the other bard is, but realises what has happened.
+
+"Ah, ok..." he says.
+
+Minogar decides now is the time to open the door to where Marlade is kept.
+
+### Chapter 64
+##### Fracas
+
+Inside the room, Minogar sees cobwebs and old crates, he hears muffled screams coming from the corner.
+
+Sat there with a gag around his mouth and his hand's tied is Marlade. Fiercing trying to shout at Minogar through the gag.
+
+Minogar jokes that Marlade is looking well.
+
+Marlade carries on shouting and Minogar goes over and removes the gag.
+
+Minogar asks Marlade if he knows what happened to him, Marlade responds that he remembers a red dragonborn going into a rage and smashing his head into the window.
+
+He also remembers other people being present, and believes he heared them telling the dragonborn not to do what he did.
+
+Minogar lifts Marlade up and unties him. Marlade is looking very annoyed.
+
+Meanwhile Maryia goes up to Toblen and asks if it ok to take back Marlade's stuff.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img 
+  src='https://imgur.com/BSGPtxX.png' 
+  style='position:absolute; top:0px; right:-20px; ' />
+
+"I would like to talk to him first to be honest," Toblen replies. "I think Urzal would like to as well."
+
+Urzal turns and agrees, "Yeah... I should really have a word." Urzal looks racked with guilt.
+
+Marlade enters the room at this point and Urzal turns to him, "Marlade, I kind of lost it back there, that was not the right thing to do, would you accept my apolgies?"
+
+A strange look comes over Marlade and he just shrugs and says no.
+
+Urzal smirks, "Fair enough."
+
+Marlade warns him to sleep with an eye open from now on.
+
+Minogar and Urzal just laugh.
+
+Toblen sees what is happening and stands between Urzal and Marlade, trying to defuse the tention.
+
+"Marlade, you aren't really convincing me to give you your stuff back," He says.
+
+Marlade warns him that he will burn down the Stonehill Inn if he keeps his stuff.
+
+Upon hearing this, Urzal and Justice draw their weapons.
+
+Urzal looks over at Marlade, "Are you sure you want to do this, Cleric?"
+
+Marlade begins to cast a guiding bolt on Toblen. Toblen sees it coming and quickly jumps out the way.
+
+Toblen then draws a sword from his side and warns Marlade not to do that again, Urzal and Justice stands behind him to back him up.
+
+Toblen implores Marlade to stand down, and that now is the time for unity amongst themselves. He reminds them of the threats facing Phandalin.
+
+Marlade stands defiant and just says no.
+
+Minogar tries to grab Marlade, with the intent of just getting him outside. He grapples Marlade and starts to drag him towards the door of the hall.
+
+During the commotion, Maryia tries to grab a chest under the table, that contains Marlade's stuff. She tries to drag it away from the rest of the action.
+
+Urzal rages and assists Minogar, he tries to hold down Marlade though. Justice also rushes over to apprehend Marlade.
+
+Marlade uses this opportunity to cast Suggestion on Minogar in an attempt to mind control him. Minogar manages to resist the spell.
+
+Toblen stands up at his desk and shouts over to Maryia, asking her to return the chest. Maryia carries on dragging the chest. He rushes over and tries to pull the chest the other way.
+
+Minogar says to Urzal and Justice to get him out of here, and drags Marlade up to the door itself.
+
+Maryia is still trying to drag the chest, now against Toblen. She tells him to just give up and carries on dragging it away.
+
+Justice rushes over to help Toblen, and pulls on the chest as well. "Stop dragging, or we will attack" Justice says to the elf as he drags it back under the table.
+
+Marlade once again casts Suggestion on Minogar, however this time, Minogar cannot resist. He tells Minogar to kill Toblen.
+
+Hearing this spell, Mira decides to stop being neutral and join in.
+
+Toblen carries on dragging the chest and puts it back in it's original place.
+
+Mira intends to inflict damage on Minogar, as he does not want Minogar to attack Toblen - especially against his own will.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+He attacks with his shortswords, but Minogar is able to deflect and absorb the attacks.
+
+Minogar begins to rush over to Toblen, Mira tries to attack him as he moves but misses.
+
+The barbarian swings his axe at a surprised Toblen, but Toblen lets go of the chest and moves to the side, as Minogar's axe smashes into the floor.
+
+Minogar lifts his axe and swings once again in a frenzy, Toblen leaps back and moves out the away.
+
+Maryia uses Sasha's hideous laughter on Urzal, the dragonborn resists the spell.
+
+Misty now runs up to Minogar and tries to bite him, but Minogar manages to move out the panther's path.
+
+Urzal faces Marlade and punches him in the face. 
+
+Marlade tries to use Command on Urzal, Urzal resists. He then casts Sanctuary on himself.
+
+Toblen turns to Minogar and pleads with him not to fight.
+
+Mira moves towards Minogar, he tries to attack him once again, but Minogar is able to just absorb the blow.
+
+Minogar tries to attack Toblen once again - still under the effect of Suggestion.
+
+Toblen once again manages to dodge Minogar's swings.
+
+Maryia is confused at the whole situation and casts Vicious Mockery on Minogar. Minogar takes damage, and seems to come to a realisation.
+
+Urzal carries on hitting Marlade with his fists.
+
+Justice moves over to Marlade and also punches Marlade.
+
+Marlade tries to cast Suggestion on Minogar again from a distance. But Minogar resists.
+
+Toblen takes out his sword and tries to hit Minogar, thinking he is still going to be attacked.
+
+He slashes into Minogar with his sword.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img 
+  src='https://imgur.com/skUwsaG.png' 
+  style='position:absolute; bottom:0px; right: 0px; ' />
+
+Mira tries to explain the situation quickly to Minogar. Minogar, still reeling from the hit, looks back to Toblen and thinks he is the enemy. He swings at Toblen with his axe.
+
+Toblen is not able to dodge, and takes two hard strikes from the barbarian. That cuts a massive X into his chest.
+
+Toblen slumps back on the table, barely clinging onto life. As Minogar asks why he attacked him?
+
+Maryia decides to nope out of there and flees the building.
+
+Urzal stops his rage, rushes over to Toblen and uses lay on hands on him. He tells Minogar to stop.
+
+Justice stays with Marlade, and realising things are going a bit south, decides that hitting Marlade is not going to be enough. He draws both of his shortswords, and as they are drawn the group see them both gleam slightly.
+
+He tries to attack Marlade with both of his swords, but Marlade's Sanctuary blocks the attacks.
+
+Marlade casts Toll the Dead on Toblen, the bell appears next to Toblen and takes a lot of necrotic damage.
+
+Toblen decides to disengage and begins to flee this melee, realising he is unlikely to survive.
+
+Mira also disengages and tries to flee, following Maryia.
+
+Minogar asks Urzal why Toblen was attacking him, and moves over to Marlade.
+
+Maryia waves to Mira and says they should just leave them too it.
+
+Misty follows Mira out of the building.
+
+Urzal moves back to Marlade and rages once again. He attempts to attack Marlade with Carn.
+
+But the sanctuary blocks the attack.
+
+Justice also tries to attack again with his shortswords, but also cannot get past the sanctuary spell.
+
+Marlade casts Command on Justice and tells him to grovel.
+
+Minogar tries to get everyone to stop fighting.
+
+Justice starts to nod in agreement, but Urzal is still in rage and isn't listening.
+
+Urzal tries to attack Marlade again, but is bested by Sanctuary.
+
+Justice then weirdly drops his weapons and starts to grovel on the floor.
+
+Marlade - now not being held down by anyone - moves over to his stuff. He looks at the locked chest and casts guiding bolt on the padlock.
+
+The lock smashes open and Marlade can see all his belongings inside, he begins to take his stuff out. He takes his shield and staff first.
+
+Toblen tries to attack with his heavy crossbow at Marlade, it passes the sanctuary and hits Marlade in the chest.
+
+Minogar decides to stop attacking anyone, and sits at the table with his arms folded.
+
+Urzal tries to cast Channel Divinity: Vow of Enmity on Marlade, he then takes Carn and tries to attack the cleric. Visibly annoyed, Urzal's weapon once again bounces off the sanctuary spell.
+
+Justice follows up, he takes his Shortswords and tries to swing them both at Marlade. He breaks through the spell and slices Marlade with one of his weapons. The spell wears off and he swings his second shortsword at Marlade. He knocks Marlade unconscious.
+
+Seeing this, Minogar goes to the door and beckons the others, saying it is now safe to come inside. Everyone puts their weapons away and circles around the now unconscious Marlade.
+
+Urzal is still visibily annoyed and is arguing with Justice that they should take him to face trial infront of Lord Dagult. Justice does agree but does not want to break the party up, he believes they would be of more use kept together.
+
+Toblen walks over, holding his damaged arm. He sides with Justice and says the town needs the aide of this party. He turns to the group and implores them to try and convince Marlade to stand down and help, if they were to wake him up.
+
+Mira says it is probably best if they take him away now - while he is unconscious - and try to sort this out amongst themselves.
+
+Toblen accepts this, but Urzal and Justice say that they will stay nearby, just incase.
+
+Minogar explains that they should also take his stuff, just incase the dragon does attack. Urzal agrees and explains that he will be carrying Marlade's stuff. The group allow this.
+
+The group gather round and carry Marlade over to the Sleeping Giant Inn.
+
+### Chapter 65
+##### Intervention
+
+The group arrive at the inn, Mira can hear commotion coming from within.
+
+Minogar approaches first and opens the door, inside, he sees multiple bandit looking individuals running amock inside. One of the them is playing away on the piano while others are fighting on the tables. Two bandits are leaning over the bar shouting at something hiding behind it. Minogar presumes that it is Grifta the dwarven owner.
+
+Minogar turns back to the party and signals that there is trouble, the group come over to Minogar and he tells Urzal that there are bandits inside.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+"Do you get much trouble with bandits in this town?" Urzal asks
+
+Minogar responds that this is actually the first time, and Urzal asks if they have been to this inn before, to which Minogar says they have, many times.
+
+Urzal suggests to just move to another location, but the group says they must help the inn's owner. Realising that the group have connections with this inn, Urzal agrees and nods to Justice.
+
+Minogar walks in, with Urzal and Justice flanking him. The bandits all stop and turn to the group, they seem very initimated by the goliath and dragonborn that have just strolled in.
+
+Minogar asks what is going on here?
+
+One of the bandits at the bar turns around, he is dressed slightly differently to the rest of the bandits, who all turn to him, suggesting he is the leader.
+
+He walks over to the party, holds his hands out to either side and says with a smile, "We're jsut enjoying the festivities of Phandalin, whats the problem?"
+
+Minogar says not in his inn.
+
+"In your inn?!" the bandit asks, "The dwarf back there says it's hers, are you real owners?"
+
+Minogar ignores the question and asks where she is.
+
+The bandit's mouth drops from a smile to a more serious expression and just says she is behind the bar.
+
+Minogar says he wants to see her, behind the bar a small hand pops up and he hears Grifta make a whimpering noise.
+
+Minogar asks if she is ok? "NO!" she responds. Another bandit infront of the bar turns with a smirk and says she is just playing.
+
+Minogar and Urzal both try to intimidate the bandits inside the inn, the leader of which sizes up his potential opposition.
+
+He holds his hands out in front of him and tries to de-escalate the situation, believing combat would end poorly for him.
+
+"Come on lads, lets find a better inn."
+
+As the bandits begrudgingly trudge out of the door, Minogar grabs the leader by the collar and warns him if he sees him again, him and his party of bandits will all be dead.
+
+The group enter the inn, and place Marlade on a table. Minogar jokingly says welcome to P.H.A.T. to Maryia, as though this is an everyday occurence.
+
+Minogar goes up to Grifta, still hiding, and checks she is ok. The dwarf explains that this happens a lot and she just hides. Minogar is surprised to learn there are multiple gangs that always try to take control of parts of Phandalin.
+
+He assures her that they are watching over the inn.
+
+Urzal and Justice suggest that they should have an "intervention" with Marlade when they wake him up.
+
+Urzal asks the group what the plan is before he wakes up.
+
+Minogar explains that Marlade has always done things his way, sometimes he can be reasoned, sometimes not. But lately it feels like he is mostly not.
+
+Urzal and Justice explain that there are multiple threats mustering around the Sword Coast and that Phandalin needs to be in a position to defend itself, something that the Phandalin Hurrican Action Team could help a lot with.
+
+Minogar taps Marlade on his shoulder and tries to wake him up.
+
+Marlade wakes up and sees the ceiling of the Sleeping Giant Inn, with everyone sat around him.
+
+Minogar explains where they are.
+
+Marlade says he will remember this, and chastises the party.
+
+Justice mentions to the group that staying in Toblen's good books would be a good idea, and that he happens to know that Toblen has big plans for the group.
+
+Marlade interupts and says that this special townmaster is also the innkeeper who barred them from his place.
+
+Justice smirks, and explains that Toblen actually told him about that.
+
+"As I understand it, he barred the group because of YOU cleric. I mean technically, we should arrest you for what you did right now, as using magic on civilians is against the law."
+
+Marlade says they should arrest Toblen for running a dubious restaurant, as he feels his money was stolen in exchange for poor food service.
+
+Marlade is quite persuasive and Justice ponders, "Ah, I didn't realise you had such a history with him. I mean, I don't condone the violence but-"
+
+Marlade interupts saying that Justice shouldn't have been violent to him earlier when he smashed him into the window.
+
+Justice sighs, "That was Urzal... But still, he shouldn't have done it. I believe he did try to apologise for it. And yet, you were casting spells again, so we arrested you. Well within the law."
+
+Mira explains that he has known Urzal for ages, and is well known to be a bit short with his temper.
+
+Marlade still is not convinced by this, and remains defiant - he believes everyone here is against him now.
+
+Justice gives up and says "I'll leave it to you guys."
+
+Marlade says why should he even stay with this group at this point.
+
+Maryia puts her hand on his shoulder and explains that this is all new to her, she has lost her sister recently, and wishes to avenge her. She asks if Marlade would still want that.
+
+Marlade calms down a bit and agrees.
+
+Realising that Marlade is now no longer threatening, Urzal walks up to him and places his scaly hand on his chest.
+
+Urzal's palm glows yellow as he casts cure wounds on Marlade, allowing him to stand up off the table.
+
+Justice opens the chest and begins to hand his stuff back.
+
+He gives the stuff over Marlade bits at a time, his armor, his rations etc.
+
+But as he grabs the staff and begins to pass it, he stops and looks at it.
+
+He mutters to Urzal, and the dragonborn comes over. They turn their back to the party and whisper, still inspecting the staff.
+
+Urzal quickly turns around to Marlade. "How long have you had that staff, Marlade?" He asks with quickness in his voice.
+
+Marlade says he was there, it was from Iarno.
+
+"Hmm, yes." Urzal thinks, "But, it's different now, somehow. Have you noticed anything about this staff?"
+
+Marlade nonchantly explains that Iarno talks to them all from time to time.
+
+Urzal's eyes narrow, "Please tell me you haven't been carrying this around all this time?!"
+
+Marlade just shrugs and says yeah.
+
+"In the name of Tyr!" Urzal exclaims, visibly worried.
+
+He turns to Justice and nods.
+
+Justice, seemingly understanding Urzal's intentions without a word, places the staff on the floor and steps back.
+
+Urzal draws Carn and raises it above his head.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img 
+  src='https://imgur.com/RdAKslx.png' 
+  style='position:absolute; bottom:30px; right:0px; width: 400px; transform: scaleX(-1) ' />
+
+With a smash he plunges the axe into the end of the staff, despite Marlade's pleas not too.
+
+The crystal at the tip of the staff smashes into tiny fragments on the floor.
+
+After a moment, the pieces start to vibrate and rise, they slowly turn into pink swirling mist.
+
+Everyone in the inn suddenly hears the voice of Iarno start laughing, but it becomes far more gutterall.
+
+"Hah, Urzal, Justice" The voice says mockingly, "You do realise that Lord Dagult now has no chance with you down here!"
+
+The pink mist spreads around the party and portals start to open up inside the inn, swirling green and purple.
+
+Unknown abominations begin to enter through them...
+
 ## Session 17 - 21/07/2020
+### Chapter 66
+##### Portals
+
+As the group stare at the portals, they can see the surface of it undulating, and the more they stare, they realise they can start to see into - what appears to be - another plane of existence.
+
+The more they look, the more they realise that this plane is not like anything they have ever come across before, it's shapes and lines hard to focus on and it's swirling colours, completely mistifying.
+
+The portal nearest the north side of the inn starts to bulge. An abomination, green and scaly, begins to enter. It appears to be floating, about the size of the human's in the group. Its sole orb-like body containing one large bulbous eye and a single mouth with teeth like old gravestones. Four tentacles come off of it's body and lash around the room, at the end of each is a lizard like eye, rapidly glancing in all directions.
+
+As it opens its mouth, it reveals a long pink tongue that it starts slinging around in front of it.
+
+Mira rushes forwards and tries to attack the creature with his swords. Mira lands an attack on the creature, which appears to be visibly stunned that it was even damaged!
+
+The abomination - a spectator - fires an eye ray using one of it's tentacles at Mira in response. Mira manages to dive out of the ray, but it then goes on to hit Justice. As he hit he stands motionless and falls down like a statue, clearly paralyzed.
+
+Urzal rushes forward and tries to hit the spectator with Carn, landing a decisive blow. His magical weapon slicing through the spectator easily, and the spectator begins to go back into the portal.
+
+Maryia casts dissonant whispers on the creature, the creature tries to resist it, but ends up flopping on the floor. Lifeless. Maryia then uses this opportunity to cast Mantle of Inspiration on the group, which buffs the party.
+
+The other two remaining portals start to undulate like the first, Misty reacts and leaps at one of the monsters as it comes through, they both appear to be spectators like the first.
+
+Justice manages to resist the paralysation and stands up.
+
+One of the spectators fires beams of different colours, one at Misty and one at Minogar, Misty is now paralysed from the beam but Minogar resists. The spectator carries on moving and grabs at Marlade. Minogar uses this opportunity to attack the creature as it moves past him and slices it through the back.
+
+The spectator succeeds in grabbing Marlade and begins to drag him back towards the portal that it entered through.
+
+Maryia lunges forwards with her longsword and slashes at it, she lands a hit, but the spectator seems determined to get Marlade through the portal.
+
+Minogar takes his greataxe once again and swings recklessly at the beast, but misses. He follows up with another swing and slashes right through it's eye. It releases Marlade and falls to the floor.
+
+Full of bloodlust, Minogar rushes over to the final portal and attacks the Spectator that is entering through it. He leaps across the table and slashes into the beast - the beast starts to look frightened and freezes on the spot.
+
+The spectator - in it's panic - just lunges at Minogar and tries to bite him, but Minogar easily dodges it. 
+
+Mira launches an arrow with her longbow at the creature, but misses the portal.
+
+Urzal then throws a javelin at the Spectator which goes straight in it's eye and it screams out in pain as the javelin still sticks out of it's eye.
+
+Maryia then uses dissonant whispers on the creature, she sings a horrible tune across the room into the creatures ear and it screams in pain as it falls to floor in a heap.
+
+The portals now start to undulate again, but this time, they are starting to collapse.
+
+The portals all disappear one by one, but as the north one disappears, a large ethereal hand appears from it and grabs Marlade. It lifts him up in the air infront of everyone and goes back into the portal, with a flash, taking the cleric with it!
+
+Seeing this, Urzal reacts quickly and grabs Carn. He shoves the battleaxe into the portal, lengthways, to try and stop it from closing.
+
+The portal does continue to close - but at a slower rate - Urzal turns to the group and gestures his head into the portal.
+
+Mira immediately jumps in, followed closely by Minogar.
+
+Maryia stands, unsure of what to do, Carn starts to crack under the pressure of the portal, Maryia decides to jump in, just as she hears the sound of metal crumbling behind her, and a dragonborn shouting.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img 
+  src='https://imgur.com/UFTuQG5.png' 
+  style='position:absolute; bottom:0px; right:-260px; width: 850px' />
+
+### Chapter 67
+##### Nowhere
+
+The three see themselves floating around, unsure of where they are. The commotion of the inn has left them behind, and they feel at peace.
+
+Its hard for them to focus on each other, they appear to be in motion but they do not feel like they are moving. It's hard for them to focus on anything - almost as though vision and sound in this place is not correct.
+
+They appear in this strange plane, all around them are floating islands, below them - on the ground - is a grey circle. As they look at an island, it appears to shrink into nothingness then grow again somewhere else.
+
+In the center of the island they are on, they can just about see a human mage, practicing spells.
+
+Minogar recognises the mage and calls out to him, he believes him to be Iarno.
+
+"Yes?" the mage responds, his voice booming all around them.
+
+Minogar is taken a back slightly from the voice, but asks where they are.
+
+"You have made it very tricky for me, Urzal, I was able to track you all - before Urzal did what he did. You are all proving to be a right slippery bunch of characters." the mage responds.
+
+Minogar asks why even track them?
+
+"Hmm, well i'm always interested in what you guys have been up to", The mage says tauntingly, "You have been very busy, it's very interesting."
+
+Maryia and Mira are both in shock as to what they are witnessing, and are unsure what to say.
+
+Minogar looks back to Iarno, and asks what he wants from them.
+
+"Not for me to say right now, I guess I now have what I needed. Your friend... he will serve me well. His visions... very insightful."
+
+Minogar says they won't let him keep him.
+
+Iarno laughs, "I don't see how you have much of a choice. You are in my domain now, look around you!"
+
+As he says this, he projects a massive image of himself behind where he is standing, to indimidate the group.
+
+They realise it is a simple illusion however.
+
+"Anyway. I Have business to attend to... perhaps we shall meet again? But, remember, cross the Zhentarim, and we shall kill your friend."
+
+With a flash, the mage teleports to an unknown location, leaving behind a grey triangle where he once stood.
+
+The group decide to explore at this point.
+
+They notice that as they move around, it is hard for them to find their feet, as though they are moving through something not quite solid.
+
+They head towards the centre of the island, where Iarno was stood, but before that is a slight drop. Mira grabs a rock off the floor, but as he does so, his hand sort of goes through it, and doesn't seem to respond at all to his touch.
+
+Instead, Mira throws an arrow down the drop. It lands on the floor below. Seeing this, Minogar jumps down.
+
+He lands, and it feels as though it didn't hurt at all. He felt - as he was falling - that he didn't weigh as much as he normally does. Mira follows and feels a similar sensation.
+
+Minogar leaps forward with all his might, but as he is in the air, he realises that he can change trajectory slightly in the air before he lands, just using his mind.
+
+He focuses intently, and lifts himself off the ground. Amazed, the others see him do this and he tells them to just try it!
+
+Mira gives it a go first, and his little gnome body also rises off the floor and begins to float.
+
+Maryia jokes, and asks if this is a regular day for them?
+
+She closes her eyes and focuses really hard, now all three of them are slowly floating above the ground.
+
+Mira tries to move over to Minogar, just with her mind, and is able to.
+
+Slowly, the group become more confident with their new found abilities in this plane.
+
+They play around for a few minutes, bounding around the island.
+
+They turn their attention to the triangle left behind by Iarno. It has started to fade away slightly since he first cast it.
+
+Maryia believes this to be the remnants of a teleport spell. Explaining that Iarno has teleporting himself to another plane of existence that only he knows. She can't discern where he has gone.
+
+They decide that they should start to look for a way of this place. They head over to another island, that has a faint grey circle on it, similar to the circle on the floor when the entered.
+
+One by one, they enter the grey circle, and as they do so they disappear.
+
+They find themselves once again floating in nothingness, then the familar view of the inn morphs into shape around them.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class='descriptive'>
+##### Astral Plane
+  The Astral could be reached from almost any point in a Prime Material plane or first layer of any Outer plane by spell, psionic ability, or device. It was described as a barren place of other-dimensional nothingness extending in all directions. What little solid substance that floated in the bright, gray void was typically chunks of matter broken off from their original plane. 
+  
+  The Astral had no gravity but objects did retain their mass so you could throw small items or push off from large objects to move in the weightless environment
+  
+Time in the Astral flowed at the same rate on a Prime Material plane but the effects of time were slowed almost to a stop―a thousand years in the Astral plane felt like only a day to the traveler.
+  
+  Creatures did not go hungry or age while in the Astral plane. For that reason, its mortal inhabitants needed to return to the Material Plane in order to have children or to reach adulthood.
+</div>
+
+\page
+
+<div class='pageNumber auto'></div>
+
+### Chapter 68
+##### Time
+
+They reappear back in the Sleeping Giant Inn, but seemingly at the location where one of the other portals were - not the one they entered through.
+
+Things are odd though.
+
+They appear to be the only people in the inn, and it is night time outside. Everything has been tidied up and there are no signs of any previous commotion.
+
+Minogar looks behind the bar, to see if Grifta is there. Realising she isn't he leans over and starts drinking beer from one of the taps.
+
+Maryia looks out of the back window, and can see the lake around the back of the inn. The water is calm and she can see the moon shining on the surface of the lake. However, the moon appears to be nearly full.
+
+This is odd to Maryia as she remembers that the last moon she saw the other night was a crescent moon. Suggesting a few weeks has passed since they went through the portal...
+
+She explains her theory to the group.
+
+A slightly tipsy Minogar turns to her and asks what she is on about, a bit loudly.
+
+He decides to inspect for himself.
+
+Sure enough, he sees the moon on the lake, matching her description.
+
+He turns to the rest of the group, and says oh god. Its nighttime!!
+
+Maryia asks if he saw the moon, to which Minogar responds that yes, the water had indeed eaten it up...
+
+Maryia glares slightly and asks how much beer he just had.
+
+Mira notices someone sneaking up behind them.
+
+"Who is it!!!?" A squeaky voice exclaims.
+
+They turn around and see the source of the voice. It is grifta, in her pyjamas, holding a metal pipe like a weapon. "Who are you?!!"
+
+Mira apologises for being too loud.
+
+Grifta squints and realises who it is, she sighs slightly in relief. "You scared the crap out of me, it's you guys!"
+
+Minogar begins to walk over, but stumbles over some chairs.
+
+"How did you get in here?" She asks, puzzled.
+
+The group seem confused at the question.
+
+"You've been gone for days! No one has seen or heard from you, where have you been?", she asks, concerned.
+
+Mira says its a long story they can't explain, and they aren't quite sure themselves.
+
+"We all thought you had died. We all saw you jump into the portal, it closed, then we never saw you again... Urzal and Justice searched, but gave up and went back to Neverwinter."
+
+Mira comments that it was not becoming of Urzal to not follow them inside.
+
+Grifta explains, "He didn't have much of a choice, his weapon shattered after the bard went through the portal, and it shut behind you all. He was really upset. It might be worth talking to them if you see them, they have blamed themselves and believe to have sent you to your deaths..."
+
+Minogar asks that during this time, has the dragon attacked, or been spotted.
+
+Grifta explains that luckily, it still has not attacked the town. Realising that the group are just as confused as she is, Grifta offers them free lodging for the night. She just asks that the group meet back up in the morning - after some rest - to catch up on all that went off.
+
+### Chapter 69
+##### Disclosure
+
+After their rest, the group return downstairs. They see Grifta, cleaning glasses behind the bar.
+
+Mira offers a good morning to the dwarf.
+
+"Morning! How was your rest?" She replies.
+
+Mira says it was nice and well appreciated.
+
+"Great!", Grifta explains, "I wanted to speak to you all about what you have missed, since we last saw each other..."
+
+Mira asks her to continue.
+
+"The two guards from Neverwinter headed back," Grifta turns to Minogar, "Toblen forgives you, Minogar. He does not blame you for what happened, when you see him next though, I will warn you that he is covered in bandages! The town itself has finally finished the fortifications on the gates, so we are quietly confident that if the dragon comes this way, we can defend against it. Thankfully, Lord Dagult has also pledged some more guards to this town, news that has made Toblen in a very good mood!"
+
+Grifta looks concerned for a moment, "There was something else though, have you ever met 'Qelline' before? Qelline Alderleaf, she runs the farm to the south. She has been looking for you after hearing you were in town, and was hoping you would pop in and see her? Apparently Carp - her son - is very excited to see you, and he has something he wanted to show you... It's probably a silly kid thing, but might be worth it if you have time?"
+
+Minogar alludes to the fact that he has a lot to do, and hasn't even had a drink yet...
+
+Grifta takes the hint and pours him a pint, she says it is free because they have been so helpful.
+
+Minogar asks about the bandits that were in the inn the other day.
+
+Grifta explains that he has actually reminded her, she mentions that since then, no bandits have even been seen inside of Phandalin! Grifta believes it is due to the increased Guard presence in the town, thanks to Lord Dagult.
+
+The group thank the dwarf, and decide to head to the farm, they pass by the townmaster's hall on the way and decide to pay Toblen a quick visit.
+
+On the way, Mira and Minogar fill Maryia in with how they saved a little boy from the Zhentarim.
+
+The time is early morning and they are standing outside the hall, there is a slight spell of rain hitting the party.
+
+Minogar approaches the double doors, but they are locked. He knocks firmly on the door.
+
+They wait.
+
+Nothing seems to happen. Minogar knocks louder, but again, they wait, and nothing happens.
+
+They carry on knocking, and listening at the door, but no one seems to be in.
+
+The group deliberate whether to carry on trying or move on, but Minogar says it might be worth checking the windows to see if everything is ok.
+
+Mira looks into the hall, he can see the lights are on, suggesting someone is in.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img 
+  src='https://imgur.com/jvgQtor.png' 
+  style='position:absolute; bottom:0px; right:-0px; width: 400px' />
+  
+Maryia has gone round the back and peered through a window, she sees two chairs in this room, she remembers this was the room that Minogar went into mistakenly the other day.
+
+Minogar believes he might still be asleep.
+
+Mira finds a back door to the building. He tries to open it, and it is unlocked. Inside, he sees a mini-storeroom, with a fireplace and crates of food.
+
+Minogar goes to the other side of the building and looks through a window, he can see what appears to be a bedroom, with a bed in it, a cat is asleep on the bed, and he can see the corner of another bed, but cannot see if anyone is in it.
+
+Mira enters the building through the back, he enters through another door in this room, and finds himself in a small bathroom.
+
+This room has another door leading out of it, which he opens.
+
+As he opens it, Minogar can see a door in the room he is looking at open, and they realise they can see each other. Mira waves quietly at Minogar and sneaks around the room.
+
+He sneaks up to the cat, and pets it. The cat purrs in it's sleep.
+
+As Mira turns around, he can see the other bed. Toblen is in it, snoring away. He notices that Toblen is bandaged, quite badly.
+
+Mira decides to leave him, and sneaks back out of the room.
+
+The group leave the hall how they left it and decide the best thing to do now is head to Alderleaf Farm.
+
+### Chapter 70
+##### Carp
+
+As the group walk towards the farm, they see the pastures and animals in fields.
+
+They approach the back of farmhouse, and Minogar recognises the trough, it was where Lanar was waterboarded. He tells the others about this incident.
+
+The group head towards the entrance of the farm, and see one of the ranch hands tending to some pigs.
+
+Mira greets the man.
+
+"Mornin'" He responds, "Don't think we've met? The name's Narth."
+
+And he offers his hand to the gnome as a gesture to shake hands.
+
+Mira shakes his hand, Narth continues, "I don't think I've met you either - bard - but i know you! I know you Goliath!"
+
+He squints and smiles at Minogar.
+
+"Have ye all come to meet young Carp again? He is very excited to see you!" Narth explains.
+
+Minogar asks where he might be.
+
+"Ahh, if y'all speak to Qelline over thar, she will surely be able to point ye in the right direction! I don't know where he will have gotten too! When I saw him last, he was playing with 'Pip' - Toblen's young boy"
+
+The group head over to Qelline, who hasn't noticed them yet. She is currently chopping logs on a big tree stump.
+
+As she places the next log down and readies her axe, Minogar quickly swings his axe at the log and chops it.
+
+This makes Qelline jump and she turns around with a start!
+
+"Oh! Ohh! Its you Minogar!" She says. "And erm, erm, have met before?"
+
+The other's introduce themselves to the Halfling woman.
+
+Minogar says that they were told Carp wanted to speak to them.
+
+"Oh yeahh, erm he is playing around the side - with Pip. Where the vegetables are being grown. He will be very excited to see you!"
+
+Qelline goes on to explain that since he was rescued she has noticed that her son has become a lot more confident and almost bigger in himself, it's hard for her to describe, but she is very proud.
+
+The group listen, and can hear the sounds of two children play fighting.
+
+They head over to the vegetable plots and see two boys dressed up.
+
+The first, a smaller boy - but human, is dressed up like a mage, with a long stick that he is pretending is a staff. They recognise this boy as Pip Stonehill, Toblen's son.
+
+The other boy, larger than the other, but of halfling, is dressed like a fighter/paladin thing, with a smaller stick in one hand and a wooden lid in the other - like a shield - they recognise this as Carp Alderleaf.
+
+They notice that the boy is a bit larger than when they last met, and he is hitting the other boy quite hard, and saying "Die Iarno Die!"
+
+But, the group look more closely, part of Carp's costume is a helmet - which seems to be too big for him - and keeps falling over his eyes as he swings his stick and he keeps adjusting it back.
+
+Maryia can't tell why the group are so curious with the helmet, but Mira sees that it is strikingly similar to the Dread Helm that they got in Axeholm, only it looks like Carp has attempted to paint it a different colour, and poorly. They also see that it is too big for him and he keeps having to adjust it to get it out of his eyes.
+
+Minogar decides to sneak on Carp, and pick him up. Carp screams as he is lifted. Minogar turns him around and roars at him.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+Carp initially is frightened, but then laughs as he realises who it is.
+
+Minogar puts Carp down and explains that he came because he heard that Carp wanted to see him.
+
+As he does so though, Carp gives Minogar what he calls a "Halfling Hello" and punches him the privates.
+
+Minogar goes oof, but finds it quite funny.
+
+"Can you see me Minogar," Carp says, "I'm dressed up like you, when you saved me from Iarno!"
+
+Minogar is still reeling slightly from the punch.
+
+"Wheres Marlade, Wheres Sasha?" Carp asks.
+
+Maryia sidles over to the boy.
+
+"Are you Sasha? You look... similar?" Carp squints.
+
+Maryia explains that she is actually Sasha's sister and that she has unfortunately passed.
+
+"Passed? What does that mean?"
+
+Maryia explains it means she is no longer with us anymore.
+
+"Oh, has she gone off to Neverwinter?"
+
+Maryia decides to give up and just say yes.
+
+"Oh ok" and Carp smiles.
+
+Minogar comes in and says actually, its somewhere a bit farther.
+
+"Ah, Luskan?" Carp asks, "Further to the north?"
+
+Minogar thinks for a moment, then also just says yes.
+
+"Oooh, it's really cold up there," and Carp pretends to shiver, "I don't wanna go there..."
+
+Carp explains that he doesn't like cold.
+
+Minogar asks what he does like.
+
+"I like adventurin' I wanna be adventurers like you!"
+
+Mira says that is nice, and maybe he could join them one day when he is older.
+
+"I could join you now!" Carp seems to realise and holds up his pretend sword, "Look, look, I've been practicin' with my stick! With my shield!"
+
+He adjusts his helmet, "And a fancy helmet that I found!"
+
+Mira asks him where he found the helmet.
+
+Carp turns to his friend Pip, and whispers "Should we tell them?"
+
+Pip nods.
+
+"We found it," Carp says, "It was lieing in a field."
+
+Mira asks Carp if he would give the helmet to them.
+
+As he asks this, Carp stops smiling and holds the helmet with both hands and steps back.
+
+Mira goes on to say they could pay him for it.
+
+Carp whispers to Pip again, but this time the party cannot hear it.
+
+Pip then nods to Carp after they finish talking.
+
+Carp turns to the party, "How about, we strike... a deal?"
+
+Mira asks what deal.
+
+"I give you the helmet. And you take me with you on your adventures!"
+
+Mira stands shocked for a second, then says one moment to the boy.
+
+The group turn and talk amongst themselves without Carp listening.
+
+The group all agree that he is just a child and they can't take him with them!
+
+They first think they should tell the truth about Sasha, but then realise they don't want to scare the boy.
+
+Minogar says why don't they just take him shopping and tell him thats an adventure.
+
+Maryia decides that it probably would be best to just tell the truth to the boy.
+
+She goes up to him and kneels down to his level, and says hello and tell him her name.
+
+"Hello Maryia," Carp responds. Pushing the helmet back up that has fallen over his eyes.
+
+Maryia explains that Sasha and the other adventurers actually found this helmet, and went through a great deal of pain to find it.
+
+"Where did you find it?" Carp asks.
+
+Maryia says they found it in a dungeon, full of monsters.
+
+Carp actually seems to get more excited hearing the story.
+
+"OOh monsters!" Carp exclaims, "Do you know what?"
+
+Maryia explains there were ghouls and ghasts and even a banshee!
+
+Carp rubs his hands, "Oooh Banshees! Scary!" but spoken in a more excited way than afraid.
+
+Maryia goes on to say that they came up against the banshee, and Sasha made it leave, leaving everyone safe.
+
+She goes on to say that the group then found the helmet, at the end, as a big reward for fighting in the dungeon.
+
+"WOW!" Carp says, amazed at the story. "But it's my favourite thing," He holds on to it again, "It's my favourite thing right now."
+
+Maryia explains that it is very important to her though.
+
+Carp pauses for a second, and slowly takes off the helmet and stares at it in his hands.
+
+They see his lip do a little tremor as he puts on a brave face and hands it to Maryia.
+
+"I'll give it you," He says as he holds it out, "But would you take me on an adventure? Just a little one?"
+
+Maryia agrees to a little one.
+
+"Where were you gonna go?" Carp asks.
+
+Maryia begins to explain that they were going to go collect some items from town.
+
+Carp squints, "This sounds like shopping. My mum takes me shopping all the time."
+
+Maryia quickly says no! But Carp is not convinced. He turns to Minogar.
+
+"Minogar, you know all the adventures, where are you really going."
+
+Minogar also tries to fob off shopping as an adventure, "This sounds like shopping again!" Carp exclaims and begins to take the helmet back.
+
+Carp finally turns to Mira, "Gnome, you are probably not gonna lie. Where are we going, on adventure?"
+
+Mira thinks.
+
+"And if you say shopping again, i'm gonna cry." Carp says in a huff.
+
+Mira thinks, and says what if they went to get a sword?
+
+"A SWORD?! I'll go with you to get a sword!!" Carp shouts excitedly!
+
+Mira turns to Minogar and says just a short one.
+
+Minogar says it will be fine, they could probably go to Neverwinter.
+
+"Neverwinter! I've always wanted to go to Neverwinter!" Carp says. "I'll give you the helmet, if you take me to Neverwinter!"
+
+Mira says no.
+
+"I'm sure my mum will say yes!" Carp protests.
+
+Minogar patronisingly says that if his mum does say yes, he can come with us. However, he believes she wont.
+
+"Ok! Deal!" Carp says. "If my mum says yes, I'll then give you the helmet and we can go on an adventure!"
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img 
+  src='https://imgur.com/uwrbs0k.png' 
+  style='position:absolute; bottom:10px; left:-20px; ' />
+
+Mira says wait, give the helmet now and then see if his mum says yes.
+
+Carp says for them to shake on it, to which Mira complies.
+
+Carp holds out the helmet, and Mira takes it.
+
+He inspects the helm closely, he sees the paint smeared on it, but can recognise that it is indeed the Dread Helm. He belives that this helm could potentially alert the user of Dragons nearby, perhaps with glowing eyes.
+
+Minogar gives a gold coin to each of the boys.
+
+Carp stays close to the group as they head to Qelline. Minogar picks him up and puts him on his shoulders.
+
+Qelline sees the party heading towards her, and appears happy that Carp is having a good time.
+
+"I see you found him then!" She says.
+
+Minogar says that he might have just saved Phandalin.
+
+Qelline notices that Carp isn't wearing his helmet, "Oh, did you give them your helmet, Carp?"
+
+Carp responds excitedly, "I did! They said they are gonna take me on an adventure!"
+
+Qelline looks suspiciously at the group. "Ah, are they?... Where we're you intending to take him? Hmm?"
+
+Mira explains that they said they would only take him on an adventure if Qelline is fine with it.
+
+Qelline immediately responds, "Well, of course i'm fine with it, you saved him once."
+
+Mira gives Qelline a death stare, and the other laugh that she has just agreed.
+
+Carp shouts, "Yay! That means im going!!"
+
+Minogar says they could just take him to Dragon's Barrow, it should be fine.
+
+"Dragon's Barrow?! That sounds AWESOME!!" Carp shouts.
+
+Carp jumps down off Minogar's shoulders and rushes inside the house.
+
+The group can hear clattering and banging around inside the house.
+
+```
+```
+
+He emerges from the house, looking proud.
+
+They don't know where he has gotten these items from, but he now has a set of chainmail on him, that fits him. Along with a crossbow and a shortsword on his back. Looking totally ready to go.
+
+"Lets do this guys!" As he stomps over to the party, fist pumping the air.
+
+Minogar says he looks awesome!
+
+Carp thanks Minogar.
+
+The group decide to head to Barthen's first on the way. They convince Carp that they will continue after it and that they aren't tricking him.
+
+### Chapter 71
+##### Townsfolk
+
+Outside Barthens, the group head inside, they see a drow elf to the side, sorting shelves.
+
+Barthen waves at the group, and the group see a teenager looking human behind him, appearing to help him out.
+
+"Mornin' Long time no see!" Barthen says.
+
+Minogar says it has been a long time, and says a swear word in dwarvish.
+
+Barthen rolls his eyes and smiles, "I see you have been practicing!"
+
+He goes on to explain that business has been creeping up slowly back to normal, and that the town seem to be getting used to the threat of the dragon nowadays.
+
+Minogar asks if there have been any sightings lately.
+
+"Erm, in the town, no, thankfully not. But there are always reports coming in of it being further a-field. They come from all over the place to be honest."
+
+Mira buys some thieves tools from Barthen, Barthen gestures to his assistant to fetch some. Mira also asks for some chalk and Barthen gets some out of a drawer nearby. Mira buys the tools and ten pieces of chalk.
+
+The rest of the group buy some rations from Barthen.
+
+Barthen makes small talk and asks where they are headed next, the group are reluctant to say so make up a boring story.
+
+"We are going to a dragon's place!!" Carp shouts, as the rest of them try to get him to shut up. Minogar takes Carp outside.
+
+Barthen laughs and winks at the boy.
+
+As the group leave, Mira goes over to the drow elf, still packing shelves.
+
+Mira stands there and says hello.
+
+The drow elf turns slowly, and isn't sure. "Erm, Good Morning?"
+
+Mira stands there and politely says Good Morning back.
+
+The drow elf seems very shy, and Mira's attempts to talk to him seem to just make him more awkward.
+
+Minogar stands behind him and whispers in his ear, asking what his name is.
+
+The drow elf turns quickly, "Oh. Hi. Err. Ander?"
+
+Minogar says that is a nice name.
+
+Ander looks more confused, "Ok... Erm... Do you want anything?!"
+
+The group notice he is trying to cover his pockets, as if he thinks they are trying to rob him.
+
+Mira says they mean no harm.
+
+"Yeah... Everyone says that before you get your pocket's picked..." Anders replies.
+
+The group decide to leave.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+Before they leave town, they decide to give Toblen another try, as it is later in the day now.
+
+They arrive once again at the townmaster's hall, and Mira knocks.
+
+He hears Toblen shout "Just one second."
+
+Toblen opens the doors and greets them.
+
+"Hello? Oh, it's you guys." Toblen then realises, "OH! ITS YOU GUYS! Come in, come in! We have much to discuss!"
+
+They head inside into the hall.
+
+The group all sit around the table as Toblen sits at the head of it.
+
+"So, you have to tell me! Where have you been? It's been a while, since the errm... 'Event' shall we say?" Toblen says, and grasps at his side, it appears he is still in pain from the fight with Minogar.
+
+He smiles and turns to Minogar, "How you doing Minogar..."
+
+Minogar looks concerned, he says he is fine and asks how Toblen is.
+
+"Ah, Im good. Urzal and Justice came and told me everything after the incident in the inn. They also told me that during our fight, Marlade 'tricked' you or something with a spell, so it wasn't really you attacking me?" 
+
+Minogar says it was definitely mind control.
+
+"It is what it is I guess," Toblen says as he swings his arm back, "The old arm is getting there though, hah, you pack quite a punch. I wouldn't want to cross you in a bar fight!"
+
+Minogar says it's a good he missed all those attacks, and then corrects himself and says he doesn't remember a thing...
+
+Toblen adjusts himself, "I did want to talk to you guys, since you have been gone. Justice and Urzal had come down from Neverwinter to talk to me, before the incident with Marlade. Well, we were discussing the defences around town, against this dragon, thankfully, Lord Dagult has agreed to send more soldiers down to Phandalin. I fear though, it might not be quick enough. Would you potentially, I know i'm asking a lot here, be up for attacking the dragon where it lairs? I believe waiting for the dragon to attack the town is just foolhardy."
+
+The group ask Toblen if he knows where the lair is.
+
+"I'm afraid not, all we ever see is it flying around, but it seems to head back to Icespire Peak a lot."
+
+Minogar explains that they currently searching for the right 'tools' to take down the dragon. He says they need the last remaining piece, which they are heading for now.
+
+Toblen asks how they intend to find the dragon.
+
+Minogar explains that the helmet they now possess may aide them in finding it.
+
+"I'm not sure if it's bravery or stupidity, but I admire your courage!" Toblen laughs.
+
+Toblen goes quiet for a second. "I suppose you may want to know what the reward for this endeavour is going to be."
+
+The group just sit there, but expectantly.
+
+"I know you had some rough dealings with our previous townmaster, and I will be frank with you. The gold reserves in this town are not in a good state, its in an even worse state since Harbin left. If you could somehow find him, it would be a massive help. I bet he has hid a stash of gold or buried it somewhere. He might even have it on him."
+
+Toblen does explain that he is currently negotiating with Lord Dagult to try and get a comparable reward for them, but he believes that his negotiating position would be much stronger after they defeat the dragon.
+
+The group agree, as they trust Lord Dagult will pay up.
+
+Minogar also explains they intend to take Carp with them, on a little adventure.
+
+"I wondered why he was hanging around you lot." Toblen smiles.
+
+Minogar explains that he has actually been a massive help, and got them back an artifact they had lost.
+
+They look over at Carp, sat at the table, who is now beaming with pride.
+
+The group head out, as Toblen wishes them luck.
+
+Leaving town, the group head westwards over to the high road. At the crossroads of the Triboar trail and the high road, they decide to stop at a nearby inn as it gets dark.
+
+### Chapter 72
+##### Reunited
+
+An oddly shaped building sits at the juncture of the Triboar Trail and the High Road. Two entrances into the building are apparent: a smaller one at the northern corner, and a larger one, suitable for beasts of burden and wagons, near the first.
+
+Mira opens the doors, and the group head inside, they notice that hay is on the floor, suggesting it also doubles as a farm.
+
+As they enter, they realise they are in quite a lively looking tavern, a bard is playing music on the stage, a young halfling woman is humming to herself who appears interested in the group. Behind the bar they see a human male cleaning glasses, with a woman sat at a table - presumably his wife - looking over some records. Two human males are also sat at another table near the window, talking.
+
+The group head over to the bar.
+
+"How you doin' there gnome? Welcome to the Wayside Inn!"
+
+The group orders some beers and takes a drink. The bartender explains that the first pint is always on the house.
+
+"So, what brings you to the Wayside Inn?"
+
+The group don't want to tell him.
+
+He laughs, "Silence I see, am I touching a nerve?"
+
+Mira says they are going to Neverwinter.
+
+"Ah, Neverwinter - the land of 'prosperity'!" He says as he holds his hands up, "Its all a lie. Although, I once wished to own my own place in Neverwinter, but I think now I would much prefer Waterdeep."
+
+The group compliment the inn.
+
+"Ah Thank you," he says, "You can thank Martisha for that!"
+
+He gestures over to his wife sat at the table, who gives them all a surly look and goes back to looking at papers.
+
+The group then ask if they can stay the night, and pay for some rooms. The bartender hands over keys for each of them, but Minogar and Carp decide to share a room.
+
+He explains how to get up to the rooms, up the stairs. As the group turn they see another man that they didn't see as they entered the inn, sat under the stairs at a table.
+
+Minogar seems to recognise the man, he realises that he looks strikingly similar to Lanar.
+
+In the heat of the moment, Minogar shoves everyone to the side, he heads towards him with his drink and sits opposite him.
+
+"Hello?" the man asks. "Who are you?"
+
+Minogar just stares at him.
+
+"Have we met before?"
+
+Minogar just stares at him.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+"You are scaring me now," the man laughs nervously.
+
+Minogar breaks his silence, and asks if he has ever been near Phandalin.
+
+"Erm. Yes?"
+
+The barbarian says he looks very similar to someone he met before.
+
+The man nervously says, "Well, I don't think we have met before, I'm sure I would remember a goliath!"
+
+Minogar asks his name.
+
+The man thinks for a moment, "Whats your name?"
+
+Minogar says his name is Clarence Horseshoe, pretty unconvincingly.
+
+"Erm, Ok... Clarence, no offence, but that is an odd name for a goliath."
+
+Minogar says to keep it as Mr. Horseshoe, they don't know each other that well.
+
+"My name, is Turnel." Turnel says.
+
+Minogar looks disappointed, but decides that Turnel is lieing.
+
+The goliath levels with Turnel and explains that Clarence isn't his real name, he tells him his name is actually Minogar, he points to the rest of the party behind him, who are waving, and explains they are a group called "Phandalin Hurricane Action Team".
+
+He goes on to tell him about Lanar, and how he unfortunately passed away.
+
+Minogar apologises.
+
+"What was this individual's name?" Turnel asks.
+
+Minogar says Lanar.
+
+Turnel's eyes widen, then he looks calm. "My name is Lanar..."
+
+Minogar seems surprised.
+
+"The fact you knew my name, before I told you, as weird as it is, makes me believe your story, goliath."
+
+Minogar asks if he ever came across anyone strange.
+
+Lanar explains that he meets many people in his travels. "Can you be more specific, perhaps?"
+
+The barbarian explains that a shapeshifter once stole his identity, and if the name 'Iarno Glasstaff' means anything to him?
+
+Lanar shakes his head, "No. Erm, wait. Do you mean 'Lord Albrek'? I know of an Iarno Albrek."
+
+Minogar asks him to continue.
+
+"Yeah, I'm trying to remember, as there was a big story about it. He was sent down to Phandalin, to help out... I can't remember why, but basically he ended up committing crimes in the town instead, he was captured and brought to Lord Dagult. But he escaped, and is still on the run. I don't think they have found him."
+
+Minogar buys Lanar a drink for that information. He asks Lanar what he does.
+
+"I travel around, mainly between Neverwinter and Waterdeep, selling goods. Whatever I can find usually."
+
+Minogar asks if he sells any potions.
+
+"Potions? Let me look." As he lifts a giant sack onto the table. "Erm, I sell a couple, I got some potions of climbing, two of them."
+
+The group buy the potions off him.
+
+Minogar asks where he normally hangs around to see him again, Lanar says he will go to the 'Fallen Tower' a lot in Neverwinter.
+
+The group recognise this as the inn they stayed at.
+
+Minogar thanks Lanar for his time and the group head upstairs.
+
+The group split up into each of their rooms, and Minogar tries to calm a frantic Carp down to get him to sleep.
+
+He was not successful.
+
 
