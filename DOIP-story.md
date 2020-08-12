@@ -1,4 +1,5 @@
 
+
 <style>
 .divider {
     width: 100%;
@@ -7198,4 +7199,472 @@ The group split up into each of their rooms, and Minogar tries to calm a frantic
 
 He was not successful.
 
+## Session 18 - 06/08/2020
+### Chapter 73
+##### Breakfast
+
+A new dawn breaks, Minogar wakes up and looks over to Carp to check on him.
+
+But he is not there! Minogar gets up with a start, and checks around the bed.
+
+He stands looking at the pillow for a few seconds, before slowly reaching his hand out and touching it. His hand touches the pillow, he was checking to see if he had turned invisible...
+
+The group all wake up and meet in the hallway outside their rooms.
+
+Minogar explains that Carp is missing.
+
+The rest of group are shocked that he lost the boy, but not surprised.
+
+Minogar looks out the window and can see the High Road trail below, with the ocean stretching out beyond it.
+
+They all decide to head downstairs, looking for the Halfling boy.
+
+As they head down the stairs however, they look around the bar.
+
+It is much less busy this morning, with only the owner and his wife present. However, they notice, at the bar, sat sipping orange juice - in deep conversation with the owner - is Carp, in his armour.
+
+Minogar sneaks up behind Carp, he taps the right shoulder of the boy, but moves over to the left.
+
+"Ahh! What was that?!" the Halfling shouts!
+
+He slowly realises who it is and his shocked face becomes a smile, "Minogar!" and he laughs.
+
+"I was telling my new friend about the adventure that we are going to go on!"
+
+Minogar scolds the boy for disappearing.
+
+"Sorry... I got really excited and went downstairs..."
+
+The group decide to let him off for now, and order some breakfast from the owner behind the bar.
+
+"Mornin' there barbarian!" the owner says, "Just been taking care of your little friend here!"
+
+The group order three bacon and egg breakfasts.
+
+Minogar checks if there is a vegetarian option, but the owner doesn't seem to understand.
+
+The owner nips to the kitchen and tells the cook what to prepare, as the group find a table and discuss where they are headed.
+
+They tell Carp they are heading to Dragon's Barrow, Minogar begins to tell Carp how there is a real dragon there, but Mira says there isn't.
+
+They explain that they needed the helmet to get the Dragon sword.
+
+They also explain to Maryia what they already know about Dragon's Barrow, and explain about Lady Alagondar.
+
+Carp perks up hearing the name "Alagondar", and says his mother used to tell him stories about them.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/b9FfJQE.png' 
+  style='position:absolute; bottom:0px; right:-30px;' />
+
+Minogar explains that Lady Alagondar is now dead, and stares at the boy.
+
+"Like Sasha?" the boy replies, innocently.
+
+Maryia says that isn't cool, but Carp isn't sure what he has done.
+
+Carp says he wants to be dead like Sasha and be far away on an adventure.
+
+The group try to explain to Carp what death actually is, but he doesn't seem to understand.
+
+Maryia says it might be best to clean up the helmet before going, as Carp has painted it.
+
+Carp sulks slightly, "What do you mean? I thought I did a good job!" he protests.
+
+Minogar says they can't paint it, as its not theirs.
+
+Mira believes that a bit of paint on the helmet won't affect it, as it is magical.
+
+A half-orc woman carrying a load of trays appears from the kitchen, and walks over to the group.
+
+"I've got three bacon and eggs?"
+
+The group all put their hands up and the half-orc hands over their meals. Realising that Carp has no meal, Minogar gives his over to him, and orders a new one from the half-orc.
+
+Carp moans that the bacon is really stringy.
+
+Minogar gets slightly annoyed, as he sacraficed his meal, but lets it go.
+
+The half-orc emerges from the kitchen once again,
+
+"Will this do you, Barbarian?"
+
+She smiles at Minogar and places the food infront of him, as she does so, she places her hand on his shoulder and gives him a wink. Minogar sits there and looks at the food infront of him, he notices that he has considerably more than the rest of the party.
+
+Maryia points out that he seems he has a "friend" there!
+
+But Minogar is already tucking in, not paying attention.
+
+Moments pass, and noticing that everyone has finished their meal, Carp pipes up, "Are we ready then?? Are we going to go?!" barely containing his excitement.
+
+Maryia decides now is the time to have a quick chat with Carp, and sets some ground rules. She explains that under no circumstances should he wander off on his own. They also tell him that he is now an honorary member of Phandalin Hurricane Action Team.
+
+Carp sits behaved as the group tell him not to annoy the ghost lady when they see her, and that they can't help him if he is not nearby.
+
+"I'm sticking with you, Minogar" he says.
+
+Minogar wonders for a section and inspects Carp's armor. He tries to see if it is Mithril, but it feels like standard chain mail in his hands.
+
+The barbarian pats the halfing on the shoulder, and the group leave the inn. (Without paying!!)
+
+### Chapter 74
+##### Log
+
+The group decide to head north as the crow flies over the plains to get to the Barrow faster.
+
+As they progress, they come to a small clearing with trees surrounding it, a small stream flows to the west infront of them, about knee height. A log has fallen across the stream, becoming a makeshift bridge.
+
+Minogar decides to pick up Carp and wade across through the water. The current isn't strong and he is able to walk across. Mira and Maryia both decide to cross over the log itself, balancing so as not to fall into the stream.
+
+As Minogar wades through the stream though, he can see a branch sticking out of the log underneath, hanging off this branch, is a pouch. It is about the size of his hand and is sealed, but appears to contain lots of items inside.
+
+Minogar tells the other two to be careful, as there is a pouch on the log. Maryia laughs and says it is just a pouch, why are they so scared?
+
+She picks up the pouch as she crosses the log.
+
+They listen, after everyone is across. They can hear the stream splashing along and birds chirping in the sky.
+
+Maryia notices something odd in the bushes near the stream. She peers into them, but cannot see anything, she explains to the group that she feels something is up with the bushes.
+
+The other two move over and peer in, Mira looks into a section of the bushes, as he looks into the bush, he sees a rough looking individual staring back with bloodlust in his eyes, a crossbow in his hands, pointing directly at the gnome!
+
+The bolt launches from the crossbow directly into Mira's face, dealing heavy damage to the gnome!
+
+Four bandits pop up out of the bush and begin to assault the party, they recognise them from the inn a few days ago. Their leader turns to Minogar and slashes at him with his scimitartwice, but Minogar blocks both attacks. Annoyed, the leader pulls out a dagger and sneakily stabs the barbarian dishonorably.
+
+Minogar rages and slams his greataxe at the Leader in retaliation, but misses both swings in his blind fury.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://vignette.wikia.nocookie.net/wesnoth/images/1/1f/Bandit.png/revision/latest?cb=20120310140426' 
+  style='position:absolute; bottom:0px; left:0px;' />
+
+To the west of their position, in another set of bushes, more bandits pop up and begins firing on the party!
+
+Misty is hit with a stray arrow, but doesn't look too harmed.
+
+Maryia uses dissonant whispers on the bandit that Mira saw, he resists the spell, but it still affects him and causes him to tremor.
+
+The bard then uses her bardic inspiration on Mira.
+
+Mira then attacks the bandit with his shortsword and slices his head clean off!
+
+The gnome then follows through and slashes another bandit with his other sword, and slashes across his abdomen.
+
+To the southwest, another group of bandits pop out of the bushes and fire arrows at the group, one heads straight for Carp!
+
+The halfling does manage to dodge the attack, but another arrow is fired and hits him in the leg.
+
+Full of confidence, Carp rushes towards this group of bandits, he takes his sword and tries to attack the bandit who shot him. He misses his swings and is now unsure of what to do!
+
+The bandits grin at the child.
+
+Misty rushes over on Mira's command to aide Carp, she rushes forwards and pounces on the bandit, but the bandit shoves the panther off.
+
+One of the bandits to the west fires at Misty and hits her again!
+
+Another bandit manages to hit Carp with an arrow, his armor is protecting him, but is clearly in distress!
+
+The leader once again attacks Minogar, missing once again with his Scimitar, but hitting with his concealed dagger!
+
+Minogar tells the bandit what would happen if he saw them again, and attacks with his axe, he slices through the bandit twice, in an "X" pattern and rushes through the now-corpse and attacks another bandit behind him, covered in blood. 
+
+The other bandit is mortally wounded and is in shock that a barbarian just burst through his captain!
+
+Maryia is hit by a stray arrow in the battlefield, glancing her shoulder.
+
+She then tries out a new spell, "Hypnotic Pattern" in an attempt to charm the bandits. However, they all manage to resist the charm!
+
+```
+```
+
+> ##### Hypnotic Pattern
+> 
+> You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes charmed for the duration. 
+>
+>While charmed by this spell, the creature is incapacitated and has a speed of 0.
+>
+> The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
+
+She then uses Mantle of Inspiration to buff Carp, Mira and herself.
+
+Mira then uses a sneak attack on a bandit with the inspiration from Maryia, he kills the bandit in cold blood and moves on to attack another bandit, killing this one aswell!!
+
+The gnome has now dispatched all bandits from the original group, and they turn their attention to the other groups of bandits, specifically the ones attacking Carp.
+
+One of the bandits slashes at Carp and the halfling takes a bit of damage, but blocks most of it with his armor.
+
+Another bandit attacks Misty, which slices up the side of the panther, leaving it badly wounded.
+
+Carp shouts, "No! Misty!" witnessing the poor panther in pain, and a strange look comes over him.
+
+His eyes glow a similar colour to the portals in the inn from before, a spell fires out of his hands at the bandit that attacked Misty. The bandit is hit and dies instantly!
+
+Carp calms down and doesn't seem to recognise what he has done...
+
+Mira and Minogar look at each other, worried.
+
+A bandit near Carp decides to move back, but fires the crossbow at Carp, the arrow hits Carp badly and knocks him down.
+
+Minogar rushes to Carp's aide and rushes through the stream to his side. He uses his rage to attack the bandit who attacked Carp, he smushes the bandit effortlessly and keeps slamming the axe into the husk of the bandit's remains.
+
+He takes out a javelin and throws it at a bandit, it misses but he launches a second one into the shoulder of the bandit, which sticks into him!
+
+Maryia tries Hypnotic Pattern again, on the bandits attacking her. She manages to hit them all and they all become charmed! The three bandits immediately stop attacking and stand still.
+
+Mira takes out his longbow and fires it at the final bandit who is not charmed, who already has a javelin sticking in his shoulder. The arrow lands right in his eye and he drops to the floor in a heap!
+
+The group turn to the remaining three bandits who are all still charmed.
+
+Minogar takes out a rope and ties them up whilst the charm is still in effect.
+
+The barbarian punches one in his face, to break the charm, but his goliath strength means that the man is now nearly dead. The thud of the punch breaks the trance of the other two.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/pSqpzVA.png' 
+  style='position:absolute; bottom:0px; right:0px;' />
+
+Minogar warns them that they are going to die for this.
+
+"What do you want?" the bandit who was punched asks.
+
+Minogar asks why they were here, waiting for the party?
+
+The bandit spits out a tooth, "You don't remember us?"
+
+Minogar says he does know them.
+
+The bandit smirks, "Then you know why we attacked you! Trying to get rid of us, we were the kings of Phandalin till you came! Whatever we said in that town goes, and you and that dragonborn came along, and made us look like fools!"
+
+Minogar patronises the bandit.
+
+"Well, we did own Phandalin, it was Violet Crows - I mean erm - bandit territory!"
+
+Minogar says the bandit is not giving him much reason to keep him alive.
+
+The bandit sulks, "Dont kill us. I can give you gold!"
+
+He gestures to his pockets, as he is tied up and can't reach them, the other bandits do the same.
+
+Mira asks where they got the gold from.
+
+The bandits try to lie and say they didn't steal it, but no one buys it.
+
+They go on to explain - realising no one is buying the lie - that they steal from so many people, it would be hard to know exactly.
+
+Minogar then punches the bandit again, killing him.
+
+The other two look petrified and say they will tell the party whatever they want to know!
+
+Minogar says that they can go, back to Phandalin, and behave.
+
+Whilst telling them this, Carp comes over to see what is going on. Minogar notices that Carp has a look about him - similar to when he "greeted" Minogar back on the farm - the halfling walks up to one of the bandits, and punches him in the groan, explaining that it is just his halfling hello!
+
+"Please! No more torture!" the bandit shouts.
+
+They manage to shuffle around and grab a pouch out of the now dead bandit's pocket. They throw it at the party's feet and it makes a chingling sound as it hits the floor.
+
+Minogar warns them that if they are not helping out Phandalin when he sees them next, he will kill them. And the party decide to let them run off in the direction of the town.
+
+Maryia sees the pouch on the floor, and realises it matches the one she picked up on the log. She opens it up and inside are just a load of rocks.
+
+Minogar opens the other pouch, on the floor, but this one contains ten gold pieces.
+
+The group go around looting all the bandits and find a lot of gold on them.
+
+Mira heads over to the captain and finds more gold on his person. He also finds a "Ball in Cup" similar to one Minogar found from the bandit called "Francis" who attacked them when they were riding with Don-Jon.
+
+The group decide to continue north to Dragon's Barrow, after a short rest.
+
+### Chapter 75
+##### Alagondar
+
+The group arrive at the familiar location of the Barrow, and see the spikes sticking out of the ground. The night has set in and a glow is eminating from the entrance.
+
+They take out the helmet and Maryia is chosen to wear it. Minogar leads the group down the stairs into the barrow itself, cautiously.
+
+The goliath heads down into the entrance room, and can see the three groups of wisps buzzing around. As they all enter the room, the fireflies move over to Maryia and seem to be inspecting the helmet.
+
+A slight scratching sound can be heard from the helmet, and the group realise that they are scraping the paint off of the helmet.
+
+Once all the paint disappears, they stop buzzing and they change.
+
+Before the group, stand three ghosts, a bard, a wizard and a dwarf.
+
+They are standing proud staring at the party.
+
+Maryia tips the helmet at them, and they respond in kind.
+
+Minogar also tries to communicate with them, but they seem to only respond to the one wearing the helm.
+
+"Woah, look at these!" Carp exclaims, "Ghosts! They look really cool!"
+
+Maryia asks the ghosts to lead her to Lady Alagondar, but they do not seem to understand her request. They remain stood in the room looking at her.
+
+Maryia asks Minogar which way, and the goliath explains to head north from here.
+
+As she moves, the ghosts follow her through the place.
+
+The group arrive at their makeshift bridge, and head onwards into the room with the sword.
+
+However, they are greeted by a sinister sight. Surrounding the sword, are the three adventurers that Mira met back in Neverwinter, who were also looking for this sword.
+
+But, they have been sliced into pieces and are now corpses on the floor. It appears they tried to just take it by force, and failed.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/I6HPDGK.png' 
+  style='position:absolute; bottom:-10px; right:-30px;' />
+
+The three ghosts move to the back of the room and watch Maryia.
+
+Carp asks what they are, and Minogar just says they are sleeping.
+
+Mira takes out the chalk, ready.
+
+Maryia goes up to the sword and shouts out for Lady Alagondar, but nothing happens.
+
+She decides to touch the sword. As she does so, the form of Lady Tanamere Alagondar forms infront of her, looking solemn.
+
+"I see you have returned..." she says, "With my helmet."
+
+She holds out her hands towards the helm on Maryia's head, and politely asks if she could take a look.
+
+"Allow me?" Tanamere says.
+
+Maryia removes the helm and holds it out towards the ghost.
+
+Tanamere holds it in her hands, and the party see the hands begin to glow faintly. She focuses intently on the helmet, and the eyes light up.
+
+She hands it back to Maryia, it is now empowered.
+
+> ##### Empowered Dread Helm 
+> This dread helm has now been blessed by Lady Alagondar, and it's power restored.
+>
+> Wearing this helmet gives you advantage on all rolls to hit against Dragons.
+>
+> It's eyes will also glow red if a dragon is nearby.
+
+Tanamere steps back after this and stands with the other ghosts.
+
+Maryia steps forward, helmet equipped and pulls on the sword.
+
+The Dragon Slayer Longsword is now in possession of the Phandalin Hurricane Action Team!!
+
+> ##### Dragon Slayer Longsword
+> You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+>
+> When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns.
+
+
+
+Tanamere carries on talking after Maryia retrieves the sword.
+
+"The Alagondar lineage blesses you, elf, and the rest of your party. I hope these items serve you well, as they did for me in life... We must go now, I leave the fate of the world up to you."
+
+Her and her party fade away, giving one final wave.
+
+Minogar turns to Carp and says mission accomplished!
+
+The group decide to start looting the bodies of the fallen adventurers, but before they can do so, a familiar voice fills the halls.
+
+The laughter of Iarno taunts the party.
+
+"Very good trinkets you have there!"
+
+Minogar asks if he has anything better to do?
+
+"Heh, I'll give you something to do!"
+
+His voice fades away and the group look at one another. The ground around them starts to vibrate, then shake hard.
+
+The floor beneath them begins to raise and the ceiling above them begins to collapse and they can now see the night sky above.
+
+It appears as though the dungeon itself - the dragon's skeleton - is being reanimated!
+
+The group are now outside in the night sky, and the dragon's skeleton lets out a roar, and begins to look around for them!
+
+Maryia's helmet is glowing bright red, and she takes her newfound Longsword and drives it into the tail of the beast.
+
+The sword cleaves through it like it is nothing and shards of bone fly everywhere!
+
+Mira uses a sneak attack on the dragon, and stabs into it with his shortsword!
+
+Minogar rages and moves towards the center of the beast, he comments how big it is!
+
+He smashes his greataxe into its centre of mass and shards of bone fly off some of it's ribs.
+
+Realising where the party is based on it's damage, it turns on the spot and tries to bite Maryia, but she dodges out of the way!
+
+It then claws at Maryia, and slices her across the chest, and follows up with another swipe, but Maryia does manage to dodge this one!
+
+Mira uses his sentinel training to attack the beast in retaliation and stuns the creature in place!
+
+Carp runs up to the head of the beast and swipes at it with his sword, surprising he manages to get a critical hit! He smashes into the side of the skull wiping out half of the dragon's skull, surprising everyone!
+
+Maryia takes her Longsword again, and swings at the beast's head as well.
+
+The sword smashes straight into the skull of the beast and disintegrates it!
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://vignette.wikia.nocookie.net/overlordmaruyama/images/a/af/Skeletal_Dragon_Databook_01.png/revision/latest?cb=20170318001418' 
+  style='position:absolute; bottom:0px; right:-80px; width: 800px' />
+
+With the head destroyed, the dragon just slumps to the ground in a pile of bones.
+
+"We killed a dragon!!" Carp exclaims, "That was the best adventure ever!!"
+
+And he gets that excited that he starts rambling incoherent nonsense.
+
+The group tell him he was very brave and did very well!
+
+They head north back to where the bodies were, and loot them. They find gold pieces but Mira manages to find a couple of gems, a Carnelian and a Ruby.
+
+The group realise they have become tired, and fashion a makeshift shelter with the dragon's bones. They rest for the night.
+
+In the morning, they step outside and are greeted by the morning sun with a slight rain. They realise that Dragon's Barrow as it once was, has been totally destroyed.
+
+To the south, Minogar spots a man riding towards them on a horse. They wait for him to ride closer.
+
+As he rides closer into view, they realise that he is infact not human at all. Instead, it is a centaur riding towards them, he raises his hand to suggest a greeting.
+
+Minogar raises his hand back.
+
+The centaur keeps his hand raises as he approaches the party and begins to speak, he explains that he has been tracking what he believes to be a Wood Elf by the name of Mira.
+
+He says it is odd, but his tracking has lead him here, and it seems his tracking is off as the scent matches the gnome infront of him.
+
+Mira begrudingly explains that it must be him. The centaur asks if the name "Falcon" means anything to him?
+
+Relieved that the centaur seems to not need an explanation for why he is now a gnome, Mira says that he does.
+
+```
+```
+
+The centaur begins to explain, "Falcon has sent me to find you all, it is urgent! Apparently, he told you to visit his home a while ago but you have yet to venture there?"
+
+Mira sighs and explains that they have always had something else to be doing!
+
+"Its Talos! The cult of Talos, they are mustering their forces to attack his home - his lodge!"
+
+The group deliberate whether to help him or not, and Minogar asks how far his lodge is. Knowing where he is, Mira shows him on the map, right in the heart of Neverwinter Woods.
+
+Maryia mentions that they should probably take Carp home, but the halfling protests saying how he now wants to see this "Falcon" character!	
+
+The rest of the group feel that he can take care of himself, so decide to let him stay.
+
+They accept the centaurs offer and prepare to head into the Neverwinter Woods.
 
