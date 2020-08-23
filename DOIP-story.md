@@ -7668,3 +7668,338 @@ The rest of the group feel that he can take care of himself, so decide to let hi
 
 They accept the centaurs offer and prepare to head into the Neverwinter Woods.
 
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/ZEOa334.png' 
+  style='position:absolute; bottom:0px; right: 0px; width: 420px' />
+
+## Session 19 - 13/08/2020
+### Chapter 76
+##### Waterfall
+
+They ask the centaur his name, who reveals that it is "Xanth".
+
+Xanth leads them through the woods in the direction of Falcon's lodge. The group get the feeling that many creatures large and small are constantly watching them as they pass through the magical woods.
+
+They rest for the night inside the woods itself as Xanth and Maryia take turns keeping watch.
+
+The morning arrives, and they are awoken by rain hitting the tent. Mira has noticed that the further into the woods they go, the more the rain seems to fall.
+
+Mira uses his Primeval Awareness to try and sense the presence of creatures nearby, but ends up sensing so much that it is hard to make use of it.
+
+The continue towards Falcon's Lodge, and the canopy above starts to open up. They hear the sounds of a river flowing getting louder and louder.
+
+Soon enough, they come to a stream and look to their left, the stream is being fed by a large waterfall in the distance.
+
+The waterfall falls down a rather large cliff but inside the waterfall itself, seemingly carved by higher beings, is a statue of a knight - half emerging from the falls - holding his sword by the hilt, into the ground.
+
+The water rushes either side of the statue, as if he is holding back the water himself.
+
+Mira spots that on each of it's arms appears to be chests of some kind. As well as this he notices that on the sword's scabard is a message.
+
+The group head upstream to try and read it, "To find what you seek, you must be willing to salute."
+
+Minogar lifts up his arm and salutes at the sun. It starts to hurt his eyes.
+
+Mira asks Xanth for advise, who asks if the party have anything to assist with climbing?
+
+Mira remembers that Minogar has a potion of climbing, who promptly takes it out and drinks it.
+
+Minogar feels empowered and faces the cliff.
+
+Maryia stands ready, to cast a spell on Minogar if he falls.
+
+Minogar begins to ascend the cliff, the rest watch in suspense.
+
+He continues to climb up the cliff as the team give him words of encouragement.
+
+He starts to amble across to the arm of the statue, a raging torrent falls to his left side, that splashes him every now and again.
+
+The surface of it's arm is moss covered and damp, it is very slippery and Minogar can see the chest before him.
+
+It is very precarious, but Minogar is able to get across the slippery arm to the chest. He notices that it is not locked, but shut.
+
+He can't detect anything odd about the chest and begins to open it.
+
+As he does this, Mira and Maryia see the other chest fade away.
+
+Inside the chest, Minogar finds many gold pieces and a diamond placed on top.
+
+Minogar gives a thumbs up to the people below, Maryia stays standing ready and Mira gives a thumbs up back.
+
+The goliath walks back, but is slipping and sliding a lot more, he does manage to get back to the cliff face.
+
+He begins his descent, still under the effects of the potion. He touches the ground once again.
+
+The others congratulate him, and explain that the other chest disappeared.
+
+The group decide to press on and Xanth carries on leading them towards Falcon's Lodge.
+
+### Chapter 77
+##### Falcon
+
+They decide to rest one final time as night is setting in, before visiting Falcon.
+
+In the morning, Xanth points to the rest of the trail, explaining that Falcon's Lodge lies beyond this, he explains that he has fulfilled his promise and guided them to his lodge and that he must now return to his people, to protect them.
+
+He wishes the party luck, and advises the group that Falcon's old helper - Corwin - is a cranky old bat, so to be weary of him.
+
+The group see him trot away to the north east.
+
+A thin fog surrounds a fortified compound standing in a clearing on the east side of a narrow river. A ten-foot-high log palisade surrounds the compound, whose main building is a two-story stone-and-wood affair with a high-pitched roof, gables, window shutters, and a stone chimney. Attached to the main building is a blocky tower of gray stone, its high roof lined with battlements. 
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/NxZUETU.png' 
+  style='position:absolute; bottom:20px; left: 20px; width: 420px' />
+  
+Other structures include a two-story stable house and a gatehouse whose flat roof is enclosed by iron railings. A stone bridge spans the river, ending before an oaken door set into the gatehouse’s outer wall. Mounted next to the door is a bell with a short rope hanging from its clapper.
+
+The group walk across the bridge and Mira rings the bell.
+
+Above them, looking down from the gatehouse, an old man's head appears.
+
+"Yes?...", he asks in an almost fed up tone.
+
+Mira explains that Falcon sent for them.
+
+The old man interupts his explanation, "Names?" he asks - almost as though he has to do this too often.
+
+The group give him their names.
+
+"Ok, one second... follow me." he sighs. As he descends a ladder behind him to let the group into the complex.
+
+Maryia whispers that this must be Corwin, "Pardon?" He asks. But Maryia says it was nothing.
+
+"So what did ode' Falcon want you for?" he asks the group.
+
+Mira explains that they were told that the lodge was under attack.
+
+Corwin looks confused, "Under attack?"
+
+"Attack from who?" he continues.
+
+The group say the cult of Talos.
+
+Corwin leads them into the lodge, a second-floor trophy gallery opens up above an oak dining table surrounded by tall-backed chairs on the main floor. Two iron chandeliers hang from the high rafters.
+
+"Wait here, do not touch anything!" he commands the group as he heads up the stairs.
+
+The group decide to wait, but Minogar wanders around the room looking at the "trophies", heads of large beasts mounted on the walls, each looking more monstrous than the last.
+
+A large human man walks down the stairs, Mira recognises the individual on sight. It is Falcon the Hunter, he wears a fur-lined cloak over his studded leather armor. He stands 6 feet, 6 inches tall, and has black hair and broad shoulders. His eyes are as blue, cold, and sharp as ice, and he sports a neatly trimmed beard. 
+
+```
+```
+
+Falcon moves with the casual confidence of one who fears nothing, and he greets every concern with nonplussed indifference. He loves good wine and treats other people as he would like to be treated — fairly and with patience.
+
+As he descends, he greets the group with confusion, "Can I help you?"
+
+Mira begins to awkwardly explain his current "predicament" of no longer being a wood elf, but as he goes to do so, Misty rushes over to Falcon, who recognises her immediately.
+
+"Haha," he laughs as he gives the panther a fuss, "I would recognise you anywhere! Misty, wasn't it? So where's Mira...?"
+
+Mira explains it is him, and that it is a long story. He explains how a green dragon killed him and he was brought back by druid magic and found himself in his current body.
+
+Falcon grits his teeth slightly and asks, "Venomfang?..."
+
+Mira nods.
+
+"I know of him," Falcon explains. "I must be prompt though, I have brought you all here for a reason. By the way, did Xanth - a centaur - find you all? Because he will still be looking for you if not?"
+
+The group put his worries at ease, and explain that it was indeed Xanth who brought them here.
+
+"Very good, now, I don't know if you will have come across these before, but have you ever encountered the "cult of Talos"?"
+
+The group look bewildered.
+
+"It might help if I explain what I do first, see. Nobles of Neverwinter - the adventurous sort - will come to me in order to explore the woods without fear of being killed or eaten. They are willing to pay a hefty sum for this privilege, and because of this, they could turn up at any moment. So it goes without saying that the longer I spend here in my lodge, the better. To the east of here, a mansion, of similar construction to what you are standing in now, has been overtaken by half-orcs. They worship the god 'Talos' who is the lightning god of war, and it makes me very worried for the forest if they were to gain the power they seek. They could summon all manner of despicable creatures should they succeed. As I am just one man, and need to be kept here. I require a trustworthy group to be able to go over and check what is really going on, maybe dispose of them if needed. Are you that party?"
+
+Maryia looks Falcon up and down, smitten. She was not listening to a word he just said.
+
+Taking this silence as the group being undecided, Falcon decides to sweeten the deal. He brings out a pair of 'Boots of Elvenkind' and offers them as a reward, he explains that these will make the wearer silent when moving. 
+
+Minogar isn't convinced, and is more worried about the white dragon attacking the sword coast. He explains this and says he is not willing to trade their lives for 'slippers'.
+
+Falcon takes off a bow from his back, it glows green and seems to pulsate.
+
+"This is my trusty bow, I call it 'Rhengar', if you were to fire an arrow from this, the chances of hitting your target are magically improved!"
+
+Minogar turns to Mira, as if to say it is up to you.
+
+Seeing the silence fall over the group again, Falcon decides to ask,
+
+"You mentioned a town in the sword coast, can I ask which town is under threat?"
+
+Mira explains the town of Phandalin is under threat from a white dragon.
+
+\page
+
+<div class='pageNumber auto'></div>
+<img 
+  src='https://imgur.com/qBXZw4Z.png' 
+  style='position:absolute; top: -60px; right: -0px;' />
+
+"A 'white' dragon?" Falcon asks, confused.
+
+Mira confirms.
+
+"I had heard of the green dragon, but not of a white. Can I ask, do you know where this dragon resides?"
+
+They say they vaguely know, but aren't exactly sure.
+
+"Hmm, I might be able to offer you a third thing. You say you do not know exactly where this dragon is, perhaps I can help you with that?"
+
+The group look interested.
+
+"I won't be able to tell you where the dragon is, but I might be able to show you somewhere that could yield an answer for you."
+
+The group all start to come around, realising that this could be crucial information that could help with their main objective.
+
+Mira asks how far away this Manse is that he needs them to inspect.
+
+Falcon marks it on their map and says it should be about half a day to travel across to it.
+
+The group take him up on his offer, Falcon explains that the place is just known as the "Woodland Manse", the group bid him farewell and set of east into the forest towards that location.
+
+### Chapter 78
+##### Manse
+
+Following a trail through the woods, they come to a foggy clearing, in the midst of which stands a crumbling two-story manse all but hidden beneath thorny ivy. The large house is set atop a six-foot-high stone foundation, and the main entrance has a balcony above it. Pumpkins grow wild in patches around the manse, with several wild boars feeding among them. The boars snort with contempt as the group draws near.
+
+Mira decides to sneak up to the nearest window and peer inside. What used to be some sort of laboratory lies in ruins, its furnishings broken and heaped against the walls. In the middle of the room, painted on the floor with mud, is a ten-foot-wide symbol depicting three lightning bolts joined at their tips. Where the lightning bolts converge, a half-orc wearing hide armor performs an eerie dance while consuming the entrails of a dead possum. Standing around the half-orc are several small twig figures.
+
+He sneaks back over to the group, and explains what he saw. As he does so, a boar has come over and is interested in the party.
+
+Minogar uses his Speak with Animals ability to converse with it.
+
+He asks the boar what's going on?
+
+"Pumpkins, yummy pumpkins!" the boar replies.
+
+Minogar agrees and asks what is going on in the house, but the boar just keeps telling him how much he loves pumpkins.
+
+"Do you got pumpkins? Give me some pumpkins!" as the boar oinks.
+
+Minogar convinces the boar that there are loads of pumpkins in the house, the boar responds by shouting pumpkins over and over again, the other two just hear the boar start to squeal loudly!
+
+The boar collects all the other boars and gathers them up into a group and they all start smashing the entrance door, this creates a lot of noise and they smash through and run amok inside.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+The group notice that a boar near the entrance did not join in.
+
+Minogar goes up to it, he sees that it is eating a pumpkin, but it seems to not be enjoying it.
+
+The goliath greets the boar, but the boar seems to ignore him.
+
+Minogar accuses it of not being a hog at all.
+
+"Can you understand me?" it asks.
+
+Minogar says he can.
+
+The boar looks shocked, "Ohhhh... I mean - oink!"
+
+Minogar laughs and says not to be afraid.
+
+"I will admit, this is a first." the boar responds.
+
+Minogar says he appears very smart, for a hog.
+
+"Yes... funny that." the boar responds. "What brings you... over here?"
+
+Minogar says that all the boar's friends like pumpkins and that there are a lot of pumpkins in the house, and yet this one seems not to too bothered by the pumpkins.
+
+Panicked the boar explains that he loves pumpkins, and goes to eat one. But is visibly disgusted by the taste.
+
+Minogar begins to head back to the group, who are watching him.
+
+They see that as he turns his back on the boar, the boar starts to stand on it's hind legs and seems to morph.
+
+Maryia shouts across to Minogar as the boar becomes a half-orc, wearing robes that seem to signify the storm god Talos.
+
+It conjures lightning in it's hand and fires it at Minogar, which just misses and flies past his shoulder, hitting the nearby trees.
+
+Minogar turns around and immediately enters a rage. He swings wildly at the half-orc but misses every attack!
+
+Mira fires his longbow at the half-orc and hits him in his shoulder, Maryia follows up with Vicious Mockery and taunts him.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+The half-orc fires another lightning bolt, again this misses Minogar and nearly hits Mira!
+
+Minogar responds with a solid hit from his axe into the half-orcs shoulder, who looks visibly shaken by the sheer power of this hit!
+
+Carp follows this with a shot from his longbow, and the arrow hits the half-orc in the neck as he begins to bleed profusely, Maryia finishes the half-orc with Vicious Mockery, and the sheer psychic trauma caused by her insults causes him to drop dead in the pumpkin patch.
+
+The group now decide to head into the manse, they follow the trail of destruction left by the boars and can hear them still knocking stuff over and running around within.
+
+Stone steps climb to a portico with a stone balcony overhanging it at a height of ten feet. Vines wrap around the balcony’s support pillars and its crumbling stone railing. The ground-floor entrance features a double door with a giant boar’s head crudely carved into it - now smashed through thanks to said boars. An unmarred double door stands closed on the balconyabove.
+
+Mira goes in first and sneaks across to a smashed door, he sees a courtyard beyond it. Stone steps lead down to a flagstoned courtyard that has a pillared arcade to the east. Seven windows on the upper level overlook the courtyard, in the middle of which is a five-foot-wide stone well with thick vines erupting from it.
+
+Guttural snorts and yells erupt from the southeast corner of the manse, signaling the presence of orcs nearby.
+
+Mira recognises that the orcs are speaking in orcish, and appear to be planning some sort of attack.
+
+A boar wanders over to Mira and starts to sniff him, he gets annoyed by it.
+
+Minogar listens to the boar, it is asking Mira for some pumpkins.
+
+Minogar goes over to it and tells it that the pumpkins are with the big green people.
+
+The boar wanders off into the courtyard, Mira takes a look at the vines erupting from the well. He reognises that it is actually a 'Gulthias Tree' the roots of which will extend deep underground. Due to the fact it is growing in a well, it has grown into a malformed version of itself, with twisted wood and narrow gaps between it's curling branches.
+
+Minogar decides to send the boar across to the tree, as it does so, four humanoid vine creatures emerge and surround the boar. They rip the boar to pieces and turn to the two standing at the door. One of the vine creatures notices another boar that has wandered into the courtyard through a different entrance, and runs across to it.
+
+The Vine blights begin by casting a spell that produces grasping vines in the floor around them, it grasps at members of the party that are near the blight and tries to restrain them. The party slice and dice the vines as they are captured and continue fighting.
+
+During the fight, Minogar fights a blight that moves to the southwest of the courtyard near a door that has been smashed in. As it nears death, it runs south into the room and alerts the creatures that Mira saw earlier.
+
+Minogar can hear the sounds of many twig blights that rush through the narrow opening all at once, and the group can pick them off one by one.
+
+He also hears the sounds of a larger creature that appears to eventually run upstairs and above their current position.
+
+When a vine blight is defeated, something takes over Carp again - a similar effect to when he fought those bandits - and his eyes glow pink. He resurrects one of the blights as a zombie like version of itself and he is able to use it to assist the party.
+
+However, this is short lived as the toll of the spell seems to overwhelm the halfling as he collapses shortly after and his thrall seems to attack anything it sees.
+
+The group do manage to defeat all of the larger vine blights and are left with many twig blights surrounding Minogar and Misty.
+
+However, they hear a window open above them and a half-orc begins to shout!
+
